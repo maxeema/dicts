@@ -19,6 +19,8 @@ abbot Q AH B OOH T
 abbots Q AH P B AO TS
 abbruch Q AH P B RR UU X
 abbrüche Q AH P B RR YY CC AX
+abc Q EE IH B EEH TS EEH
+abdrucken Q AH P D RR UU K AX N
 abdrücken Q AH P D RR YY K AX N
 abeba Q AH B EEH B AAH
 abend Q AAH B AX N T
@@ -39,6 +41,7 @@ abendsterns Q AAH B AX N CH T EH EX N S
 abendstunde Q AAH B AX N CH T UU N D AX
 abendzug Q AAH B AX N T TS UUH K
 abenteuer Q AAH B AX N T OY EX
+abenteuerfilme Q AH B AX N T OO OH EX F IH L M AX
 abenteuerliche Q AH B AX N T OO OH EX L IH CC AX
 abenteuerlichen Q AH B AX N T OO OH EX L IH CC AX N
 abenteuern Q AH B AX N T OO OH EX N
@@ -543,9 +546,11 @@ ackerland Q AH K EX L AH N T
 acorn EH IH K OO R N
 acta Q AH K T AAH
 action Q EH K CH N
+actionfilme Q EH K CH N F IH L M AX
 actionscript Q EH K CH N S K RR IH P T
 ad Q AAH D EEH
 ada Q AH D AAH
+adam AE D AX M
 adams AE D AX M Z
 adblock Q EH D B L OO K
 addiere Q AH D IIH EX RR AX
@@ -627,6 +632,7 @@ ahnungslos Q AAH N UU NG S L OOH S
 ahnungslosen Q AAH N UU NG S L OOH Z AX N
 ahnungslosigkeit Q AAH N UU NG S L OOH Z IH G K AY T
 ahnungsschauern Q AAH N UU NG S SH AW EX N
+ahornsirup Q AH HH OO EX N Z IIH RR UU P
 ai EE IH AA IH
 aiml Q AH Q IIH Q EH M Q EH L
 air EH R
@@ -658,6 +664,7 @@ aktienmarkt Q AH K TS Y EH N M AH EX K T
 aktienmärkte Q AH K TS Y EH N M EH EX K T AX
 aktion Q AH K TS Y OOH N
 aktionen Q AH K TS Y OOH N AX N
+aktionfilme Q AH K TS Y OOH N F IH L M AX
 aktionsbereiche Q AH K TS Y OOH N S B AX RR AY CC AX
 aktionsplänen Q AH K TS Y OOH N S P L EHH N AX N
 aktionär Q AH K TS Y OOH N EHH EX
@@ -756,6 +763,7 @@ allererste Q AH L EX Q EH EX S T AX
 allerersten Q AH L EX Q EH EX S T AX N
 allergie Q AH L EH RR G IIH
 allergiker Q AH L EH RR G IIH K EX
+allergisch Q AH L EH RR G IH SH
 allerhand Q AH L EX HH AH N T
 allerlei Q AH L EX L AY
 allerletzten Q AH L EX L EH TS T AX N
@@ -855,6 +863,7 @@ ambulanten Q AH M B UUH L AH N T AX N
 ambulatorium Q AH M B UUH L AH T OOH RR IIH UU M
 ameisen Q AAH M AY Z AX N
 american AX M EH R AX K AX N
+americano AX M EH R AX K AX N AX UU
 amerika Q AH M EEH RR IIH K AAH
 amerikaner Q AH M EEH RR IIH K AAH N EX
 amerikanisch Q AH M EX RR IIH K AAH N IH SH
@@ -1079,6 +1088,7 @@ angelehnten Q AH N G AX L EEH N T AX N
 angeles AE N JH AX L IH S
 angeliefert Q AH N G AX L IIH F EX T
 angelika Q AH N G EEH L IIH K AAH
+angelina Q AH N G EEH L IIH N AAH
 angeln Q AH NG AX L N
 angelächelt Q AH N G AX L EH CC AX L T
 angemalt Q AH NG G AX M AAH L T
@@ -1114,6 +1124,7 @@ angerichtet Q AH N G AX RR IH CC T AX T
 angerichteten Q AH N G AX RR IH CC T AX T AX N
 angerufen Q AH N G AX RR UUH F AX N
 angerufene Q AH N G EX UUH F AX N AX
+angeruft Q AH N G AX RR UU F T
 angerührt Q AH N G AX RR YYH EX T
 angesagt Q AH N G AX Z AH K T
 angeschafft Q AH N G AX SH AH F T
@@ -1162,6 +1173,7 @@ angezündet Q AH N G AX TS YY N D AX T
 anging Q AH N G IH NG
 angleichen Q AH N G L AY CC AX N
 angleichung Q AH N G L AY CC UU NG
+angobot Q AH N G OOH B OOH T
 angolapythons Q AH N G OOH L AH P YYH T OO N S
 angreifen Q AH N G RR AY F AX N
 angreifer Q AH N G RR AY F EX
@@ -1452,6 +1464,7 @@ anziehendes Q AH N TS IIH AX N D AX S
 anziehens Q AH N TS IIH AX N S
 anziehungskraft Q AH N TS IIH UU NG S K RR AH F T
 anzog Q AH N TS OOH K
+anzrufen Q AH N TS RR UUH F AX N
 anzuarbeiten Q AH N TS UUH Q AH EX B AY T AX N
 anzubieten Q AH N TS UUH B IIH T AX N
 anzubringen Q AH N TS UUH B RR IH NG AX N
@@ -1472,6 +1485,7 @@ anzunehmen Q AH N TS UUH N EEH M AX N
 anzupassen Q AH N TS UUH P AH S AX N
 anzureden Q AH N TS UUH RR EEH D AX N
 anzurichten Q AH N TS UUH RR IH CC T AX N
+anzurufen Q AH N TS UUH RR UUH F AX N
 anzurühren Q AH N TS UUH RR YYH RR AX N
 anzuschließen Q AH N TS UUH SH L IIH S AX N
 anzusehen Q AH N TS UUH Z EEH AX N
@@ -1491,6 +1505,7 @@ apache AX P AE CH IY
 apanage Q AH P AH N AH ZH
 apathischen Q AH P AAH T IH SH AX N
 apfel Q AH PF AX L
+apfelkuchen Q AH PF AX L K UUH X AX N
 apfelmus Q AH PF AX L M UUH S
 apfelsaft Q AH PF AX L Z AH F T
 apfelsorte Q AH PF AX L S Q OO EX T AX
@@ -1502,6 +1517,7 @@ apostroph Q AH P OO S T RR OOH F
 apotheken Q AH P OOH T EEH K AX N
 apotheker Q AH P OOH T EEH K EX
 apothekern Q AH P AO T EEH K EX N
+app Q AH P
 apparat Q AH P AH RR AAH T
 apparate Q AH P AH RR AAH T AX
 appartement Q AH P AAH EX T M AX N T
@@ -1510,6 +1526,7 @@ appellieren Q AH P AX L IIH RR AX N
 appetit Q AH P AX T IIH T
 appetitlicher Q AH P AX T IIH T L IH CC EX
 appetits Q AH P AX T IIH T Z
+apple AE P L
 applescript AE P L S K R IH P T
 apprentice Q AX P R EH N T IH S
 april Q AH P RR IH L
@@ -1545,6 +1562,7 @@ arbeitnehmern Q AH EX B AY T N EEH M EX N
 arbeits Q AH EX B AY TS
 arbeitsame Q AH EX B AY TS AAH M AX
 arbeitsames Q AH EX B AY TS AAH M AX S
+arbeitsamste Q AH EX B AY TS AAH M S T AX
 arbeitsamt Q AH EX B AY TS Q AH M T
 arbeitsassistenz Q AH EX B AY TS AH S IH S T EH N TS
 arbeitsaufnahme Q AH EX B AY TS Q AW F N AAH M AX
@@ -1596,6 +1614,7 @@ arbeitsstelle Q AH EX B AY TS SH T EH L AX
 arbeitsstunde Q AH EX B AY TS SH T UU N D AX
 arbeitstasche Q AH EX B AY TS T AH SH AX
 arbeitsteilung Q AH EX B AY TS T AY L UU NG
+arbeitstelle Q AH EX B AY CH T EH L AX
 arbeitsverhältnisse Q AH EX B AY TS F EH EX HH EH L T N IH S AX
 arbeitsverhältnissen Q AH EX B AY TS F EH EX HH EH L T N IH S AX N
 arbeitsverhältnisses Q AH EX B AY TS F EH EX HH EH L T N IH S AX S
@@ -1697,9 +1716,12 @@ artikeln Q AH EX T IIH K AX L N
 artikels Q AH EX T IIH K AX L S
 artikuliert Q AH EX T IIH K UUH L IIH EX T
 artillerie Q AH RR T IH L EX IIH
+artz Q AH EX TS
+artzt Q AH EX TS T
 arzt Q AH EX TS T
 arztbriefen Q AH EX TS T B RR IIH F AX N
 arztes Q AH EX TS T AX S
+arztpraxis Q AH EX TS T P RR AH K S IIH Q S
 arzttermin Q AH EX TS T T EH EX M IIH N
 aschblondem Q AH SH B L OO N D AX M
 aschblonden Q AH SH B L OO N D AX N
@@ -1718,6 +1740,7 @@ assassin Q AX S AE S IH N
 assembler Q AH S EH M B L EX
 assessor Q AH S EH S OOH RR
 assez Q AH S EE
+assistent Q AH S IH S T EH N T
 assistentin Q AH S IH S T EH N T IH N
 assistenztrainer Q AH S IH S T EH N TS T RR EHH N EX
 ast Q AH S T
@@ -1790,6 +1813,7 @@ aufbaute Q AW F B AW T AX
 aufbewahren Q AW F B AX V AAH RR AX N
 aufbewahrt Q AW F B AX V AAH EX T
 aufbewahrung Q AW F B AX V AAH RR UU NG
+aufbieten Q AW F B IIH T AX N
 aufbleiben Q AW F B L AY B AX N
 aufblitzen Q AW F B L IH TS AX N
 aufbohren Q AW F B OOH RR AX N
@@ -1893,6 +1917,7 @@ aufgerieben Q AW F G AX RR IIH B AX N
 aufgeriebenen Q AW F G AX RR IIH B AX N AX N
 aufgerissen Q AW F G AX RR IH S AX N
 aufgerufen Q AW F G AX RR UUH F AX N
+aufgeräumt Q AW F G AX RR OY M T
 aufgerührt Q AW F G AX RR YYH EX T
 aufgerüttelt Q AW F G EX YY T EH L T
 aufgesaugt Q AW F G AX Z AW G T
@@ -2223,6 +2248,7 @@ ausforschen Q AW S F OO EX SH AX N
 ausfragte Q AW S F RR AAH K T AX
 ausfälle Q AW S F EH L AX
 ausfällen Q AW S F EH L AX N
+ausfällig Q AW S F EH L IH CC
 ausführbares Q AW S F YYH EX B AAH RR AX S
 ausführe Q AW S F YYH RR AX
 ausführende Q AW S F YYH RR AX N D AX
@@ -2535,12 +2561,14 @@ aussähe Q AW S Z EHH AX
 aussätzigen Q AW S EH TS IH G AX N
 austausch Q AW S T AW SH
 austauschbar Q AW S T AW SH B AAH EX
+austauschen Q AW S T AW SH AX N
 austeilen Q AW S T AY L AX N
 austin OO S T AX N
 australien Q AW S T RR AAH L IIH Y AX N
 austritt Q AW S T RR IH T
 austrocknen Q AW S T RR OO K N AX N
 ausverkauf Q AW S F EH EX K AW F
+ausverkäufe Q AW S F EH EX K OY F AX
 ausvibriert Q AW S V IH B RR IIH EX T
 auswahl Q AW S V AAH L
 auswahlfeld Q AW S V AAH L F EH L T
@@ -2651,6 +2679,8 @@ autorität Q AW T OOH RR IIH T EHH T
 autors Q AW T OO EX S
 autos Q AW T OOH S
 autosalon Q AW T OOH Z AH L AO NG
+autoschlüssel Q AW T OO SH L YY S AX L
+autoservice Q AW T OOH Z EX V IH Z
 autoventile Q AW T OOH V EH N T IIH L AX
 außen Q AW S AX N
 außenkante Q AW S AX N K AH N T AX
@@ -2672,7 +2702,9 @@ außergewöhnliches Q AW S EX G AX V OHH N L IH CC AX S
 außerhalb Q AW S EX HH AH L P
 außerordentlich Q AW S EX Q OO EX D EH N T L IH CC
 avancen Q AH V AAH S AX N
+avatar Q AH V AH T AAH EX
 avatare Q AH V AH T AAH RR AX
+avencada Q AH V EH N K AH D AH
 avengers Q AH V EH N JH AX R S
 avez Q AH V EE
 aviv Q AH V IIH F
@@ -2695,16 +2727,20 @@ backenzähne B AH K AX N TS EHH N AX
 backfischverstand B AH K F IH SH F EH EX SH T AH N T
 backmischung B AH K M IH SH UU NG
 backofen B AH K Q OOH F AX N
+backon B AH K OOH N
 backsteine B AH K SH T AY N AX
 backt B AH K T
 backup B EH K AH P
 backuprouter B EH K AH P RR UUH T EX
+backwarenabteilung B AH K V EHH EX RR AX N Q AH P T AY L UU NG
+bacon B AH K OO N
 bad B AE D
 bad_1 B AAH T
 badebetrieb B AAH D AX B AX T RR IIH P
 baden B AAH D AX N
 badezimmer B AH D AX TS IH M EX
 bag B AE G
+bagel B AAH G AX L
 bah B AAH
 bahn B AAH N
 bahnbetrieb B AAH N B AX T RR IIH P
@@ -2733,6 +2769,7 @@ ballfiebernden B AH L F IIH B EX N D AX N
 ballkönigin B AH L K OHH N IIH G IH N
 ballmer B AE L M ER
 ballons B AH L OOH N S
+ballsaal B AH L Z AAH L
 ballspiel B AH L SH P IIH L
 ballsportart B AH L SH P OO EX T Q AAH EX T
 ballstaat B AH L SH T AAH T
@@ -2745,6 +2782,7 @@ balustrade B AH L UU S T RR AAH D AX
 bam B AH M
 bambergischer B AH M B EH EX G IH SH EX
 banal B AH N AAH L
+bananen B AH N AAH N AX N
 band B AH N T
 band_1 B EHH N T
 bandbreite B AH N T B RR AY T AX
@@ -2789,6 +2827,8 @@ barfuß B AAH EX F UUH S
 barg B AH EX K
 bargeld B AH EX G EH L T
 bargen B AAH EX G EEH N
+barista B AH RR IH S T AAH
+baristin B AH RR IH S T IH N
 bariton B AH RR IY T OO N
 barkiden B AH EX K IIH D AX N
 barmeciden B AH EX M EH Z IIH D EEH N
@@ -2809,6 +2849,7 @@ barrikaden B AH RR IIH K AAH D AX N
 barroso B AH RR OOH Z OOH
 bars B AH EX S
 barsche B AH RR SH AX
+barsik B AH EX Z IH K
 barst B AH EX S T
 bart B AH EX T
 bartgeier B AH EX T G AY EX
@@ -2904,6 +2945,8 @@ beachtliche B EE Q AH X T L IH CC AX
 beachtlicher B AX AH X T L IH CC EX
 beachtung B AX Q AH X T UU NG
 beackern B AX Q AH K EX N
+beagh B EH IH TH
+beaghs B EH Q AAH K S
 beamte B AX AH M T AX
 beamten B AX Q AH M T AX N
 beamtentum B AX AH M T AX N T UUH M
@@ -2949,6 +2992,7 @@ bebte B EEH B T AX
 becher B EH CC EX
 beck B EH K
 becker B EH K EX
+beckham B EH K HH AAH M
 bedacht B AX D AH X T
 bedachte B AX D AH X T AX
 bedanken B AX D AH NG K AX N
@@ -3022,8 +3066,11 @@ bedürfen B AX D YY RR F AX N
 bedürfnisse B AX D YY EX F N IH S AX
 bedürfnissen B AX D YY RR F N IH S AX N
 bedürftigen B AX D YY RR F T IH G AX N
+beef B EEH F
 beehrt B EH Q EEH RR T
+beeil B AX Q AY L
 beeilen B AX Q AY L AX N
+beeilst B AX Q AY L S T
 beeilte B AX Q AY L T AX
 beeindruckend B AX Q AY N D RR UU K AX N T
 beeindruckt B AX AY N D RR UU K T
@@ -3033,7 +3080,9 @@ beeinflusst B AX Q AY N F L UU S T
 beeinflussung B AX Q AY N F L UU S UU NG
 beeinträchtigt B AX AY N T RR EH CC T IH K T
 beeinträchtigung B AX AY N T RR EH CC T IIH G UU NG
+beende B AX Q EH N D AX
 beenden B AX Q EH N D AX N
+beendest B AX Q EH N D AX S T
 beendet B AX Q EH N D AX T
 beendete B AX Q EH N D AX T AX
 beendigt B AX Q EH N D IH K T
@@ -3148,6 +3197,7 @@ begehrlichkeit B AX G EEH RR L IH CC K AY T
 begehrt B EE G EEH EX T
 begehrte B EE G EEH EX T AX
 begeht B EE G EEH T
+begeistere B AX G AY S T EX RR AX
 begeistern B AX G AY S T EX N
 begeistert B AX G AY S T EX T
 begeisterte B AX G AY S T EX T AX
@@ -3374,6 +3424,7 @@ bekleidet B AX K L AY D AX T
 bekleidete B AX K L AY D AX T AX
 bekleideten B AX K L AY D AX T AX N
 bekleidung B AX K L AY D UU NG
+bekleidungsgeschäft B AX K L AY D UU NG S G AX SH EH F T
 beklommen B AX K L OO M AX N
 beklommenheit B AX K L OO M AX N HH AY T
 bekloppte B AX K L OO P T AX
@@ -3440,6 +3491,7 @@ beliebt B AX L IIH P T
 beliebte B AX L IIH P T AX
 beliebter B AX L IIH P T EX
 beliebtes B AX L IIH P T AX S
+beliebteste B AX L IIH P T AX S T AX
 beliebtesten B AX L IIH P T AX S T AX N
 belief B AX L IIH F
 beliefern B AX L IIH F EX N
@@ -3541,6 +3593,7 @@ beobachtung B AX Q OOH B AH X T UU NG
 beobachtungen B AX Q OOH B AH X T UU NG AX N
 beobachtungsgabe B AX Q OOH B AH X T UU NG S G AAH B AX
 beobachtungsstelle B AX Q OOH B AH X T UU NG S SH T EH L AX
+bepummel B AX P UU M AX L
 bequem B AX K V EEH M
 bequeme B AX K V EEH AX M AX
 bequemen B AX K V EEH M AX N
@@ -3610,6 +3663,7 @@ berger B EH EX G EX
 berges B EH RR G AX S
 bergesgipfel B EX G AX Z G IH PF AX L
 bergesschlucht B EH RR G AX S SH L UU X T
+bergfahrrad B EH RR K F AAH RR AAH T
 berghoff B EH RR G HH OO F
 berglands B EH RR K L AH N TS
 bergregionen B EH RR G RR EE G Y OOH N AX N
@@ -3663,6 +3717,7 @@ beruhigung B AX RR UUH IH G UU NG
 beruht B AX RR UUH T
 beruhte B AX RR UUH T AX
 beruhten B AX RR UUH T AX N
+bervorzuge B EH EX F OOH EX TS UUH G AX
 berücksichtigen B AX RR YY K Z IH CC T IH G AX N
 berücksichtigt B AX RR YY K Z IH CC T IH CC T
 berücksichtigung B AX RR YY K Z IH CC T IIH G UU NG
@@ -3885,6 +3940,8 @@ bestehende B AX SH T EEH AX N D AX
 bestehenden B AX SH T EEH AX N D AX N
 besteht B AX SH T EEH T
 besteigen B AX SH T AY G AX N
+bestell B AX SH T EH L
+bestelle B AX SH T EH L AX
 bestellen B AX SH T EH L AX N
 besteller B AX SH T EH L EX
 bestellt B AX SH T EH L T
@@ -3972,6 +4029,7 @@ betete B EEH T AX T AX
 beteuerungen B AX T OY EX UU NG AX N
 beth B EH TH
 bethesda B EE T EH S D AAH
+beths B EH TH S
 betitelung B AX T IIH T AX L UU NG
 beton B EE T OO NG
 betont B AX T OOH N T
@@ -4100,6 +4158,8 @@ bevorstand B AX F OOH EX SH T AH N T
 bevorstehend B AX F OOH EX SH T EEH AX N T
 bevorstehenden B AX F OOH EX SH T EEH AX N D AX N
 bevorzuge B AX F OOH EX TS UUH G AX
+bevorzugen B AX F OOH EX TS UUH G AX N
+bevorzugst B AX F OOH EX TS UUH K S T
 bevorzugt B AX F OOH EX TS UUH K T
 bevorzugte B AX F OOH EX TS UUH K T AX
 bevorzugung B AX F OOH EX TS UUH G UU NG
@@ -4215,6 +4275,7 @@ bewältigen B AX V EH L T IH G AX N
 bewältigt B AX V EH L T IH CC T
 bewältigung B AX V EH L T IIH G UU NG
 bewölkten B AX V OE L K T AX N
+beyonce B AY OOH N S
 bezahlbar B AX TS AAH L B AAH EX
 bezahlen B AX TS AAH L AX N
 bezahlst B AX TS AAH L S T
@@ -4246,6 +4307,7 @@ bezirksklasse B AX TS IH EX K S K L AH S AX
 bezirksrätin B AX TS IH EX K S RR EHH T IH N
 bezog B AX TS OOH K
 bezogen B AX TS OOH G AX N
+bezos B AX TS OOH S
 bezug B AX TS UUH K
 bezugsgröße B AX TS UUH K S G RR OHH S AX
 bezugspreise B AX TS UUH K S P RR AY Z AX
@@ -4283,6 +4345,7 @@ bibliotheken B IY B L IY AO T EEH K AX N
 bibliothekzimmer B IIH B L IIH OOH T EEH K TS IH M EX
 biblische B IIH B L IH SH AX
 biblischen B IH B L IH SH AX N
+bieber B IIH B EX
 biege B IIH G AX
 biegsamkeit B IIH K Z AAH M K AY T
 biegung B IIH G UU NG
@@ -4434,10 +4497,12 @@ bittersten B IH T EX S T AX N
 bittet B IH T AX T
 bittrem B IH T RR AX M
 bizarres B IH TS AH RR AX S
+bißchen B IH S CC AX N
 bjp B EEH Y OO T P EEH
 björn B Y OE EX N
 black B L EH K
 blade B L EE IH D
+blair B L EH R
 blamabel B L AH M AAH B AX L
 blanche B L AH SH
 blank B L AH NG K
@@ -4445,6 +4510,7 @@ blanke B L AH NG K AX
 blankem B L AH NG K AX M
 blanker B L AH NG K EX
 blankoscheck B L AH NG K OOH SH EH K
+blase B L AAH Z AX
 blasen B L AAH Z AX N
 blasphemie B L AAH S F EEH M IIH
 blass B L AH S
@@ -4605,6 +4671,7 @@ bmw B EEH Q EH M V EEH
 bnd B EEH Q EH N D EEH
 bob B AA B
 bobby B OOH B P IIH
+bobs B OO B S
 bochum B OOH X UU M
 bock B OO K
 bocke B OO K AX
@@ -4650,6 +4717,7 @@ boondock B UUH N D OO K
 boot B OOH T
 boote B OOH T AX
 booten B OOH T AX N
+borat B OOH RR AAH T
 borch B OO EX CC
 borchert B OO EX CC EX T
 bord B OO EX T
@@ -4692,6 +4760,7 @@ bourne B OO R N
 bowle B OOH L AX
 box B OO K S
 boxen B OO K S AX N
+boxer B OO K S EX
 boy B OY
 boîte B W AH T
 brach B RR AAH X
@@ -4715,6 +4784,7 @@ brandgeruch B RR AH N T G AX RR UU CC
 brandingagenturen B R AE N D IH NG Q AAH G EH N T UUH RR AX N
 brandmarken B RR AH N T M AH EX K AX N
 brandmauer B RR AH N T M AW EX
+brandon B R AE N D AX N
 brandschutz B RR AH N CH UU TS
 brandstätte B RR AH N TS T EH T AX
 brandt B RR AH N T
@@ -4743,6 +4813,7 @@ braun B RR AW N
 braunbrustigel B RR AW N B RR UU S T Q IIH G AX L
 braunbär B RR AW N B EHH EX
 braune B RR AW N AX
+braunem B RR AW N AX M
 braunen B RR AW N AX N
 braunschweig B RR AW N SH V AY K
 brausen B RR AW Z AX N
@@ -4763,6 +4834,7 @@ brd B EEH Q EH EX D EEH
 break B R EH IH K
 breaking B R EE IH K IH NG
 brechen B RR EH CC AX N
+breeze B RR EEH TS AX
 brei B RR AY
 breit B RR AY T
 breitband B RR AY T B AH N T
@@ -4787,6 +4859,8 @@ bremsmantel B RR EH M S M AH N T AX L
 bremst B RR EH M S T
 bremsträger B RR EH M S T RR EHH G EX
 bremswirkung B RR EH M S V IH EX K UU NG
+brenda B RR EH N D AAH
+brendan B RR EH N D AAH N
 brennbaren B RR AX N B AAH RR AX N
 brenne B RR EH N AX
 brennen B RR EH N AX N
@@ -4821,6 +4895,7 @@ briefumschlag B RR IIH F Q UU M SH L AAH K
 brigitte B RR IIH G IH T AX
 brillant B RR IH L Y AH N T
 brillantes B RR IH L AAH N T AX S
+brillantring B RR IH L AAH N T RR IH NG
 brille B RR IH L AX
 brillenfutteral B RR IH L AX N F UU T EH RR AAH L
 brillenfutterale B RR IH L AX N F UU T AX RR AAH L AX
@@ -4831,17 +4906,22 @@ bringe B RR IH NG AX
 bringen B RR IH NG AX N
 bringend B RR IH NG AX N T
 bringing B R IH NG IH NG
+bringst B RR IH NG S T
 bringt B RR IH NG T
 brisant B RR IIH Z AH N T
 brisanz B RR IIH Z AH N TS
 brise B RR IIH Z AX
 bristol B R IH S T AX L
 britanniens B RR IH T AH N IIH EH N S
+brite B RR IIH T AX
 briten B RR IIH T AX N
 britische B RR IIH T IH SH AX
 britischen B RR IIH T IH SH AX N
+britischer B RR IIH T IH SH EX
 britta B RR IH T AAH
+broadway B R AW D W EH IH
 brobdignag B R OO B D IH G N AE K
+broccoli B R OO K AX UU L IY
 brocklebridge B R OO K AX L B R IH JH
 brocklehurst B R OO K L AX HH OH R S T
 brocklehursts B R OO K L AX HH ERH S TS
@@ -4892,6 +4972,7 @@ brutsaison B RR UUH T Z EH Z OOH
 brutstätte B RR UUH CH T EH T AX
 bruttoinlandsprodukt B RR UU T OOH Q IH N L AH N TS P RR OOH D UU K T
 bruttovermögen B RR UU T OOH F EH EX M OHH G AX N
+bryant B R AA IH AX N T
 brächte B RR EH CC T AX
 bränden B RR EH N D AX N
 bräunlichen B RR OY N L IH CC AX N
@@ -4903,6 +4984,7 @@ brüchiger B RR YY CC IH G EX
 brücke B RR YY K AX
 brücken B RR YY K AX N
 brüder B RR YYH D EX
+brühe B RR YYH AX
 brühen B RR YYH AX N
 brüllte B RR YY L T AX
 brünetter B RR YYH N EH T EX
@@ -4925,6 +5007,8 @@ buchenblätter B UUH X AX N B L EH T EX
 buches B UUH X AX S
 buchführung B UUH X F YYH RR UU NG
 buchgeld B UUH X G EH L T
+buchhalter B UUH X HH AH L T EX
+buchhalterin B UUH X HH AH L T AX RR IH N
 buchhaltung B UUH X HH AH L T UU NG
 buchhandlung B UUH X HH AH N D L UU NG
 buchstabe B UUH X SH T AAH B AX
@@ -5001,7 +5085,9 @@ burengebiet B UUH RR AX N G AX B IIH T
 burg B UU EX K
 burger B ER G ER
 burkhard B UU RR K HH AH EX T
+burlington B UU EX L IH NG T AX N
 burns B UU RR N S
+burrito B UU RR IY T OOH
 bursche B UU EX SH AX
 burschen B UU EX SH AX N
 burschenschaftler B UU EX SH AX N SH AH F T L EX
@@ -5010,6 +5096,7 @@ busbahnhof B UU S B AAH N HH OOH F
 busbetreiber B UU S B AX T RR AY B EX
 busch B UU SH
 buschiger B UU SH IH G EX
+business B UUH Z IIH N EH S
 buslinien B UU S L IIH N IH AX N
 busreisende B UU S RR AY Z AX N D AX
 busreisenden B UU S RR AY Z AX N D AX N
@@ -5100,6 +5187,8 @@ bürgers B YY EX G EX S
 bürgertum B YY EX G EX T UU M
 bürgschaft B YY EX K SH AH F T
 büro B YYH RR OOH
+büroangestellter B YYH RR OOH Q AH NG G AX SH T EH L T EX
+büroangestellterg B YYH RR OOH Q AH NG G AX SH T EH L T EX K
 bürobereich B YYH RR OOH B AX RR AY CC
 büroeinsatz B YYH RR OOH Q AY N Z AH TS
 bürokrat B YY RR OOH K RR AAH T
@@ -5119,6 +5208,7 @@ c TS EEH
 c_1 S IY
 cadeau K AAH D EEH AW
 cadeaux K AH D AO
+cafe K AH F EEH
 café K AH F EEH
 calc K EH RR L K
 calc_1 K AH L K
@@ -5127,6 +5217,7 @@ caligula K AH L IIH G UUH L AAH
 cambridge K EH IH M B R IH JH
 camcorder K EH M K OO EX D EX
 came K EE IH M
+cameron K AH M EH RR O N
 camorra K AH M OO RR AAH
 campher K AH M F EX
 camée K AAH M EEH AX
@@ -5138,14 +5229,22 @@ cannae K AH N EHH
 canzonette K AH Z OO N EH T
 capital K AE P AX T AX L
 capitals K AE P AX T AX L Z
+cappuccino K AH P UUH S IIH N OOH
 captain K AE P T AX N
 car K AA R
+cara K AH RR AAH
+carbonara K AA R B AA N EH R AX
 cardiff K AA R D IH F
 cargo K AA R G AX UU
 caritas K AH RR IIH T AAH S
 carl K AH EX L
+carla K AH RR L AAH
+carlas K AH RR L AAH S
 carlo K AH RR L OOH
+carlos K AH RR L OOH S
+carne K AH RR N AX
 carol K AE R AX L
+carols K AE R AX L Z
 carpenter K AA R P AX N T ER
 carrarischem K EX RR AAH RR IH SH AX M
 carrie K EH R IY
@@ -5154,10 +5253,12 @@ carter K AH EX T EX
 cartoon K AH EX T UUH N
 cartoons K AH RR T UUH N S
 casablanca K AH S AH B L AH N K AAH
+cashewnüsse K AE SH AX V N YY S AX
 casino K AX S IY N AX UU
 castlegarden K AE S AX L G AA R D AX N
 castortransport K AH S T OOH EX T RR AH N S P OO RR T
 catherine K EH TH R IH N
+cathy K AA DH IY
 caudo K AW D OOH
 cc TS EEH TS EEH
 cd TS EEH D EEH
@@ -5165,6 +5266,7 @@ cds TS EEH D EEH S
 cdu TS EEH D EEH Q UUH
 ce K EH
 cebit TS EEH B IH T
+cecil S EE S IY L
 cecile S EE S IY L
 cela K EH L AAH
 celine S EE L IY N
@@ -5173,16 +5275,19 @@ celsius TS EH L Z IIH UU S
 cen TS EEH Q EEH Q EE N
 cent S EH N T
 center S EH N T EX
+ceo TS EEH OOH
 cercas TS EEH RR K AAH
 cerises S AX RR IY Z
 certainement S EH RR T EH N AX M AH
 ces S EE
 cest S EH S
 cetera TS EEH T AX RR AAH
+cha CH AE
 cham CH AE M
 chance SH AO S
 chancen SH AO S AX N
 chancengleichheit SH AAH S AX N G L AY CC HH AY T
+chanel SH AAH N AX L
 changeant SH AH ZH AH
 chaos K AAH Q OO S
 chaplin CH AE P L AX N
@@ -5229,6 +5334,7 @@ chicago SH AX K AA G AX UU
 chiefs CH IY F S
 chiffonnièren K IH F OOH N IIH RR AX N
 chiffonné SH IY F OO N EE
+chili CC IIH L IIH
 chillout CH IH L Q AW T
 china CC IIH N AAH
 chinatown CH AY N AAH T AW N
@@ -5238,6 +5344,8 @@ chinesische CC IIH N EEH Z IH SH AX
 chinesischen CC IIH N EEH Z IH SH AX N
 chinesischer CC IIH N EEH Z IH SH EX
 chip CH IH P
+chips CH IH P S
+chirurg CH IY RR UU EX K
 chirurgie CC IIH RR UU EX G IIH
 chloe K L AO IIH
 chloroforms K L OOH RR OOH F OO EX M S
@@ -5262,6 +5370,7 @@ christlicher K RR IH S T L IH CC EX
 christoph K RR IH S T OO F
 christopher K RR IH S T OO F EX
 christus K RR IH S T UU S
+christy K R IH S T IY
 chrome K RR OOH M
 chromium K RR OOH M IIH UU M
 chronik K RR OOH N IH K
@@ -5271,6 +5380,7 @@ cia S IIH Q AY Q EH IH
 ciao CH AW
 ciel S Y EH L
 cincinnati S IH N S AX N AE T IY
+cindy S IH N D IY
 cinema Z IH N AX M AAH
 cinq S EE K
 circa TS IH RR K AAH
@@ -5288,22 +5398,29 @@ clerks K L EH RR K S
 clever K L EH V EX
 client K L IIH EH N T
 clients K L AY AX N TS
+cliffs K L IH F S
 clint K L IH N T
 clinton K L IH N T AX N
 cloudy K L AW D IIH
+clover K L VV V ER
 club K L UU P
 cnc TS EEH EH N TS EEH
 co K OOH
 co2 TS EEH Q OOH TS V AY
+coach K AH UH CH
 cobain K AX UU B EH IH N
 cobol K AX UU B AA L
 cochère K OO SH EH RR
+coco K OOH
+code K OOH D
 codec K OOH D EH K
 codecs K OOH D EH K S
 codename K AO UU D N EH IH M
 codes K AX UU D Z
 codierung K AO D IIH RR UU NG
+cody K AX UU D IY
 coffre K OOH F RR AX
+cola K VV L AX
 colombiana K AX L AH M B IY AX N AH
 color K VV L ER
 colorado K AA L ER AA D AX UU
@@ -5341,6 +5458,7 @@ containerschiffen K OO N T EE IH N EX SH IH F AX N
 control K AX N T R AX UU L
 conway K AA N W EH IH
 cool K UUH L
+cooles K UUH L AX S
 coolste K UUH L S T AX
 cooper K UUH P EX
 cop K AO P
@@ -5362,6 +5480,7 @@ cpc TS EEH P EEH TS EEH
 cpu TS EEH P EEH Q UUH
 crank K R AE NG K
 creede K RR EEH D AX
+crem K RR EEH M
 criminal K R IH M IH N AE L
 cristina K RR IH S T IIH N AAH
 crois K RR W AH
@@ -5371,6 +5490,7 @@ crowwings K R AO UU W IH NG S
 crystal K R IH S T AX L
 csu TS EH EEH S UUH
 cu S IIH Y UUH
+curry K ER IY
 cyber S AY B EX
 d D EEH
 d_1 D IY
@@ -5424,6 +5544,7 @@ damit D AH M IH T
 damm D AH M
 dampf D AH M PF
 dampfte D AH M PF T AX
+dana D AH N AAH
 danach D AH N AAH X
 dance D AAAH N S
 dance_1 D AE N S
@@ -5456,6 +5577,7 @@ daraus D AH RR AW S
 darbietet D AAH EX B IIH T AX T
 darbot D AAH EX B OOH T
 darboten D AAH EX B OOH T AX N
+dard D AH EX T
 darein D AAH EX Q AY N
 darf D AH RR F
 darfst D AH RR F S T
@@ -5539,6 +5661,7 @@ dauerten D AW EX T AX N
 daunenweichen D AW N AX N V AY CC AX N
 dave D EE IH F
 david D AAH V IH T
+davids D AH V IIH T Z
 davon D AH F OO N
 davongelaufen D AH F OO N G AX L AW F AX N
 davongetragen D AH F OO N G AX T RR AAH G AX N
@@ -5597,6 +5720,7 @@ degen D EEH G AX N
 degenerieren D EEH G EE N EX RR IIH RR AX N
 degradiert D EEH G RR AH D IIH EX T
 dehnte D EEH N T AX
+dei D AY
 dein D AY N
 deine D AY N AX
 deinem D AY N AX M
@@ -5606,6 +5730,7 @@ deines D AY N AX S
 deinetwegen D AY N EH T V EEH G AX N
 deininger D AY N IH NG EX
 deins D AY N S
+deises D AY Z AX S
 deklamierte D EH K L AH M IIH EX T AX
 deklaration D EH K L AH RR AH TS Y OOH N
 deklarieren D EH K L AH RR IIH RR AX N
@@ -5631,6 +5756,7 @@ demand D IH M AAH N D
 demandé D AX M AH D EE
 demantene D EH M AH N T AX N AX
 demantenwald D EH M AH N T AX N V AH L T
+dembe D EEH M B AX
 demetrios D IH M EEH T RR IIH OOH S
 demgegenüber D EEH M G EEH G AX N Q YYH B EX
 demnach D EEH M N AH X
@@ -5713,6 +5839,8 @@ desaster D EEH Z AAH S T EX
 desertion D EEH Z EH EX TS Y OOH N
 deshalb D EH S HH AH L P
 design D IIH Z AY N
+designer D IY Z AY N EX
+designerin D IY Z AY N AX RR IH N
 designern D IY Z AY N EX N
 designierten D EEH Z IH G N IIH EX T AX N
 designs D IY Z AY N S
@@ -5736,6 +5864,7 @@ detail D EEH T AY
 detailfragen D EEH T AY F RR AAH G AX N
 detaillierte D EH T AY L IIH EX T AX
 details D EEH T AY S
+detective D EEH T EH K T IIH V AX
 detlef D EH T L EE F
 deuten D OY T AX N
 deutend D OY T AX N T
@@ -5785,8 +5914,10 @@ diamantenbesetztes D IIH AH M AH N T AX N B AX Z EH TS T AX S
 diamantring D IIH AH M AH N T RR IH NG
 diametral D IIH AH M EEH T RR AAH L
 diana D IY AAH N AAH
+dianes D IIH AH N AX S
 diashow D IIH AH SH OO UU
 diavorführung D IIH AH F OOH EX F YYH RR UU NG
+dicaprio D IH K AX P R IY AX UU
 dich D IH CC
 dicht D IH CC T
 dichte D IH CC T AX
@@ -5821,6 +5952,7 @@ dienerschaft D IIH N EX SH AH F T
 dienlich D IIH N L IH CC
 dienst D IIH N S T
 dienstag D IIH N S T AAH K
+dienstagabend D IIH N S T AAH K Q AAH B AX N T
 dienstags D IIH N S T AAH G S
 dienstbar D IIH N S T B AAH EX
 dienstbare D IIH N S T B AAH RR AX
@@ -5845,6 +5977,7 @@ dienstleuten D IIH N S T L OY T AX N
 dienstliche D IIH N S T L IH CC AX
 dienstmagd D IIH N S T M AH K T
 dienstmädchen D IIH N S T M EHH D CC AX N
+dienstreise D IIH N S T RR AY Z AX
 dienstreisen D IIH N S T RR AY Z AX N
 dienststelle D IIH N S CH T EH L AX
 dienstvertrag D IIH N S T F EH EX T RR AAH K
@@ -5966,6 +6099,7 @@ divisionsexempel D IIH V IIH Z Y OOH N S Q EH K S EH M P AX L
 diät D IH EHH T
 diözesanvorsitzende D IH OHH TS AX Z AAH N F OO EX Z IH TS AX N D AX
 diözese D IH Q OHH TS EEH Z AX
+djames JH EH IH M S
 django JH AH NG G OO
 dlf D EEH Q EH L Q EH F
 dm D EEH Q EH M
@@ -5983,6 +6117,8 @@ doktors D OO K T OO EX S
 doktrin D OO K T RR IIH N
 doktrinen D OO K T RR IIH N AH
 dokument D OOH K UUH M EH N T
+dokumentarfilm D OOH K UUH M EH N T AAH RR F IH L M
+dokumentarfilme D OOH K UUH M EH N T AAH RR F IH L M AX
 dokumentation D OOH K UUH M EH N T AH TS Y OOH N
 dokumentationen D OOH K UUH M EH N T AH TS Y OOH N AX N
 dokumentationsaufwand D OOH K UUH M EH N T AH TS Y OOH N S Q AW F V AH N T
@@ -5995,6 +6131,7 @@ dollars D OO L AAH EX S
 dollarzeichen D OO L AH EX TS AY CC AX N
 dolmetscher D OO L M EH CH EX
 dolomit D OO L OOH M IH T
+dolores D AO L OOH RR AX S
 dolphin D OO L F IH N
 dom D OOH M
 domain D OOH M EE IH N
@@ -6003,8 +6140,10 @@ dome D OOH M AX
 dominieren D OOH M IIH N IIH RR AX N
 dominiert D OOH M IIH N IIH EX T
 dominierten D OOH M IIH N IIH EX T AX N
+dominikanische D OOH M IIH N IIH K AAH N IH SH AX
 dominosteine D OOH M IIH N OOH SH T AY N AX
 dommage D OO M AH ZH
+don D OO N
 donald D AA N AX L D
 donald_1 D OOH N AH L T
 donau D OOH N AW
@@ -6012,12 +6151,15 @@ donaustrategie D OOH N AW SH T RR AAH T EEH G IIH
 donc D AO K
 donegals D OOH N AX G AAH L S
 donna D OO N AAH
+donnas D OO N AAH S
 donnerschlag D OO N EX SH L AAH K
 donnerstag D OO N EX S T AAH K
 donnerstagnachmittagen D OO N EX S T AAH K N AAH X M IH T AAH G AX N
 donnerstags D OO N EX S T AAH K S
 donnerte D OO N EX T AX
 donnerwetter D OO N EX V EH T EX
+donut D OOH N UUH T
+donuts D OOH N UUH TS
 doof D OOH F
 doom D UH M
 doppelhelix D OO P AX L HH EEH L IH K S
@@ -6055,11 +6197,13 @@ dot D OO T
 dotieren D AO T IIH RR AX N
 dotierung D AO T IIH RR UU NG
 douglas D VV G L AX S
+dover D VV V ER
 down D AW N
 download D AW N L OOH T
 downloaden D AW N L AX UU D AX N
 downloads D AW N L OOH TS
 dpa D EEH P EEH Q AAH
+dr D EEH Q EH EX
 drachen D RR AH X AX N
 dragon D RR EH G N
 dragonplayer D R EH G AX N P L EEH EX
@@ -6074,6 +6218,7 @@ dramatische D RR AH M AH T IH SH AX
 dramatischen D RR AH M AAH T IH SH AX N
 dramatischer D RR AH M AH T IH SH EX
 dramaturgie D RR AAH M AH T UU EX G IIH
+dramen D RR AAH M AX N
 dran D RR AAH N
 drang D RR AH NG
 drange D RR AH NG AX
@@ -6088,6 +6233,7 @@ draußen D RR AW S AX N
 drechsler D RR EH K S L EX
 dreh D RR EEH
 drehbuch D RR EEH B UU X
+drehbuchautor D RR EEH B UUH X Q AW T OOH EX
 drehe D RR EEH AX
 drehen D RR EEH AX N
 drehenden D RR EEH AX N D AX N
@@ -6146,6 +6292,7 @@ dreißig D RR AY S IH CC
 dreißigsten D RR AY S IH CC S T AX N
 dresden D RR EEH S D AX N
 dresdner D RR EEH S D N EX
+drietten D RR IIH T AX N
 driften D RR IH F T AX N
 drin D RR IH N
 dringen D RR IH NG AX N
@@ -6216,6 +6363,7 @@ dsl D EEH Q EH S Q EH L
 du D UUH
 dualen D UUH AAH L AX N
 dualistische D UUH AH L IH S T IH SH AX
+duane D UUH AAH N AX
 dubstep D AH P S T EH P
 duck D VV K
 due D Y UH
@@ -6440,6 +6588,7 @@ düstre D YY S T RR AX
 e Q IIH
 e_1 Q EEH
 eagfl Q EEH Q AAH G EEH Q EH F Q EH L
+earbeitet Q EX B AY T AX T
 eastwood IY S T W UU D
 easy Q IIH Z IIH
 ebay Q IIH B EE IH
@@ -6573,6 +6722,7 @@ eichenholz Q AY CC AX N HH OO L TS
 eichenholze Q AY CC AX N HH OO L TS AX
 eichenschlägen Q AY CC AX N SH L EHH G AX N
 eichentreppe Q AY CC AX N T RR EH P AX
+eichhörnchen Q AY CC HH OHH RR N CC AX N
 eid Q AY T
 eidechsen Q AY D EH K S AX N
 eidergänse Q AY D EX G EH N Z AX
@@ -6640,6 +6790,7 @@ eilig Q AY L IH CC
 eiligst Q AY L IH CC S T
 eilte Q AY L T AX
 eilten Q AY L T AX N
+eim Q AY M
 eimer Q AY M EX
 ein Q AY N
 einander Q AY N AH N D EX
@@ -6889,6 +7040,7 @@ einholen Q AY N HH OOH L AX N
 einhundert Q AY N HH UU N D EX T
 einhundertneunzig Q AY N HH UU N D EX T N OY N TS IH CC
 einhundertsechsundachzig Q AY N HH UU N D EX TS Z EH K S Q UU N T Q AH X TS IH CC
+einhundertzwölf Q AY N HH UU N D EX T TS V OE L F
 einig Q AY N IH CC
 einige Q AY N IH G AX
 einigem Q AY N IH G AX M
@@ -6904,6 +7056,7 @@ einkalkuliert Q AY NG K AAH L K UUH L IIH EX T
 einkauf Q AY N K AW F
 einkaufen Q AY N K AW F AX N
 einkaufswagen Q AY N K AW F S V AAH G AX N
+einkaufszentrum Q AY N K AW F S TS EH N T RR UU M
 einkehren Q AY NG K EEH RR AX N
 einkehrten Q AY N K EEH EX T AX N
 einklang Q AY N K L AH NG
@@ -6926,6 +7079,7 @@ einlagern Q AY N L AAH G EX N
 einlass Q AY N L AH S
 einlassen Q AY N L AH S AX N
 einlaufen Q AY N L AW F AX N
+einlaßkarte Q AY N L AAH S K AH EX T AX
 einlegen Q AY N L EEH G AX N
 einleiten Q AY N L AY T AX N
 einleitende Q AY N L AY T AX N D AX
@@ -7100,6 +7254,7 @@ einzelfallumstände Q AY N TS AX L F AH L Q UU M SH T EH N D AX
 einzelfälle Q AY N TS AX L F EH L AX
 einzelhandel Q AY N TS AX L HH AH N D AX L
 einzelheiten Q AY N TS AX L HH AY T AX N
+einzelkind Q AY N TS AX L K IH N T
 einzeln Q AY N TS AX L N
 einzelne Q AY N TS AX L N AX
 einzelnen Q AY N TS AX L N AX N
@@ -7192,6 +7347,7 @@ eitel Q AY T AX L
 eitelkeit Q AY T AX L K AY T
 eitle Q AY T L AX
 eiweiß Q AY V AY S
+ek Q EH K
 ekel Q EEH K AX L
 ekelerregende Q EEH K AX L Q EH RR EEH G AX N D AX
 ekelhaft Q EEH K AX L HH AH F T
@@ -7219,6 +7375,7 @@ eleganten Q EEH L EEH G AH N T AX N
 eleganter Q EEH L EEH G AH N T EX
 eleganz Q EH L EEH G AH N TS
 elektrifiziert Q EH L EH K T RR IY F IY TS IIH EX T
+elektriker Q EH L EH K T RR IIH K EX
 elektrische Q EH L EH K T RR IH SH AX
 elektrischen Q EH L EH K T RR IH SH AX N
 elektrizität Q EH L EH K T RR IH TS IIH T EHH T
@@ -7261,6 +7418,7 @@ elisabeth IH L IH Z AX B IH TH
 elite Q EEH L IIH T AX
 eliten Q EEH L IIH T AX N
 eliza Q EEH L AY Z AAH
+elizabeth Q EEH L AY Z AAH B AX T
 elle Q EH L AX
 ellen Q EH L AX N
 ellenbogen Q EH L AX N B OOH G AX N
@@ -7283,6 +7441,7 @@ emails Q IIH M EE IH L S
 emailzugänge Q IIH M EE IH L TS UUH G EH NG AX
 emanzipatorischer Q EH M AH N TS IH P AH T OOH RR IH SH EX
 emanzipierte Q EH M AH N TS IH P IIH EX T AX
+emily Q EH M IH L IIH
 emissionsgrenzwerte Q EH M IH S Y OOH N S G RR EH N TS V EH EX T AX
 emissionsnorm EE M IH S Y OOH N S N OO EX M
 emissionsnormen M IH S Y OOH N S N OO EX M AX N
@@ -7307,6 +7466,7 @@ empfangszuständigkeit M PF AH NG S TS UUH SH T EH N D IH G K AY T
 empfangt Q EH M PF AH NG T
 empfehle M PF EEH L AX
 empfehlen Q EH M PF EEH L AX N
+empfehlst Q EH M PF EEH L S T
 empfehlung Q EH M PF EEH L UU NG
 empfehlungen M PF EEH L UU NG AX N
 empfehlungskarten Q EH M PF EEH L UU NG S K AH EX T AX N
@@ -7373,6 +7533,7 @@ endende Q EH N D AX N D AX
 endentscheid Q EH N D Q EH N CH AY T
 endet Q EH N D AX T
 endete Q EH N D AX T AX
+endgame Q EH N T G AAH M AX
 endgerät Q EH N T G EX EH T
 endgültig Q EH N T G YY L T IH CC
 endgültige Q EH N T G YY L T IH G AX
@@ -7782,6 +7943,7 @@ erdapfel Q EH EX D Q AH PF AX L
 erdatmosphäre Q EH EX T Q AH T M OO S F EHH RR AX
 erdballes Q EH EX T B AH L AX S
 erdballs Q EH EX T B AH L S
+erdbeereis Q EH EX T B EEH RR AY S
 erdbeeren Q EH EX T B EEH EX RR AX N
 erde Q EEH EX D AX
 erden Q EH EX D AX N
@@ -7829,7 +7991,9 @@ erfolglos Q EH EX F OO L K L OOH S
 erfolgreich Q EH EX F OO L K RR AY CC
 erfolgreiche Q EH EX F OO L K RR AY CC AX
 erfolgreichen Q EH EX F OO L K RR AY CC AX N
+erfolgreicher Q EH EX F OO L K RR AY CC EX
 erfolgreiches Q EH EX F OO L K RR AY CC AX S
+erfolgreichste Q EH EX F OO L K RR AY CC S T AX
 erfolgsgeschichte Q EH EX F OO L K S G AX SH IH CC T AX
 erfolgsort Q EH EX F OO L K S Q OO EX T
 erfolgt Q EH EX F OO L K T
@@ -7956,6 +8120,7 @@ erhöhten Q EH EX HH OHH T AX N
 erhöhung Q EH EX HH OHH UU NG
 eric EH R IH K
 erich Q EEH RR IH CC
+erics Q EEH RR IH K S
 erika Q EEH RR IIH K AAH
 erinnere Q EH EX Q IH N EX RR AX
 erinnern Q EH EX Q IH N EX N
@@ -8201,6 +8366,7 @@ erschrak Q EH EX SH RR AAH K
 erschraken Q EX SH RR AAH K AX N
 erschrecken Q EH EX SH RR EH K AX N
 erschreckend Q EH EX SH RR EH K AX N T
+erschreckendeste Q EX SH RR EH K AX N D AX S T AX
 erschrecklich Q EX SH RR EH K L IH CC
 erschreckt Q EH EX SH RR EH K T
 erschrocken Q EH EX SH RR OO K AX N
@@ -8423,6 +8589,7 @@ esf Q EEH Q EH S Q EH F
 eshton Q EH SH T AX N
 eshtons Q EH SH T AX N Z
 espenlaub Q EH S P AX N L AW P
+espresso Q EH S P RR EH S OOH
 essay Q EH S EH IH
 essbar Q EH S B AAH EX
 essen Q EH S AX N
@@ -8477,6 +8644,7 @@ europäischem Q OI RR OOH P EHH IH SH AX M
 europäischen Q OY RR OOH P EEH IH SH AX N
 europäischer Q OY RR OOH P EHH IH SH EX
 europäisches Q OY RR OOH P EHH IH SH AX S
+eurotrip Q OY RR OOH T RR IH P
 eurozone Q OY RR OOH TS OOH N AX
 eutychus Q EH T YYH CC UU S
 ev Q EEH F AW
@@ -8489,6 +8657,7 @@ evangeliums Q EEH V AH NG G EEH L IIH UU M S
 evans EH V AX N Z
 eventuell Q EEH V EH N T UUH EH L
 eventuelle Q EEH V EH N T UUH EH L AX
+ewas Q UH Z
 ewig Q EEH V IH CC
 ewige Q EEH V IH G AX
 ewigen Q EEH V IH G AX N
@@ -8516,6 +8685,7 @@ exit Q EH K S IH T
 exklave Q EH K S K L AAH V AX
 exklusiv Q EH K S K L UUH Z IIH F
 exodus Q EH K S OOH D UU S
+exorzist Q EH K S OO RR TS IH S T
 exoten Q EH K S OOH T AX N
 exotisch Q EH K S OOH T IH SH
 expandiere Q EH K S P AH N D IIH RR AX
@@ -8594,6 +8764,7 @@ fachhändler F AH X HH EH N D L EX
 fachleute F AH X L OY T AX
 fachlich F AH X L IH CC
 fachliche F AH X L IH CC AX
+fachmann F AH X M AH N
 fachpersonal F AH X P EH EX Z OOH N AAH L
 fackeln F AH K AX L N
 facto F AH K T OOH
@@ -8629,6 +8800,7 @@ fahrradfahrer F AAH RR AAH T F AAH RR EX
 fahrradventil F AAH RR AH T V EH N T IIH L
 fahrroute F AAH RR UUH T AX
 fahrrouten F AAH RR UUH T AX N
+fahrst F AAH EX S T
 fahrstraße F AAH EX SH T RR AAH S AX
 fahrstuhl F AAH EX SH T UUH L
 fahrt F AAH EX T
@@ -8698,6 +8870,7 @@ familienkutsche F AH M IIH L IIH Y AX N K UU CH AX
 familienlebens F AH M IIH L IIH Y AX N L EEH B AX N S
 familienmitglieder F AH M IIH L IIH Y AX N M IH T G L IIH D EX
 familienmodelle F AH M IIH L IIH Y AX N M OOH D EH L AX
+familienname F AH M IIH L IIH Y AX N AAH M AX
 familiennamen F AH M IIH L IIH Y AX N N AAH M AX N
 familienpapiere F AH M IIH L IIH EH N P AH P IIH EX RR AX
 familienpolitik F AH M IIH L IIH Y AX N P AO L IY T IY K
@@ -8747,6 +8920,7 @@ farbloses F AH EX P L OOH Z AX S
 farbname F AH RR P N AAH M AX
 farbring F AH RR P RR IH NG
 farbwechsel F AH RR P V EH K S AX L
+farelli F AAH RR EH L IIH
 fargo F AA R G AX UU
 farm F AH EX M
 fasching F AH SH IH NG
@@ -8773,6 +8947,7 @@ fastfood F AH S T F UUH D
 faszination F AH S TS IIH N AH TS Y OOH N
 faszinieren F AH S TS IIH N IIH RR AX N
 faszinierend F AH S TS IIH N IIH RR AX N T
+faszinierende F AH S TS IIH N IIH RR AX N D AX
 fasziniert F AH S TS IIH N IIH EX T
 fatal F AH T AAH L
 fatale F AH T AAH L AX
@@ -8786,6 +8961,7 @@ faules F AW L AX S
 faun F AW N
 faust F AW S T
 faut F AW T
+favorit F AH V OOH RR IH T
 fawkes F OOOH K AX S
 fax F AH K S
 faz Q EH F Q AAH TS EH T
@@ -8832,6 +9008,7 @@ fehlt F EEH L T
 fehlte F EEH L T AX
 fehlten F EEH L T AX N
 feier F AY EX
+feierabend F AY EX Q AAH B AX N T
 feierlich F AY EX L IH CC
 feierliche F AY EX L IH CC AX
 feierlichen F AY EX L IH CC AX N
@@ -8929,6 +9106,7 @@ fernsehzeitung F EH RR N Z EEH TS AY T UU NG
 fernsprechversuche F EH RR N SH P RR EH CC F EH EX Z UUH X AX
 fernverbindung F EH RR N F EH RR B IH N D UU NG
 fernverkehr F EH RR N F EX K EEH RR
+ferrell F EH RR RR EH L
 fertig F EH RR T IH CC
 fertigen F EH EX T IH G AX N
 fertigkeit F EH RR T IY CC K AY T
@@ -8985,7 +9163,10 @@ festzuhalten F EH S T TS UUH HH AH L T AX N
 festzulegen F EH S T TS UUH L EEH G AX N
 festzustellen F EH S T TS UUH SH T EH L AX N
 fett F EH T
+fettarm F EH T AH EX M
+fettarme F EH T AH EX M AX
 fettenden F EH T AX N D AX N
+fetteste F EH T AX S T AX
 fetzen F EH TS AX N
 feucht F OY CC T
 feuchte F OY CC T AX
@@ -9019,6 +9200,7 @@ feurig F OY RR IH CC
 feurige F OY RR IH G AX
 feurigen F OY RR IH G AX N
 feuriges F OY RR IH G AX S
+fiber F IIH B EX
 fichtenstämme F IH CC T AX N SH T EH M AX
 fick F IH K
 ficke F IH K AX
@@ -9053,12 +9235,17 @@ filezilla F AY L TS IH L AAH
 filiale F IH L Y AAH L AX
 filialen F IIH L Y AAH L AX N
 film F IH L M
+filmdrama F IH L M D RR AAH M AAH
 filme F IH L M AX
 filmen F IH L M AX N
+filmfans F IH L M F AH N S
 filmfestivals F IH L M F EH S T IIH V AH L S
+filmgenre F IH L M G AX N RR AX
+filmkomödien F IH L M K OO M OHH D IIH AX N
 filmkritik F IH L M K RR IIH T IIH K
 filmkritiken F IH L M K RR IIH T IIH K AX N
 filmleuten F IH L M L OY T AX N
+filmregisseur F IH L M RR EEH G IH S OE EX
 filmsaal F IH L M Z AAH L
 filmtipp F IH L M T IH P
 filmtipps F IH L M T IH P S
@@ -9133,10 +9320,14 @@ fischer F IH SH EX
 fischereifahrzeugen F IH SH AX RR AY F AAH EX TS OY G AX N
 fisches F IH SH AX S
 fischhaken F IH SH HH AAH K AX N
+fischrestaurant F IH SH RR EH S T Q AW RR AH N T
 fischs F IH SH S
+fischsuppe F IH SH Z UU P AX
 fishtank F IH SH T AE NG K
 fistel F IH S T AX L
 fit F IH T
+fitness F IH T N EH S
+fitnessstudio F IH T N AX S SH T UUH D IIH OOH
 fix F IH K S
 fixbetrag F IH K S B AX T RR AAH K
 fixen F IH K S AX N
@@ -9185,9 +9376,11 @@ flehte F L EEH T AX
 fleisch F L AY SH
 fleische F L AY SH AX
 fleisches F L AY SH AX S
+fleischkuchen F L AY SH K UUH X AX N
 fleiß F L AY S
 fleißig F L AY S IH CC
 fleißige F L AY S IH G AX
+fleißigste F L AY S IH CC S T AX
 fleming F L EH M IH NG
 fleurs F L OE RR S
 flexibel F L EH K S IIH B AX L
@@ -9233,6 +9426,7 @@ flug F L UUH K
 flugbenzins F L UUH K B EH N TS IIH N S
 flugbild F L UUH K B IH L T
 fluggastsystem F L UUH K G AH S T Z YY S T EEH M
+fluggesellschaft F L UUH K G AX Z EH L SH AH F T
 fluggäste F L UUH K G EH S T AX
 flughafen F L UUH K HH AAH F AX N
 flughäfen F L UUH K HH EHH F AX N
@@ -9436,6 +9630,7 @@ fortzwingen F OO EX TS V IH NG AX N
 forum F OOH RR UU M
 forwarding F OOH EX V AAH EX D IH NG
 foto F OOH T OOH
+fotografiere F OOH T OOH G RR AH F IIH EX RR AX
 fotografiert F OOH T OOH G RR AH F IIH EX T
 fotos F OOH T OOH S
 fotze F OO TS AX
@@ -9474,6 +9669,7 @@ fraktionen F RR AH K TS Y OOH N AX N
 fraktionskollegin F RR AH K TS Y OOH N S K OO L EEH G IH N
 fraktionsvorsitzenden F RR AH K TS Y OOH N S F OOH EX Z IH TS AX N D AX N
 france F RR AH S
+francesca F R AE N S IH S K AX
 francisco F R AE N S IH S K AX UU
 frank F RR AH NG K
 franken F RR AH NG K AX N
@@ -9494,6 +9690,7 @@ französische F RR AH N TS OHH Z IH SH AX
 französischen F RR AH N TS OHH Z IH SH AX N
 französisches F RR AH N TS OHH Z IH SH AX S
 frappierte F RR AH P IIH EX T AX
+fraser F RR AAH Z EX
 fratzen F RR AH TS AX N
 frau F RR AW
 frauchen F RR AW CC AX N
@@ -9531,6 +9728,7 @@ freier F RR AY EX
 freieren F RR AY RR AX N
 freies F RR AY AX S
 freigabe F RR AY G AAH P AX
+freigeben F RR AY G EEH B AX N
 freigebig F RR AY G EEH B IH CC
 freigebigen F RR AY G EEH B IH G AX N
 freigebigkeit F RR AY G EEH B IH CC K AY T
@@ -9556,6 +9754,8 @@ freikaufen F RR AY K AW F AX N
 freilassung F RR AY L AH S UU NG
 freilich F RR AY L IH CC
 freimaurer F RR AY M AW RR EX
+freinehmen F RR AY N EEH M AX N
+freinen F RR AY N AX N
 freiraum F RR AY RR AW M
 freischwimmen F RR AY SH V IH M AX N
 freisprechen F RR AY SH P RR EH CC AX N
@@ -9564,6 +9764,7 @@ freispricht F RR AY SH P RR IH CC T
 freistaat F RR AY SH T AAH T
 freistaates F RR AY SH T AAH T AX S
 freitag F RR AY T AAH K
+freitagabend F RR AY T AAH K Q AAH B AX N T
 freitags F RR AY T AAH K S
 freitod F RR AY T OOH T
 freiwillig F RR AY V IH L IH CC
@@ -9617,7 +9818,9 @@ freuen F RR OY AX N
 freund F RR OY N T
 freunde F RR OY N D AX
 freunden F RR OY N D AX N
+freundes F RR OY N D AX S
 freundin F RR OY N D IH N
+freundinnen F RR OY N D IH N AX N
 freundlich F RR OY N T L IH CC
 freundliche F RR OY N T L IH CC AX
 freundlichem F RR OY N T L IH CC AX M
@@ -9640,6 +9843,8 @@ freut F RR OY T
 freute F RR OY T AX
 freveln F RR EEH F AX L N
 friaulisch F RR IIH Q AW L IH SH
+friday F R IH D EH IH
+fridays F R IH D EH IH Z
 frieden F RR IIH D AX N
 friedens F RR IIH D AX N S
 friedensordnung F RR IIH D AX N S Q OO EX D N UU NG
@@ -9673,13 +9878,17 @@ frischer F RR IH SH EX
 frisches F RR IH SH AX S
 frischesten F RR IH SH AX S T AX N
 frischgemolkener F RR IH SH G AX M OO L K AX N EX
+frischkäse F RR IH SH K EHH Z AX
 frischte F RR IH SH T AX
+friseur F RR IIH Z OHH EX
+friseurs F RR IIH Z OI EX S
 frisiert F RR IIH Z IIH EX T
 frist F RR IH S T
 fristgemäß F RR IH S T G AX M EH S
 fristgerecht F RR IH S T G AX RR EH CC T
 fristsetzung F RR IH S TS EH TS UU NG
 frisur F RR IIH Z UU EX
+frittes F RR IH T AX S
 fritz F RR IH TS
 frivol F RR IIH V OOH L
 froh F RR OOH
@@ -9725,6 +9934,7 @@ frömmigkeit F RR OHH M IH CC K AY T
 frösteln F RR OE S T AX L N
 fröstelte F RR OH S T AX L T AX
 früchte F RR YY CC T AX
+früchten F RR YY CC T AX N
 früh F RR YYH
 frühe F RR YYH AX
 frühem F RR YYH AX M
@@ -9827,6 +10037,7 @@ furchtsames F UU EX CC TS AAH M AX S
 furchtsamkeit F UU EX CC TS AH M K AY T
 furchtsamsten F UU EX CC TS AAH M S T AX N
 furie F UUH RR IIH AX
+fury F UU R IY
 fusion F UUH Z Y OOH N
 fuss F UUH S
 fussball F UUH S B AH L
@@ -9840,6 +10051,7 @@ fuzzy F VV Z IY
 fuß F UUH S
 fußball F UUH S B AH L
 fußballbundesliga F UUH S B AH L B UU N D AX S L IIH G AAH
+fußballspieler F UUH S B AH L SH P IIH L EX
 fußboden F UUH S B OOH D AX N
 fußbodens F UUH S B OOH D AX N S
 fuße F UUH S AX
@@ -9971,6 +10183,7 @@ fünfzehnhundertdreißig F YY N F TS EEH N HH UU N D EX T D RR AY S IH CC
 fünfzehnhundertfünf F YY N F TS EEH N HH UU N D EX T F YY N F
 fünfzehnhundertfünfundvierzig F YY N F TS EEH N HH UU N D EX T F YY N F Q UU N T V IH RR TS IH CC
 fünfzehnhundertfünfzehn F YY N F TS EEH N HH UU N D EX T F YY N F TS EEH N
+fünfzehntausend F YY N F TS EEH N T AW Z AX N T
 fünfzig F YY N F TS IH CC
 fünfziger F YY N F TS IH G EX
 fünfzigtausend F YY N F TS IH CC T AW Z AX N T
@@ -9992,6 +10205,7 @@ fürlieb F YYH EX L IIH P
 fürs F YY EX S
 fürsorge F YYH EX Z OO EX G AX
 fürsorgepflicht F YYH EX Z OO EX G AX PF L IH CC T
+fürsorglich F YYH EX Z OO EX G L IH CC
 fürsorglichkeit F YY EX Z OO EX G L IH CC K AY T
 fürstin F YY EX S T IH N
 fürstlich F YY EX S T L IH CC
@@ -10026,6 +10240,7 @@ gallo G AE L AX UU
 galoppiert G AH L OO P IIH EX T
 galt G AH L T
 galway G AA L W EH IH
+game JH EH IH M
 gandhi G AH N D IIH
 gang G AH NG
 gange G AH NG AX
@@ -10057,6 +10272,7 @@ gardine G AH EX D IIH N AX
 gardinen G AH EX D IIH N AX N
 garn G AH RR N
 garne G AH RR N AX
+garnelen G AH RR N AX L AX N
 garnicht G AH RR N IH CC T
 garnieren G AH RR N IIH RR AX N
 garniert G AH RR N IIH EX T
@@ -10146,6 +10362,7 @@ gebilligt G AX B IH L IH CC T
 gebilligten G AX B IH L IH CC T AX N
 gebirge G AX B IH EX G AX
 gebissen G AX B IH S AX N
+gebleiben G AX B L AY B AX N
 gebleichten G EEH P L AY CC T AX N
 geblendet G AX B L EH N D AX T
 geblickt G AX B L IH K T
@@ -10161,6 +10378,9 @@ geboten G AX B OOH T AX N
 gebotene G AX B OOH T AX N AX
 gebracht G AX B RR AAH X T
 gebranntem G AX B RR AH N T AX M
+gebrate G AX B RR AAH T AX
+gebratenen G AX B RR AAH T AX N AX N
+gebratenes G AX B RR AAH T AX N AX S
 gebrauch G AX B RR AW X
 gebrauchen G AX B RR AW X AX N
 gebraucht G AX B RR AW X T
@@ -10178,10 +10398,12 @@ gebs G EEH P S
 gebt G EEH P T
 gebucht G AX B UUH X T
 gebunden G AX B UU N D AX N
+geburstag G AX B UU EX S T AAH K
 geburt G AX B UU EX T
 geburtsort G AX B UU EX TS Q OO EX T
 geburtstag G AX B UU EX TS T AAH K
 geburtstagsgesellschaft G AX B UU EX TS T AAH K S G AX Z EH L SH AH F T
+geburtstagsparty G AX B UU EX TS T AAH K S P AH EX T IIH
 geburtstagsproblem G AX B UU EX TS T AAH K S P RR OOH B L EEH M
 gebäck G AX B EH K
 gebäcks G AX B EH K S
@@ -10321,6 +10543,7 @@ gefrorene G AX F RR OOH RR AX N AX
 gefrorenen G AX F RR OOH RR AX N AX N
 gefrorenes G AX F RR OOH RR AX N AX S
 gefrühstückt G AX F RR YYH SH T YY K T
+gefuhren G AX F UUH RR AX N
 gefunden G AX F UU N D AX N
 gefundenen G AX F UU N D AX N AX N
 gefährden G AX F EHH EX D AX N
@@ -10443,6 +10666,9 @@ gegners G EEH G N EX S
 gegolten G EEH G OO L T AX N
 gegossen G EEH G OO S AX N
 gegraben G AX G RR AAH B AX N
+gegrillte G AX G RR IH L T AX
+gegrillten G AX G RR IH L T AX N
+gegrilltes G AX G RR IH L T AX S
 gegrübelt G AX G RR YYH B AX L T
 gegründet G AX G RR YY N D AX T
 gegängelt G AX G EH NG AX L T
@@ -10666,6 +10892,7 @@ geldautomat G EH L T Q AW T OOH M AAH T
 geldbetrag G EH L T B AX T RR AAH K
 geldbetrags G EH L T B AX T RR AAH K S
 geldbeträge G EH L T B AX T RR EHH G AX
+geldbörse G EH L T B OE EX Z AX
 geldbörsen G EH L T B OE EX Z AX N
 gelddarlehen G EH L T D AH RR L EEH AX N
 geldentschädigung G EH L T Q EH N CH EHH D IH G UU NG
@@ -10824,6 +11051,8 @@ gemäßigte G AX M EH S IH K T AX
 gemäßigten G AX M EHH S IH CC T AX N
 gemäßigteren G AX M EHH S IH CC T AX RR AX N
 gemüse G AX M YYH Z AX
+gemüseabteilung G AX M YYH Z AX Q AH P T AY L UU NG
+gemüsesuppe G AX M YYH Z AX Z UU P AX
 gemüt G AX M YYH T
 gemütlich G AX M YYH T L IH CC
 gemütliche G AX M YY T L IH CC AX
@@ -10856,7 +11085,9 @@ genehmigung G AX N EEH M IIH G UU NG
 genehmigungsverfahren G AX N EEH M IH G UU NG S F EH EX F AAH RR AX N
 geneigt G AX N AY K T
 geneigte G EE N AY K T AX
+genen G EEH N AX N
 general G EEH N AX RR AAH L
+generaldirektor G EEH N AX RR AAH L D IIH RR EH K T OOH EX
 generalfrage G EEH N AX RR AAH L F RR AAH G AX
 generalmusikdirektor G EEH N AX RR AAH L M UUH Z IIH K D IIH RR EH K T OOH EX
 generalpostamt G EEH N AX RR AAH L P OO S T Q AH M T
@@ -10871,6 +11102,7 @@ genesung G AX N EEH Z UU NG
 genetzt G AX N EH TS T
 genf G EH N F
 genial G EEH N IIH Y AAH L
+genialer G EEH N IIH Y AAH L EX
 genickt G AX N IH K T
 genie ZH EE N IIH
 genien G AX N IIH AX N
@@ -10878,6 +11110,8 @@ genien_1 ZH EE N IIH AX N
 geniert ZH AX N IIH EX T
 genießen G AX N IIH S AX N
 genießt G AX N IIH S T
+geniße G AX N IH S AX
+genommem G AX N OO M AX M
 genommen G AX N OO M AX N
 genommenen G AX N OO M AX N AX N
 genoss G AX N OO S
@@ -10885,6 +11119,7 @@ genosse G AX N OO S AX
 genossen G AX N OO S AX N
 genossin G AX N OO S IH N
 genre ZH AH RR AX
+genres G EH N RR EH S
 genscher G EE N SH EX
 gentleman G EH N T L AX M AAH N
 gentoo G EH N T UUH
@@ -10953,6 +11188,7 @@ gequält G AX K V EHH L T
 gequältem G AX K V EH L T AX M
 gerad G AX RR AAH T
 gerade G AX RR AAH D AX
+geradeaus G AX RR AAH D AX Q AW S
 geraden G AX RR AAH D AX N
 geradenwegs G AX RR AAH D AX N V EEH K S
 geradestehen G AX RR AAH D AX SH T EEH AX N
@@ -11051,6 +11287,7 @@ gerät G AX RR EHH T
 geräte G AX RR EHH T AX
 geräten G AX RR EHH T AX N
 gerätselt G AX EX EH TS EH L T
+geräucherten G AX RR OY CC EX T AX N
 geräumig G AX EX OY M IH CC
 geräumige G AX EX OY M IH G AX
 geräumigen G AX EX OY M IH G AX N
@@ -11120,6 +11357,7 @@ geschenk G AX SH EH NG K
 geschenke G AX SH EH NG K AX
 geschenken G AX SH EH NG K AX N
 geschenkt G AX SH EH NG K T
+geschenkverpackung G AX SH EH NG K F EH EX P AH K UU NG
 gescheuert G AX SH OI EX T
 gescheut G AX SH OY T
 geschichte G AX SH IH CC T AX
@@ -11205,6 +11443,7 @@ geschwind G AX SH V IH N T
 geschwindigkeit G AX SH V IH N D IH CC K AY T
 geschwindigkeitsbeschränkung G AX SH V IH N D IH CC K AY TS B AX SH RR EH NG K UU NG
 geschwindigkeitsvorteile G AX SH V IH N D IH CC K AY TS F OO EX T AY L AX
+geschwister G AX SH V IH S T EX
 geschwollenen G AX SH V OO L AX N AX N
 geschworenen G AX SH V OOH RR AX N AX N
 geschwunden G AX SH V UU N D AX N
@@ -11246,8 +11485,10 @@ geschäftsmodell G AX SH EH F TS M OOH D EH L
 geschäftsmäßig G AX SH EH F TS M EHH S IH CC
 geschäftsmäßigen G AX SH EH F TS M EHH S IH G AX N
 geschäftsordnung G AX SH EH F TS Q OO EX T N UU NG
+geschäftspartnern G AX SH EH F TS P AH EX T N EX N
 geschäftssache G AX SH EH F TS Z AH X AX
 geschäftssachen G AX SH EH F TS Z AH X AX N
+geschäftstreffen G AX SH EH F TS T RR EH F AX N
 geschäftsunfähigen G AX SH EH F TS UU N F EHH IH G AX N
 geschäftsverhandlungen G AX SH EH F TS F EH EX HH AH N D L UU NG AX N
 geschäftswillen G AX SH EH F TS V IH L AX N
@@ -11285,6 +11526,7 @@ gesellschaftlichen G AX Z EH L SH AH F T L IH CC AX N
 gesellschaftlicher G AX Z EH L SH AH F T L IH CC EX
 gesellschaftsbereiche G AX Z EH L SH AH F TS B AX RR AY CC AX
 gesellschaftsordnung G AX Z EH L SH AH F TS Q OO EX D N UU NG
+gesellschaftstänze G AX Z EH L SH AH F TS T EH N TS AX
 gesellschaftszimmer G AX Z EH L SH AH F TS TS IH M EX
 gesendet G AX Z EH N D AX T
 gesenkt G AX Z EH NG K T
@@ -11491,6 +11733,7 @@ getrost G AX T RR OOH S T
 getrunken G AX T RR UU NG K AX N
 getränk G AX T RR EH NG K
 getränke G AX T RR EH NG K AX
+getränkekarte G AX T RR EH NG K AX K AH EX T AX
 getränks G AX T RR EH NG K S
 geträumt G AX T RR OY M T
 geträumte G AX T RR OY M T AX
@@ -11706,6 +11949,7 @@ gigantisch G IH G AH N T IH SH
 gigantischem G IH G AH N T IH SH AX M
 gilt G IH L T
 gimp G IH M P
+gina G IIH N AAH
 ging G IH NG
 ginge G IH NG AX
 gingen G IH NG AX N
@@ -11768,6 +12012,7 @@ glaubten G L AW P T AX N
 glaubwürdig G L AW B V YY EX D IH CC
 glaubwürdiger G L AW B V YY EX D IH G EX
 glaubwürdigkeit G L AW B V YY EX D IH CC K AY T
+glaß G L AAH S
 gleich G L AY CC
 gleichartige G L AY CC Q AH EX T IH G AX
 gleichbedeutend G L AY CC B AX D OY T AX N T
@@ -11842,6 +12087,7 @@ glockenturm G L OO K AX N T UU EX M
 glorreiche G L OOH RR AY CC AX
 glorreicher G L OOH RR AY CC EX
 glut G L UUH T
+gluten G L UUH T AX N
 gluterfüllte G L UUH T Q EH EX F YY L T AX
 gluterfüllten G L UUH T Q EH EX F YY L T AX N
 glutgefüllten G L UUH T G AX F YY L T AX N
@@ -11879,6 +12125,7 @@ glückshoffnungen G L YY K S HH OO F N UU NG AX N
 glückskeks G L YY K S K EEH K S
 glückskekse G L YY K S K EEH K S AX
 glückskind G L YY K S K IH N T
+glückspilz G L YY K SH P IH L TS
 glücksrad G L YY K S RR AAH T
 glücksschauer G L YY K S SH AW EX
 glücksspiel G L YY K S SH P IIH L
@@ -12018,6 +12265,7 @@ grausamste G RR AW Z AAH M S T AX
 grausen G RR AW Z AX N
 grausenhaften G RR AW Z AX N HH AH F T AX N
 grausliche G RR AW S L IH CC AX
+graustufen G RR AW SH T UUH F AX N
 grautönen G RR AW T OHH N AX N
 grauweiße G RR AW V AY S AX
 graventhin G RR AAH V EH N T IH N
@@ -12083,7 +12331,9 @@ grog G RR OO K
 gros G RR OOH
 grotesk G RR AO T EH S K
 groß G RR OOH S
+großartige G RR OOH S Q AH EX T IH G AX
 großartigen G RR OOH S Q AH EX T IH G AX N
+großartiger G RR OOH S Q AH EX T IH G EX
 großartiges G RR OOH S AH EX T IH G AX S
 großblumigen G RR OOH S B L UUH M IH G AX N
 großbritannien G RR OOH S B RR IIH T AH N IIH AX N
@@ -12217,6 +12467,7 @@ grübelte G RR YYH B AX L T AX
 grün G RR YYH N
 gründe G RR YY N D AX
 gründen G RR YY N D AX N
+gründer G RR YY N D EX
 gründlich G RR YY N T L IH CC
 gründliche G RR YY N T L IH CC AX
 gründliches G RR YY N T L IH CC AX S
@@ -12234,6 +12485,7 @@ grüßt G RR YY S T
 grüßten G RR YYH S T AX N
 gs G EEH Q EH S
 guaranteed G AE R AX N T IIH D
+guck G UU K
 guckt G UU K T
 guido G IIH D OOH
 gulden G UU L D AX N
@@ -12247,6 +12499,7 @@ gundelrebes G UU N D AX L RR EEH B AX S
 gunst G UU N S T
 gunsten G UU N S T AX N
 gunther G UU N T EX
+gur G UUH EX
 gurgeln G UUH RR G AX L N
 gurken G UU EX K AX N
 gustav G UU SH T AAH F
@@ -12351,6 +12604,7 @@ habs HH AH P S
 habt HH AAH P T
 hacker HH AE K ER
 hackfleisch HH AH K F L AY SH
+haen HH AAH Q EEH N
 hafen HH AAH F AX N
 haferbrei HH AH F EX B RR AY
 haferbreis HH AAH F EX B RR AY S
@@ -12375,6 +12629,7 @@ hagere HH AAH G EX RR AX
 hageren HH AAH G AX RR AX N
 hagerer HH AAH G RR EX
 hague HH AAH G YYH
+haha HH AAH HH AAH
 hahaha HH AAH HH AAH HH AAH
 hahahaha HH AAH Q AAH Q AAH Q
 hahn HH AAH N
@@ -12433,6 +12688,7 @@ halse HH AH L Z AX
 halses HH AH L Z AX S
 halskrause HH AH L S K RR AW Z AX
 halskrausen HH AH L S K RR AW Z AX N
+halsschmerzen HH AH L S SH M EH EX TS AX N
 halstuch HH AH L S T UU X
 halstuche HH AH L S T UU X AX
 halt HH AH L T
@@ -12512,6 +12768,7 @@ hansulrich HH AH N S Q UU L RR IH CC
 hantierte HH AH N T IIH EX T AX
 happens HH AE P AX N Z
 happy HH EH P IIH
+har HH AAH EX
 harald HH AH RR AH L T
 harbor HH AA R B ER
 hard HH AH EX T
@@ -12670,6 +12927,7 @@ hawking HH OO K IH NG
 hay HH AAH IIH
 he HH EEH
 heat HH IIH T
+heather HH EH TH ER
 heavy HH EH V IIH
 hebel HH EEH B AX L
 hebelwirkung HH EEH B AX L V IH EX K UU NG
@@ -12713,6 +12971,9 @@ hei HH AY
 heide HH AY D AX
 heideland HH AY D AX L AH N T
 heidelandes HH AY D AX L AH N D AX S
+heidelbeeren HH AY D AX L B AX RR AX N
+heidelbeerenkuchen HH AY D AX L B AX RR EH NG K UUH X AX N
+heidelbeerenküchen HH AY D AX L B AX RR EH NG K YY CC AX N
 heidelberg HH AY D AX L B EH EX K
 heidelberger HH AY D AX L B EEH EX G EX
 heiden HH AY D AX N
@@ -12773,6 +13034,7 @@ heinemann HH AY N AX M AH N
 heiner HH AY N EX
 heinrich HH AY N RR IH CC
 heinz HH AY N TS
+heir HH AY EX
 heirat HH AY RR AAH T
 heiraten HH AY RR AAH T AX N
 heiratete HH AY RR AAH T AX T AX
@@ -12782,6 +13044,7 @@ heise HH AY Z AX
 heiser HH AY Z EX
 heiseren HH AY Z AX RR AX N
 heiseres HH AY Z EX RR AX S
+heissen HH AY S AX N
 heiter HH AY T EX
 heitere HH AY T EX RR AX
 heiterem HH AY T AX RR AX M
@@ -12849,6 +13112,7 @@ helsinki HH EH L Z IH NG K IIH
 hemd HH EH M T
 hemmnissen HH EH M N IH S AX N
 hemmungen HH EH M UU NG AX N
+hemsworth HH EH M S V OO RR TH
 henker HH EH NG K EX
 henkersmahlzeit HH EH NG K EX S M AAH L TS AY T
 henry HH EH N RR IIH
@@ -13520,6 +13784,7 @@ hip HH IH P
 hiphop HH IH P HH OO P
 hirn HH IH RR N
 hirnschmalz HH IH EX N SH M AH L TS
+hiroki HH IH RR OOH K IIH
 hirsch HH IH EX SH
 hirse HH IH EX Z AX
 hispanics HH IH S B EH N IH K S
@@ -13546,6 +13811,7 @@ hob HH OOH P
 hobbies HH OO B IY S
 hobbit HH OO B IH T
 hobby HH OO B IY
+hobbys HH OO B IY S
 hobel HH OOH B AX L
 hoben HH OOH B AX N
 hoc HH OO K
@@ -13554,6 +13820,7 @@ hochachtung HH OOH X Q AH X T UU NG
 hochaufgezogenen HH OOH X Q AW F G AX TS OOH G AX N AX N
 hochauflösende HH OOH X AW F L OHH Z AX N D AX
 hochbeinigen HH OOH X B AY N IH G AX N
+hochbezahlteste HH OOH X B AX TS AAH L T AX S T AX
 hochblüte HH OOH X B L YYH T AX
 hochdruckbrücke HH OOH X D RR UU K B RR YY K AX
 hochebene HH OOH X Q EEH B AX N AX
@@ -13652,6 +13919,7 @@ holmes HH AO UU M Z
 holprige HH OO L P RR IH G AX
 holprigen HH OO L P RR IH G AX N
 hols HH OOH L S
+holst HH OO L S T
 holstein HH OO L SH T AY N
 holt HH OOH L T
 holte HH OOH L T AX
@@ -13702,6 +13970,8 @@ horns HH OO RR N S
 hornung HH OO RR N UU NG
 horrenden HH OO RR EH N D AX N
 horrible HH OO R IH B AX L
+horrorfilm HH OO R AO R F IH L M
+horrorfilme HH OO R AO R F IH L M AX
 horst HH OO EX S T
 horste HH OO EX S T AX
 horstplätze HH OO EX S T P L EH TS AX
@@ -13738,6 +14008,7 @@ humane HH UU M AAH N AX
 humanerem HH UU M AAH N AX RR AX M
 humanistische HH UU M AAH N IH S T IH SH AX
 humbug HH UU M B UUH K
+hummer HH UU M EX
 humor HH UUH M OOH EX
 hund HH UU N T
 hunde HH UU N D AX
@@ -13864,6 +14135,7 @@ hätt HH EH T
 hätte HH EH T AX
 hätten HH EH T AX N
 hättest HH EH T AX S T
+hättte HH EH T AX
 häufchen HH OY F CC AX N
 häufig HH OY F IH CC
 häufige HH OY F IH G AX
@@ -13882,6 +14154,7 @@ häuserreihe HH OY Z EX RR AY AX
 häuslich HH OY S L IH CC
 häuslichen HH OY S L IH CC AX N
 häuslichkeit HH OY S L IH CC K AY T
+häßlich HH EH S L IH CC
 höchlichst HH OHH CC L IH CC S T
 höchst HH OHH CC S T
 höchste HH OHH K S T AX
@@ -13950,6 +14223,7 @@ hügels HH YYH G AX L S
 hühnchen HH YYH N CC AX N
 hühner HH YYH N EX
 hühnern HH YYH N EX N
+hühnersuppe HH YYH N EX Z UU P AX
 hülfe HH YY L F AX
 hülfeschrei HH YY L F AX SH RR AY
 hülfsleistung HH YY L F S L AY S T UU NG
@@ -14085,6 +14359,7 @@ indem Q IH N D EEH M
 indes Q IH N D EH S
 indessen Q IH N D EH S AX N
 index Q IH N D EH K S
+indiana Q IH N D IIH AAH N AAH
 indianer Q IH N D IIH AAH N EX
 indianern Q IH N D IIH AAH N EX N
 indie Q IH N D IIH
@@ -14167,6 +14442,7 @@ ingrams Q IH N G RR AAH M S
 ingredienz Q IH N G RR EEH D IIH EH N TS
 ingrid Q IH NG G RR IIH T
 ingrimm Q IH N G RR IH M
+ingwer Q IH NG G V EEH EX
 inhaber Q IH N HH AAH B EX
 inhaftierungen Q IH N HH AH F T IIH RR UU NG AX N
 inhalt Q IH N HH AH L T
@@ -14195,6 +14471,7 @@ inn Q IH N
 inne Q IH N AX
 innehielt Q IH N AX HH IIH L T
 innen Q IH N AX N
+innenarchitektin Q IH N AX N Q AH EX CC IIH T EH K T IH N
 innenminister Q IH N AX N M IIH N IH S T EX
 innenministerium Q IH N AX N M IIH N IH S T EEH RR IH UU M
 innenpolitik Q IH N AX N P AO L IY T IY K
@@ -14313,7 +14590,9 @@ interessant Q IH N T EX RR EH S AH N T
 interessante Q IH N T EX RR EH S AH N T AX
 interessanten Q IH N T EX RR EH S AH N T AX N
 interessanter Q IH N T AX RR EH S AH N T EX
+interessantere Q IH N T RR EH S AH N T EX RR AX
 interessantes Q IH N T RR EH S AH N T AX S
+interessanteste Q IH N T EX RR EH S AH N T AX S T AX
 interesse Q IH N T AX RR EH S AX
 interesselosen Q IH N T AX RR EH S AX L OOH Z AX N
 interessen Q IH N T AX RR EH S AX N
@@ -14367,6 +14646,7 @@ intimste Q IH N T IIH M S T AX
 intresse Q IH N T RR EH S AX
 intrige Q IH N T RR IIH G AX
 introduktion Q IH N T RR OOH D UU K TS Y OOH N
+introvertierter Q IH N T RR OOH V EH EX T IIH EX T EX
 intuitiv Q IH N T UUH IIH T IIH F
 invasion Q IH N V AH Z Y OOH N
 inventarium Q IH N V EH N T AAH RR IIH UU M
@@ -14397,6 +14677,7 @@ irc Q IH EX K
 irc_1 Q AY AH R S IIH
 irdische Q IH RR D IH SH AX
 irdischen Q IH EX D IH SH AX N
+irene Q IH RR AX N AX
 irgend Q IH EX G AX N T
 irgendein Q IH EX G AX N T Q AY N
 irgendeine Q IH EX G AX N T Q AY N AX
@@ -14431,6 +14712,7 @@ irrten Q IH RR T AX N
 irrtum Q IH RR T UU M
 irrtums Q IH RR T UU M S
 irrungen Q IH RR UU NG AX N
+is Q IH S
 isaac AA IH Z AX K
 isdn Q IIH EH S D EEH EH N
 isenburg Q IIH Z AX N B UU EX K
@@ -14457,6 +14739,7 @@ it_1 Q IIH T EEH
 italian Q IH T AE L Y AX N
 italien Q IH T AAH L IIH Y EH N
 italiener Q IIH T AH L Y EEH N EX
+italienerin Q IH T AAH L Y EH N EX RR IH N
 italienisch Q IIH T AH L Y EEH N IH SH
 italienische Q IH T AH L IIH EEH N IH SH AX
 italienischen Q IIH T AH L Y EEH N IH SH AX N
@@ -14471,8 +14754,11 @@ ja Y AAH
 jack CH AE K
 jacke Y AH K AX
 jacket JH AE K IH T
+jacks CH AE K S
 jackson JH AE K S AX N
 jacques ZH AH K
+jada Y AH D AAH
+jaff Y AH F
 jagd Y AAH K T
 jagdgebiete Y AAH K T G AX B IIH T AX
 jagdschloss Y AAH K CH L OO S
@@ -14490,6 +14776,7 @@ jahresbeginn Y AAH RR AX S B AX G IH N
 jahresberichten Y AAH RR AX S B AX RR IH CC T AX N
 jahresende Y AAH RR AX S Q EH N D AX
 jahresfrist Y AAH RR AX S F RR IH S T
+jahrestag Y AAH RR AX S T AAH K
 jahresumsatz Y AAH RR AX S Q UU M Z AH TS
 jahrhundert Y AAH EX HH UU N D EX T
 jahrhunderte Y AAH EX HH UU N D EX T AX
@@ -14511,6 +14798,9 @@ jammer Y AH M EX
 jammern Y AH M EX N
 jammernd Y AH M EX N T
 jane JH EH IH N
+janes JH EH IH N Z
+janet JH EH IH N T
+janine Y AH N IIH N AX
 januar Y AH N UUH AAH EX
 japan Y AAH P AAH N
 japaner Y AH P AAH N EX
@@ -14519,7 +14809,10 @@ japanische Y AH P AAH N IH SH AX
 japanischen Y AH P AAH N IH SH AX N
 japanologie Y AH P AH N AO L AO G IIH
 jarhead JH AAH R HH EH D
+jarry Y EH R IY
 jarvis JH AH R V IH S
+jason JH EE IH S AX N
+jasons JH AE S AX N Z
 jasper CH EH SH P EX
 jauchzen Y AW X TS AX N
 jauchzenden Y AW X TS AX N D AX N
@@ -14534,6 +14827,7 @@ je Y EEH
 jeanette ZH AH N EH T
 jeanne ZH AH N
 jeans JH IY N Z
+jeansjacke Y EEH Q AH N S Y AH K AX
 jede Y EEH D AX
 jedem Y EEH D AX M
 jeden Y EEH D AX N
@@ -14545,6 +14839,7 @@ jedes Y EEH D AX S
 jedesmal Y EEH D AX S M AAH L
 jedi Y EEH D IIH
 jedoch Y EEH D OO X
+jeff Y EH F
 jefferson JH EH F ER S AX N
 jegliche Y EEH K L IH CC AX
 jeglichen Y EEH K L IH CC AX N
@@ -14563,10 +14858,14 @@ jenem Y EEH N AX M
 jenen Y EEH N AX N
 jener Y EEH N EX
 jenes Y EEH N AX S
+jenny Y EH N IIH
 jenseits Y EEH N Z AY TS
+jerom Y EEH RR OO M
+jerry Y EEH RR IIH
 jerusalem Y EEH RR UUH Z AAH L EH M
 jerusalems Y EEH RR UUH Z AAH L EH M S
 jessi Y EH S IIH
+jessica Y EH S IH K AAH
 jesu Y EEH Z UUH
 jesuitenordens Y EEH Z UUH IIH T AX N Q OO RR D AX N S
 jesus Y EEH Z UU S
@@ -14578,7 +14877,10 @@ jetzt Y EH TS T
 jeweilige Y EEH V AY L IH G AX
 jeweiligen Y EEH V AY L IH G AX N
 jeweils Y EEH V AY L S
+jill Y IH L
+jim Y IH M
 jimmy JH IH M IY
+jinas Y IIH N AH S
 joachim Y OOH Q AH X IIH M
 joan JH OO UU N
 joanne JH AX UU AE N
@@ -14596,9 +14898,15 @@ johanna Y AO HH AH N AAH
 johannes Y OOH HH AH N AX S
 john JH OO N
 johns Y OOH N S
+johnson JH OO N Z OO N
+johnsons JH OO N Z AX N S
 johnston JH OO N S T AX N
+joker Y OOH K EX
+jolie Y OOH L IIH Y AX
 jon JH AA N
 jonathan Y OOH N AH T AAH N
+jones JH AX UU N Z
+jordan Y OO EX D AAH N
 jordanischen Y OO EX D AAH N IH SH AX N
 joschka Y OO SH K AAH
 josef Y OOH Z EH F
@@ -14610,8 +14918,10 @@ jouberts ZH UH B EH RR
 joues ZH UH
 jour ZH UU RR
 journal ZH UUH RR N AAH L
+journalist ZH UUH RR N AH L IH S T
 journalisten Y UUH RR N AAH L IH S T AX N
 journalistische ZH UU RR N AH L IH S T IH SH AX
+juana Y UUH AH N AAH
 jubel Y UUH B AX L
 jubelgeheul Y UUH B AX L G AX HH OY L
 jubeln Y UUH B AX L N
@@ -14644,6 +14954,7 @@ jules JH UH L
 juli Y UUH L IIH
 julia Y UUH L IIH AAH
 julias Y UUH L IIH AAH S
+julio Y UUH L IIH OOH
 jung Y UU NG
 junge Y UU NG AX
 jungem Y UU NG AX M
@@ -14668,6 +14979,7 @@ juristisch Y UUH RR IH S T IH SH
 juristische Y UUH RR IH S T IH SH AX
 juristischen Y UUH RR IH S T IH SH AX N
 juristischer Y UUH RR IH S T IH SH EX
+justin Y UU S T IIH N
 justine ZH YY S T IIH N
 justine_1 Y UU S T IIH N AX
 justiz Y UU S T IIH TS
@@ -14693,6 +15005,7 @@ jörg Y OE EX K
 jüdische Y YYH D IH SH AX
 jüdischen Y YYH D IH SH AX N
 jünger Y YY NG EX
+jüngere Y YY NG EX RR AX
 jüngeren Y YY NG EX RR AX N
 jüngling Y YY NG L IH NG
 jüngste Y YY NG S T AX
@@ -14722,6 +15035,7 @@ kaffeetasse K AH F EEH T AH S AX
 kaffeetisch K AH F EEH T IH SH
 kaffeetische K AH F EEH T IH SH AX
 kaffeetrinken K AH F EEH T RR IH NG K AX N
+kaffetrinken K AH F AX T RR IH NG K AX N
 kahl K AAH L
 kahn K AAH N
 kairo K AY RR OOH
@@ -14789,6 +15103,7 @@ kampfrausch K AH M PF RR AW SH
 kamst K AAH M S T
 kamt K AAH M T
 kanada K AH N AH D AAH
+kanadier K AH N AAH D IY EX
 kanadiern K AH N AAH D IY EX N
 kanadische K AH N AAH D IH SH AX
 kanadischen K AH N AAH D IH SH AX N
@@ -14845,10 +15160,14 @@ kapitäl K AH P IIH T EHH L
 kapitän K AH P IIH T EHH N
 kapitäns K AH P IIH T EHH N S
 kappe K AH P AX
+kapput K AH P UU T
 kaputt K AH P UU T
 kaputtgegangen K AH P UU T G EH G AH NG AX N
 kapuze K AH P UUH TS AX
 karambolage K AH RR AH M B AO L AAH ZH AX
+karamellsirup K AH RR AAH M EH L Z IIH RR UU P
+karen K AAH RR AX N
+karens K AAH RR AX N S
 karg K AH EX K
 kargheit K AH EX K HH AY T
 karibik K AH RR IIH B IH K
@@ -14863,6 +15182,8 @@ karlsruhe K AH EX L S RR UUH AX
 karlsruher K AH RR L S RR UUH EX
 karlsson K AH RR L S AO N
 karneval K AH RR N AX V AAH L
+karottekuchen K AH RR OO T AX K UUH X AX N
+karottenkuchen K AH RR OO T AX NG K UUH X AX N
 karren K AH RR AX N
 karrenstraße K AH RR AX N SH T RR AAH S AX
 karriere K AH EX Y EEH RR AX
@@ -14878,6 +15199,7 @@ karthagische K AH EX T AAH G IH SH AX
 karthagischen K AH EX T AAH G IH SH AX N
 karthago K AH RR T AAH G OOH
 karthagos K AH EX T AAH G OOH S
+kartoffelchips K AH RR T OO F AX L CC IH P S
 kartoffellegen K AH RR T OO F AX L L EEH G AX N
 kartoffeln K AH EX T OO F AX L N
 kartoffelreibekuchen K AH RR T OO F AX L RR AY B AX K UUH X AX N
@@ -14886,13 +15208,16 @@ kartoffelsuppe K AH RR T OO F AX L Z UU P AX
 kartograph K AH RR T AO G RR AAH F
 karton K AH RR T OOH N
 karussell K AH RR UU S EH L
+kaschmir K AH SH M IIH EX
 kasernen K AH Z EH EX N AX N
 kasse K AH S AX
 kassel K AH S AX L
 kassen K AH S AX N
+kassenbon K AH S AX N B OO N
 kassenhaltung K AH S AX N HH AH L T UU NG
 kassenverwalters K AH S AX N F EH EX V AH L T EX S
 kassette K AH S EH T AX
+kassiererin K AH S IIH RR EX RR IH N
 kassiert K AH S IIH EX T
 kastanienbraunen K AH S T AAH N IIH Y AX N B RR AW N AX N
 kaste K AH S T AX
@@ -14904,6 +15229,7 @@ katastrophal K AH T AH S T RR AO F AAH L
 katastrophale K AH T AH S T RR AO F AAH L AX
 katastrophe K AH T AH S T RR OOH F AX
 katastrophen K AH T AH S T RR OOH F AX N
+katastrophenfilme K AH T AH S T RR OOH F AX N F IH L M AX
 katastrophenmeldung K AH T AH S T RR OOH F AX N M EH L D UU NG
 katastrophenmeldungen K AH T AH S T RR OOH F AX N M EH L D UU NG AX N
 kate K EEH T
@@ -14918,6 +15244,7 @@ katholische K AH T OOH L IH SH AX
 katholischen K AH T OOH L IH SH AX N
 katholischer K AH T OOH L IH SH EX
 katholizismus K AH T OOH L IY TS IH S M UU S
+kathy K EH IH TH IY
 katomic K AH T OOH M IH K
 kattungardinen K AH T UUH N G AH EX D IIH N AX N
 katz K AH TS
@@ -14939,12 +15266,14 @@ kaufmannschaft K AW F M AH N SH AH F T
 kaufpreis K AW F P RR AY S
 kaufpreises K AW F P RR AY Z AX S
 kaufs K AW F S
+kaufst K AW F S T
 kauft K AW F T
 kaufte K AW F T AX
 kaufvertrag K AW F F EH EX T RR AAH K
 kaum K AW M
 kausal K AW Z AAH L
 kausalität K AW Z AH L IIH T EHH T
+kaust K AW S T
 kaute K AW T AX
 kaution K AW TS Y OOH N
 kauz K AW TS
@@ -14982,19 +15311,24 @@ keinesfalls K AY N AX S F AH L S
 keineswegs K AY N AX S V EEH K S
 keinohrhasen K AY N Q OOH RR HH AAH Z AX N
 keins K AY N S
+keith K AY T
+kekse K EH K Z AX
 keller K EH L EX
 kellerloch K EH L EX L OO X
 kellerlöcher K EH L EX L OE CC EX
 kellermeister K EH L EX M AY S T EX
 kellner K EH L N EX
+kellnerin K EH L N EX RR IH N
 kellnern K EH L N EX N
 ken K EH N
 kenn K EH N
 kenne K EH N AX
 kennedy K EH N AX D IY
 kennen K EH N AX N
+kennenlernen K EH N AX N L EH EX N AX N
 kennenzulernen K EH N AX N TS UU L EH EX N AX N
 kennermiene K EH N EX M IIH EH N AX
+kennsst K EH N S T
 kennst K EH N S T
 kennt K EH N T
 kennte K EH N T AX
@@ -15024,11 +15358,13 @@ kerze K EH EX TS AX
 kerzen K EH EX TS AX N
 kerzengerade K EH EX TS AX N G AX RR AAH D AX
 kerzenlicht K EH EX TS AX N L IH CC T
+ketchup K EH CH UU P
 kette K EH T AX
 ketten K EH T AX N
 kettenblatt K EH T AX N B L AH T
 kg K AAH G EEH
 kgb K AAH G EEH B EEH
+khaki K AAH K IIH
 ki K AAH IIH
 kichern K IH CC EX N
 kiel K IIH L
@@ -15096,6 +15432,8 @@ kinkel K IH NG K AX L
 kinn K IH N
 kinnbacken K IH N B AH K AX N
 kino K IIH N AO
+kinobesuch K IIH N OOH B AX S UUH X
+kinoeingang K IIH N OOH Q AY N G AH NG
 kinofilm K IIH N AO F IH L M
 kinofilmen K IIH N OOH F IH L M AX N
 kinokarte K IIH N AO K AH EX T AX
@@ -15302,6 +15640,7 @@ klärung K L EHH RR UU NG
 klöster K L OHH S T EX
 klösterlichen K L OHH S T EX L IH CC AX N
 klüften K L YY F T AX N
+klüge K L YYH G AX
 klüger K L YYH G EX
 klügste K L YY K S T AX
 kmail K AAH M EH IH L
@@ -15320,6 +15659,7 @@ knarrenden K N AH RR AX N D AX N
 knarrt K N AH RR T
 knarrte K N AH RR T AX
 knattert K N AH T EX T
+kneipe K N AY P AX
 kneten K N EEH T AX N
 knicks K N IH K S
 knickte K N IH K T AX
@@ -15363,16 +15703,20 @@ koalitionsfraktionen K OOH AH L IIH TS Y OOH N S F RR AH K TS Y OOH N AX N
 kobold K OOH B OO L T
 kobolde K OOH B OO L D AX
 koch K OO X
+koche K OO X AX
 kochen K OO X AX N
 kochenden K OO X AX N D EEH N
 kocher K OO X EX
 kochrezept K OO X RR EEH TS EH P T
 kochrezepten K OO X RR EH TS EH P T AX N
+kochst K OO X S T
 kochte K OO X T AX
 kodex K OOH D EH K S
 kodierung K OOH D IIH RR UU NG
 kodifizieren K OOH D IIH F IIH TS IIH RR AX N
 kodifizierung K OOH D IIH F IIH TS IIH RR UU NG
+koffein K OO F Q AY N
+koffeine K OO F Q AY N AX
 koffer K OO F EX
 kognitionswissenschaft K OOH G N IIH TS Y OOH N S V IH S AX N SH AH F T
 kognitiver K AO G N IIH T IIH V EX
@@ -15380,6 +15724,7 @@ kohl K OOH L
 kohle K OOH L AX
 kohlendioxid K OOH L AX N D IIH OO K S IIH T
 kohlenhydrate K OOH L AX N HH YYH D RR AAH T AX
+kohlensäure K OOH L AX N S OY RR AX
 kohlevorräte K OOH L AX F OOH EX RR EHH T AX
 kohlschwarzen K OOH L SH V AH EX TS AX N
 kohärenz K OOH EH EX RR EH N TS
@@ -15391,10 +15736,12 @@ kohäsionspolitik K OOH HH EH Z Y OOH N S P AO L IY T IH K
 kokain K OOH K AAH Q IIH N
 koketterie K OOH K EH T EEH RR IIH
 kokopelli K AO K AO P EH L IIH
+kokos K OOH K OO S
 kolkraben K OO L K RR AAH B AX N
 kollabieren K OO L AAH B IIH RR AX N
 kollabiert K OOH L AAH B IIH EX T
 kollaps K OO L AH P S
+kolleg K OOH L EEH K
 kollege K OOH L EEH G AX
 kollegen K OO L EEH G AX N
 kollegin K OOH L EEH G IH N
@@ -15521,6 +15868,7 @@ kompromisses K OO M P RR OOH M IH S AX S
 kompromissformeln K OO M P RR AO M IH S F OO EX M AX L N
 komtess K OO M T EH S
 komödie K OO M OHH D IIH Y AX
+komödien K OO M OHH D IIH Y AX N
 kondensiert K OO N D AX N Z IIH EX T
 kondition K OO N D IIH TS Y OOH N
 kondome K OO N D OOH M AX
@@ -15705,6 +16053,7 @@ kopfweh K OO PF V EEH
 kopfwirbel K OO PF V IH RR B AX L
 kopfzahnbürsten K OO PF TS AAH N B YY EX S T AX N
 kopien K OOH P IIH N
+kopier K OOH P IIH EX
 kopieren K OO P IIH RR AX N
 kopiert K OOH P IIH EX T
 koppelungen K OO P AX L UU NG AX N
@@ -15810,6 +16159,7 @@ krankenhäuser K RR AH NG K AX N HH OY Z EX
 krankenhäusern K RR AH NG K AX N HH OY Z EX N
 krankenkasse K RR AH NG K AX N K AH S AX
 krankenkassen K RR AH NG K AX NG K AH S AX N
+krankenschwester K RR AH NG K AX N SH V EH S T EX
 krankenversicherung K RR AH NG K AX N F EH EX Z IH CC EX RR UU NG
 krankenwärterin K RR AH NG K AX N V EHH EX T AX RR IH N
 krankenzimmer K RR AH NG K AX N TS IH M EX
@@ -15839,6 +16189,7 @@ krediten K RR EE D IIH T AX N
 kreditgeber K RR EE D IIH T G EEH B EX
 kreditinstitut K RR EE D IY T Q IH N S T IIH T UUH T
 kreditinstitute K RR EEH D IIH T Q IH N S T IIH T UUH T AX
+kreditkarte K RR EEH D IIH T K AH EX T AX
 kreditkartennummer K RR EE D IIH T K AH EX T AX N N UU M EX
 kreditnehmer K RR EE D IH T N EEH M EX
 kreditvergabe K RR EEH D IIH T F EH EX G AAH P AX
@@ -15884,6 +16235,7 @@ kriegsvölkerrecht K RR IIH K S F OH L K EX RR EH CC T
 krimi K RR IH M IIH
 krimifestival K RR IH M IY F EE S T IH V AX L
 kriminalfilm K RR IIH M IIH N AAH L F IH L M
+kriminalfilme K RR IY M IY N AAH L F IH L M AX
 kriminalisiert K RR IIH M IIH N AH L IIH Z IIH EX T
 kriminalität K RR IIH M IIH N AH L IIH T EHH T
 kriminalliteratur K RR IH M IY N AAH L IH T EX RR AH T UUH EX
@@ -15891,6 +16243,7 @@ kriminalpolizei K RR IIH M IIH N AAH L P OOH L IIH TS AY
 kriminelle K RR IH M IIH N EH L AX
 krimineller K RR IIH M IIH N EH L EX
 krimipreis K RR IIH M IIH P RR AY S
+krimis K RR IH M IH S
 krise K RR IIH Z AX
 krisen K RR IIH Z AX N
 krisendiagnose K RR IIH Z AX N D IIH AH G N OOH Z AX
@@ -15963,6 +16316,7 @@ kräuselte K RR OY Z AX L T AX
 kräuselten K RR OY Z AX L T AX N
 kräuter K RR OY T EX
 kräutern K RR OY T EX N
+kräutertee K RR OY T EX T AX
 krönen K RR OHH N AX N
 krönte K RR OHH N T AX
 kröte K RR OHH T AX
@@ -15981,6 +16335,7 @@ kuckuck K UU K UU K
 kuckucksnest K UU K UU K S N EH S T
 kugel K UUH G AX L
 kugelkopf K UUH G AX L K OO PF
+kugelschreiber K UUH G AX L SH RR AY B EX
 kuh K UUH
 kulisse K UU L IH S AX
 kulte K UU L T AX
@@ -15998,9 +16353,11 @@ kulturpolitik K UU L T UUH EX P AO L IY T IY K
 kumar K UUH M AAH RR
 kummer K UU M EX
 kummervoll K UU M EX F OO L
+kumpel K UU M P AX L
 kumulative K UU M UUH L AH T IIH V AX
 kunde K UU N D AX
 kunden K UU N D AX N
+kundendienst K UU N D AX N D IIH N S T
 kundgebung K UU N T G AX B UU NG
 kundgebungen K UU N T G AX B UU NG AX N
 kundgetan K UU N T G AX T AAH N
@@ -16008,6 +16365,7 @@ kundun K UU N D UUH N
 kuneva K UU N EEH V AAH
 kung K UU NG
 kungfu K UU NG F UUH
+kunis K UUH N IH S
 kunst K UU N S T
 kunstgattung K UU N S T G AH T UU NG
 kunstgeschichte K UU N S T G AX SH IH CC T AX
@@ -16067,6 +16425,7 @@ kwai K V AY
 kwrite K AAH V R AY T
 kybernetik K UE B EX N EE T IH K
 kybernetische K UE B EX N EEH T IH SH AX
+kyle K AY L
 kyoto K IIH OOH T OOH
 kyprianou K YY P RR IIH AH N OOH
 käfertal K EHH F EX T AAH L
@@ -16091,6 +16450,8 @@ kärglichen K EH EX G L IH CC AX N
 kärnten K EH RR N T AX N
 käse K EHH Z AX
 käsekuchen K EHH Z AX K UUH X AX N
+käsesauce K EHH Z AX Z AW S
+käsetorte K EHH Z AX T OO EX T AX
 kästchen K EH S T CC AX N
 käufer K OY F EX
 käufern K OY F EX N
@@ -16120,6 +16481,7 @@ könnens K OH N AX N S
 könnte K OE N T AX
 könnten K OE N T AX N
 könntest K OE N T AX S T
+köntet K OE N T AX T
 köpfchen K OH PF CC AX N
 köpfe K OE PF AX
 köpfen K OE PF AX N
@@ -16137,6 +16499,7 @@ körpern K OE RR P EX N
 körpers K OE EX P EX S
 körperteile K OE EX P EX T AY L AX
 körperverletzung K OE EX P EX F EH EX L EH TS UU NG
+köstenlos K OH S T AX N L OOH S
 köstlich K OHH S T L IH CC
 köstliche K OHH S T L IH CC AX
 köstlichen K OHH S T L IH CC AX N
@@ -16190,6 +16553,7 @@ kürze K YY EX TS AX
 kürzer K YY RR TS EX
 kürzere K YY EX TS EX RR AX
 kürzeren K YY EX TS EX RR AX N
+kürzeste K YY EX TS AX S T AX
 kürzesten K YY EX TS AX S T AX N
 kürzester K YY RR TS AX S T EX
 kürzlich K YY RR TS L IH CC
@@ -16218,11 +16582,13 @@ lachende L AH X AX N D AX
 lachenden L AH X AX N D AX N
 lacher L AH X EX
 lachkrampf L AH X K RR AH M PF
+lachs L AH X S
 lachst L AH X S T
 lacht L AH X T
 lachte L AH X T AX
 lachten L AH X T AX N
 lackierte L AH K IIH RR T AX
+lade L AAH D AX
 laden L AAH D AX N
 ladendieb L AAH D AX N D IIH P
 ladeneigentümer L AAH D AX N Q AY G AX N T YYH M EX
@@ -16290,6 +16656,7 @@ landtag L AH N T AAH K
 landtags L AH N T T AAH K S
 landtagswahl L AH N T T AAH K S V AAH L
 landtouren L AH N T T UUH RR AX N
+landung L AH N D UU NG
 landvolkbewegung L AH N T F OO L K B AX V EEH G UU NG
 landweg L AH N T V EEH K
 landwirte L AH N T V IH EX T AX
@@ -16325,8 +16692,11 @@ language L AE NG G W AX JH
 langweilig L AH NG V AY L IH CC
 langweilige L AH NG V AY L IH G AX
 langweiligen L AH NG G V AY L IH G AX N
+langweiliger L AH NG G V AY L IH G EX
 langweiliges L AH NG V AY L IH G AX S
+langweiligste L AH NG V AY L IH CC S T AX
 langweiligsten L AH NG V AY L IH CC S T AX N
+langweillig L AH NG V AY L IH CC
 langweilst L AH NG G V AY L S T
 langweilte L AH NG V AY L T AX
 langzeitarbeitslosen L AH NG TS AY T Q AH EX B AY TS L OOH Z AX N
@@ -16337,8 +16707,10 @@ lanzen L AH N TS AX N
 lappen L AH P AX N
 lappland L AH P L AH N T
 lapplands L AH P L AH N TS
+laptop L AH P T OO P
 larven L AH RR F AX N
 las L AAH S
+lasagne L AH Z AH G N AX
 laschen L AH SH AX N
 lass L AH S
 lasse L AH S AX
@@ -16360,6 +16732,7 @@ lastwagen L AH S T V AAH G AX N
 latein L AH T AY N
 lateinamerika L AH T AY N AH M EEH RR IIH K AAH
 lateinamerikanisch L AH T AY N AH M EEH RR IIH K AH N IH SH
+lateinamerikanischen L AH T AY N Q AH M EX RR IIH K AAH N IH SH AX N
 lateinisch L AH T AY N IH SH
 lateinische L AH T AY N IH SH AX
 lateinischen L AH T AY N IH SH AX N
@@ -16370,6 +16743,7 @@ latin L EH T IH N
 latinisiert L AH T IIH N IIH Z IIH EX T
 latmos L AH T M OOH S
 latrinen L AH T RR IIH N AX N
+latte L AH T AX
 laub L AW P
 laubbäume L AW B B OY M AX
 laubfrosch L AW B F RR OO SH
@@ -16397,6 +16771,7 @@ laune L AW N AX
 launen L AW N AX N
 launenhaft L AW N AX N HH AH F T
 launenhaftem L AW N AX N HH AH F T AX M
+laura L AW RR AAH
 lausche L AW SH AX
 lauschen L AW SH AX N
 lauschens L AW SH AX N S
@@ -16538,8 +16913,11 @@ leck L EH K
 lecken L EH K AX N
 lecker L EH K EX
 leckerbissen L EH K EX B IH S AX N
+leckere L EH K EX RR AX
+leckeres L EH K AX RR AX S
 leckte L EH K T AX
 leckten L EH K T EEH Q EEH N
+lederjacke L EEH D EX Y AH K AX
 lederkoffer L EEH D EX K OO F EX
 ledge L EH JH
 lediglich L EEH D IH K L IH CC
@@ -16694,6 +17072,7 @@ lektion L EH K TS Y OOH N
 lektionen L EH K TS Y OOH N AX N
 lektüre L EH K T YYH RR AX
 lemaire L AX M EH RR
+lemonade L EH M OOH N AAH D AX
 lenchen L EEH N CC AX N
 lender L EH N D EX
 lenk L EH NG K
@@ -16839,18 +17218,29 @@ lieblingsautor L IIH B L IH NG S Q AW T OOH EX
 lieblingsband L IIH B L IH NG S B EHH N T
 lieblingsbeschäftigung L IIH B L IH NG S B AX SH EH F T IIH G UU NG
 lieblingsbuch L IIH B L IH NG S B UUH X
+lieblingscafe L IIH B L IH NG S K AAH F AX
 lieblingscocktail L IIH B L IH NG S K OO K T EEH L
 lieblingseis L IIH B L IH NG S Q AY S
 lieblingsessen L IIH B L IH NG S Q EH S AX N
 lieblingsfarbe L IIH B L IH NG S F AH EX P AX
 lieblingsfilm L IIH B L IH NG S F IH L M
+lieblingsfilmgenre L IIH B L IH NG S F IH L M G AX N RR AX
+lieblingsfrüchte L IIH B L IH NG S F RR YY CC T AX
+lieblingsfußballspieler L IIH B L IH NG S F UUH S B AH L SH P IIH L EX
 lieblingsgericht L IIH B L IH NG S G AX RR IH CC T
+lieblingshandtuch L IIH B L IH NG S HH AH N T UU X
 lieblingskneipe L IIH B L IH NG S K N AY P AX
+lieblingskuchen L IIH B L IH NG S K UUH X AX N
 lieblingsland L IIH B L IH NG S L AH N T
 lieblingslied L IIH B L IH NG S L IIH T
 lieblingsmusik L IIH B L IH NG S M UUH Z IIH K
+lieblingsobst L IIH B L IH NG S Q OO P S T
+lieblingsort L IIH B L IH NG S Q OO EX T
 lieblingsplätzchen L IIH B L IH NG S P L EH TS CC AX N
 lieblingspopstar L IIH B L IH NG S P OO P S T AAH EX
+lieblingsregisseur L IIH B L IH NG S RR EEH G IH S AX UU EX
+lieblingsschauspielerin L IIH B L IH NG S SH AW S P IIH L AX RR IH N
+lieblingsserie L IIH B L IH NG S Z EEH RR IIH
 lieblingssitz L IIH B L IH NG S Z IH TS
 lieblingsspeise L IIH B L IH NG S SH P AY Z AX
 lieblingsstelle L IIH B L IH NG S SH T EH L AX
@@ -16897,6 +17287,7 @@ liegestuhl L IIH G AX SH T UUH L
 liegt L IIH K T
 lieh L IIH
 lies L IIH S
+liesbet L IIH S B AX T
 liest L IIH S T
 ließ L IIH S
 ließe L IIH S AX
@@ -16905,16 +17296,19 @@ ließest L IIH S AX S T
 ließt L IIH S T
 life L AA IH F
 liga L IIH G AAH
+light L AA IH T
 lightningmap L AY T N IH NG M AE P
 lightningmaps L AY T N IH NG M AE P S
 lights L AA IH TS
 ligue L IY G
 like L AA IH K
+lila L IIH L AAH
 lilie L IIH L IIH Y AX
 lilien L IIH L IIH AX N
 lilienkelche L IIH L IIH Y AX N K EH L CC AX
 liliput L IH L IIH P UU T
 limit L IH M IH T
+limonade L IH M OOH N AAH D AX
 lina L IIH N AAH
 lincoln L IH NG K AX N
 lind L IH N T
@@ -16949,9 +17343,12 @@ linus L IIH N UU S
 linux L IIH N UU K S
 linz L IH N TS
 linzer L IH N TS EX
+lionel L IIH OOH N AX L
 lippe L IH P AX
 lippen L IH P AX N
 lippenbekenntnis L IH P AX N B AX K EH N T N IH S
+lippenstifte L IH P AX N SH T IH F T AX
+lippenstiftte L IH P AX N SH T IH F T AX
 lippischen L IH P IH SH AX N
 liquidität L IH K V IIH D IIH T EHH T
 lisa L IIH Z AAH
@@ -17072,6 +17469,7 @@ lucas L UH K AX S
 luchsaugen L UU K S Q AW G AX N
 luchsen L UU K S AX N
 lucky L VV K IY
+lucy L VV S IY
 ludwig L UUH T V IH CC
 ludwigsburg L UUH T V IH CC S B UU EX K
 ludwigshafen L UU T V IH K S HH AAH F AX N
@@ -17098,6 +17496,7 @@ luftveränderung L UU F T F EH EX Q EH N D EX RR UU NG
 luftzug L UU F T TS UUH K
 luftzuge L UU F T TS UUH G AX
 lui L HHH IY
+luisa L UU IIH Z AAH
 lukullischen L UUH K UU L IH SH AX N
 lullte L UU L T AX
 lumdatal L UU M D AH T AAH L
@@ -17106,6 +17505,7 @@ lumpige L UU M P IH G AX
 lungen L UU NG AX N
 lungenentzündungen L UU NG AX N EH N TS YY N D UU NG AX N
 lupe L UUH P AX
+lusi L UUH Z IIH
 lust L UU S T
 lustig L UU S T IH CC
 lustige L UU S T IH G AX
@@ -17322,6 +17722,7 @@ malerisch M AAH L EX IH SH
 malerische M AAH L EX RR IH SH AX
 malerischer M AAH L EX RR IH SH EX
 malkasten M AH L K AH S T AX N
+mallorca M AE L ER K AH
 malt M AH L T
 malte M AAH L T AX
 malten M AAH L T EEH Q EEH N
@@ -17347,6 +17748,7 @@ mandanten M AH N D AH N T AX N
 mandat M AH N D AAH T
 mandats M AH N D AAH TS
 mandel M AH N D AX L
+mandelmilch M AH N D AX L M IH L CC
 manfred M AH N F RR EEH T
 mangel M AH NG AX L
 mangelhaft M AH NG AX L HH AH F T
@@ -17359,6 +17761,7 @@ mangelndes M AH NG AX L N D EH S
 mangels M AH NG AX L S
 mangelt M AH NG AX L T
 mangelte M AH NG AX L T AX
+mango M AH NG G OOH
 manhattan M EH N HH EH T AX N
 manier M AH N IIH EX
 manieren M AH N IIH RR AX N
@@ -17389,6 +17792,7 @@ marax M AH RR AAH K S
 marble M AH RR B AX L
 marburg M AH RR B UU EX K
 march M AAH RR CH
+marcus M AH RR K UU S
 margaret M AA R G ER IH T
 margareth M AH RR G AH RR EH T
 margarethe M AH RR G AH RR EH T AX
@@ -17407,10 +17811,13 @@ marienheim M AH RR IIH Y AX N HH AY M
 mariens M AH RR IIH EH N S
 marine M AAH RR IIH N AX
 mario M AH RR IIH OOH
+marios M AH RR IIH OOH S
 mark M AH EX K
 marke M AH EX K AX
 markerschütternd M AH RR K EX SH YY T EH RR N T
 markerschütternden M AH EX K EX SH YY T EX N D AX N
+marketing M AH EX K AX T IH NG
+marketingabteilung M AH EX K AX T IH NG Q AH P T AY L UU NG
 marketingspezialisten M AH EX K AX T IH NG SH P EE TS Y AH L IH S T AX N
 markieren M AH RR K IIH RR AX N
 markiert M AH EX K IIH EX T
@@ -17435,6 +17842,8 @@ marktwirtschaftlich M AH EX K T V IH EX CH AH F T L IH CC
 marktwirtschaftliches M AH EX K T V IH EX CH AH F T L IH CC AX S
 marktüberblick M AH EX K T Q YY B EX B L IH K
 markus M AH EX K UU S
+marla M AH RR L AAH
+marlas M AH RR L AAH S
 marley M AA R L IY
 marmelade M AH RR M AX L AAH D AX
 marmeladen M AH EX M AX L AAH D AX N
@@ -17454,7 +17863,9 @@ marschierten M AH EX SH IIH EX T AX N
 marsmaske M AH EX S M AH S K AX
 martern M AH RR T EX N
 martervollen M AH RR T EX F OO L AX N
+martha M AH RR T AAH
 martin M AH EX T IIH N
+marvel M AH RR V AX L
 marvin M AA R V IH N
 marx M AH EX K S
 mary M EH R IIH
@@ -17505,6 +17916,7 @@ matratzen M AH T RR AH TS AX N
 matrix M AAH T RR IH K S
 matronenhaft M AH T RR OOH N AX N HH AH F T
 matrosen M AH T RR OOH Z AX N
+matsumoto M AH T Z UUH M OOH T OOH
 matt M AH T
 matte M AH T AX
 mattel M AH T EH L
@@ -17551,6 +17963,7 @@ maßstab M AAH S SH T AAH P
 maßstäbe M AAH S SH T EHH B AX
 maßvoll M AAH S F OO L
 mccarthy M AX K AA R TH IY
+mcdonald M K D OOH N AH L T
 me M IIH
 meatballs M IY T B OO L Z
 mechanic M AX K AE N IH K
@@ -17577,6 +17990,7 @@ medium M EEH D IIH UU M
 medizin M EEH D IIH TS IIH N
 medizinische M EEH D IIH TS IIH N IH SH AX
 medizinischen M EEH D IIH TS IIH N IH SH AX N
+medou M EEH D UUH
 meer M EEH EX
 meere M EEH EX RR AX
 meeres M EEH RR AX S
@@ -17586,6 +18000,7 @@ meeresgespenster M EEH RR AX S G AX SH P EH N S T EX
 meergespenster M EEH EX G AX SH P EH N S T EX
 meerschweinchen M EEH EX SH V AY N CC AX N
 megamind M EH G AH M AY N D
+meghan M EH K HH AH N
 mehl M EEH L
 mehlbeeren M EEH L B EEH RR AX N
 mehlkäfer M EEH L K EHH F EX
@@ -17654,6 +18069,7 @@ meißel M AY S AX L
 meißels M AY S AX L S
 mel M EH L
 melancholisch M EH L AH N K OOH L IH SH
+melbourne M EH L B OO R N
 melde M EH L D AX
 melden M EH L D AX N
 meldenden M EH L D AX N D AX N
@@ -17711,6 +18127,7 @@ menschliches M EH N SH L IH CC AX S
 menschseins M EH N SH Z AY N S
 mentalen M EH N T AAH L AX N
 mentalität M EH N T AH L IIH T EHH T
+menü M EH N YYH
 mercedes M EH EX TS EEH D AX S
 merinomantel M EX RR IIH N OOH M AH N T AX L
 merke M EH EX K AX
@@ -17730,6 +18147,7 @@ merkwürdigen M EH EX K V YY EX D IH G AX N
 merkwürdiger M EH EX K V YY EX D IH G EX
 merkwürdigerweise M EH EX K V YY EX D IH G EX V AY Z AX
 merkwürdiges M EH EX K V YY EX D IH G AX S
+merry M EH R IY
 mes M EH S
 mesdames M EE D AH M
 messbar M EH S B AAH EX
@@ -17739,6 +18157,7 @@ messen M EH S AX N
 messende M EH S AX N D AX
 messer M EH S EX
 messern M EH S EX N
+messi M EH S IIH
 messingschnallen M EH S IH NG SH N AH L AX N
 messingteekessel M EH S IH NG T EEH K EH S AX L
 messung M EH S UU NG
@@ -17777,6 +18196,7 @@ microsoft M AY K R AO S OO F T
 midlands M IH D L AE N D Z
 midori M IH D OOH RR IIH
 mied M IIH T
+mien M IIH AX N
 miene M IIH N AX
 mienen M IIH EH N AX N
 miesmuschel M IIH S M UU SH AX L
@@ -17800,11 +18220,15 @@ mikrofon M IIH K RR OOH F OOH N
 mikrofone M IH K RR OOH F OOH N AX
 mikrowelle M IIH K RR OOH V EH L AX
 mikrowellen M IIH K RR OOH V EH L AX N
+mila M IIH L AAH
 milben M IH L B AX N
 milch M IH L CC
+milchabteilung M IH L CC Q AH P T AY L UU NG
 milchbrot M IH L CC B RR OOH T
 milcherfassung M IH L CC Q EH EX F AH S UU NG
 milchfonds M IH L CC F OOH S
+milchprodukte M IH L CC P RR OOH D UU K T AX
+milchsorten M IH L CC S Q OO EX T AX N
 mild M IH L T
 milde M IH L D AX
 milden M IH L D AX N
@@ -17886,6 +18310,7 @@ ministerpräsident M IIH N IH S T EX P RR EHH Z IIH D EH N T
 ministerpräsidenten M IIH N IH S T EX P RR EH Z IIH D EH N T AX N
 minnesota M IH N IH S AX UU T AX
 minois M IY N W AH
+minsk M IH N S K
 minus M IIH N UU S
 minute M IIH N UUH T AX
 minuten M IIH N UUH T AX N
@@ -17962,10 +18387,12 @@ mitfahren M IH T F AAH RR AX N
 mitfahrgelegenheit M IH T F AAH EX G AX L EEH G AX N HH AY T
 mitfahrgelegenheiten M IH T F AAH RR G AX L EEH G AX N HH AY T AX N
 mitfahrzentrale M IH T F AAH EX TS EH N T RR AAH L AX
+mitfeiern M IH T F AY EX N
 mitgebracht M IH T G AX B RR AAH X T
 mitgefühl M IH T G AX F YYH L
 mitgefühls M IH T G AX F YYH L S
 mitgehe M IH T G EEH AX
+mitgehen M IH T G EEH AX N
 mitgekommen M IH T G AX K OO M AX N
 mitgeliefert M IH T G AX L IIH F EX T
 mitgenommen M IH T G AX N OO M AX N
@@ -18036,6 +18463,7 @@ mittelfristig M IH T AX L F RR IH S T IH CC
 mittelgebirgen M IH T AX L G AX B IH EX G AX N
 mittelgebirges M IH T AX L G AX B IH EX G EH S
 mittelgroß M IH T AX L G RR OOH S
+mittelgroße M IH T AX L G RR OOH S AX
 mittelkante M IH T AX L K AH N T AX
 mittellinie M IH T AX L L IIH N IH AX
 mittelmeer M IH T AX L M EEH EX
@@ -18080,6 +18508,9 @@ mitzunehmen M IH T TS UUH N EEH M AX N
 mitzuteilen M IH T TS UUH T AY L AX N
 mitzuwirken M IH T TS UUH V IH EX K AX N
 mißbräuchliche M IH S B RR OY CC L IH CC AX
+mißgelaunt M IH S G AX L AW N T
+mmm Q EH M
+mmmm Q EH M
 mobbing M OO B IH NG
 mobil M OOH B IIH L
 mobile M OOH B IIH L AX
@@ -18146,6 +18577,7 @@ monaten M OOH N AH T AX N
 monatlich M OOH N AH T L IH CC
 monatliche M OOH N AH T L IH CC AX
 monatlichen M OOH N AH T L IH CC AX N
+monatlicher M AO N AH T L IH CC EX
 monats M OOH N AH TS
 monatsende M OOH N AH TS Q EH N D AX
 monatslohn M OOH N AH TS L OOH N
@@ -18230,11 +18662,13 @@ motors M OOH T OO EX S
 motorsportmagazin M OOH T OOH EX SH P OO EX T M AH G AH TS IIH N
 motten M OO T AX N
 motto M OO T OOH
+mousse M AW S AX
 movie M UUH V IY
 moviepilot M UUH V IIH P IH L OOH T
 mozart M OOH TS AH EX T
 mozilla M OO TS IH L AAH
 mp3 Q EH M P EEH D RR AY
+mr Q EH M Q EH RR
 ms Q EH M Q EH S
 msx Q EH M Q EH S Q IH K S
 mubarak M UU B AAH RR AH K
@@ -18252,6 +18686,7 @@ multiplikation M UU L T IH P L IIH K AH TS Y OOH N
 multipliziere M UU L T IH P L IIH TS IIH RR AX
 multipliziert M UU L T IH P L IIH TS IIH EX T
 multisession M UU L T IY S EH SH AX N
+mumie M UUH M IY
 mund M UU N T
 munde M UU N D AX
 mundwerkzeuge M UU N T V EH EX K TS OY G AX
@@ -18314,6 +18749,7 @@ mutterherz M UU T EX HH EH RR TS
 mutterliebe M UU T EX L IIH B AX
 muttermilch M UU T EX M IH L CC
 muttersprache M UU T EX SH P RR AAH X AX
+muttersprachler M UU T EX SH P RR AAH X L EX
 mutvoll M UUH T F OO L
 mutwillen M UUH T V IH L AX N
 mutwillig M UUH T V IH L IH CC
@@ -18374,6 +18810,7 @@ möbel M OHH B AX L
 möbeln M OHH B AX L N
 möbliert M OHH B L IIH EX T
 möbliertes M OHH B L IIH EX T AX S
+möchen M OE CC AX N
 möcht M OH CC T
 möchte M OE CC T AX
 möchten M OE CC T AX N
@@ -18433,6 +18870,7 @@ mürrisch M YY RR IH SH
 mürrische M YY RR IH SH AX
 mürrischen M YY RR IH SH AX N
 mürrischer M YY RR IH SH EX
+müsli M YY S L IIH
 müsse M YY S AX
 müssen M YY S AX N
 müsst M YY S T
@@ -18589,6 +19027,7 @@ nachtgleiche N AH X T G L AY CC AX
 nachthauben N AH X T HH AW B AX N
 nachthemdchens N AAH X T HH EH M T CC AX N S
 nachtigall N AH X T IH G AH L
+nachtisch N AH X T IH SH
 nachtkleid N AH X T K L AY T
 nachtkleide N AH X T K L AY D AX
 nachtkonzert N AH X T K OO N TS EH EX T
@@ -18687,6 +19126,8 @@ nasmyth N AE S M IH TH
 nass N AH S
 nasse N AH S AX
 nasskalt N AH S K AH L T
+natalie N AH T AAH L IIH Y AX
+natan N AH T AAH N
 nathan N EH IH TH AX N
 nation N AH TS Y OOH N
 national N AH TS IY AO N AAH L
@@ -18772,6 +19213,7 @@ neckte N EH K T AX
 neckten N EH K T AX N
 nee N EEH
 neffe N EH F AX
+neffen N EH F AX N
 negativ N EEH G AH T IIH F
 negative N EEH G AH T IIH V AX
 negativen N EEH G AH T IIH V AX N
@@ -18783,6 +19225,7 @@ nehme N EEH M AX
 nehmen N EEH M AX N
 nehmend N EEH M AX N T
 nehmt N EEH M T
+nehne N EEH N AX
 neid N AY T
 neidisch N AY D IH SH
 neidischen N AY D IH SH AX N
@@ -18834,6 +19277,7 @@ nette N EH T AX
 netten N EH T AX N
 netter N EH T EX
 nettes N EH T AX S
+netteste N EH T AX S T AX
 netto N EH T OOH
 nettovermögens N EH T OOH F EH EX M OHH G AX N S
 networks N EH T W OE EX K S
@@ -18872,6 +19316,7 @@ neuesten N OY AX S T AX N
 neufahrzeuge N OY F AAH EX TS OY G AX
 neufundländer N OO OH F UU N D L EH N D EX
 neugefundenen N OY G AX F UU N D AX N AX N
+neugeladen N OY G AX L AAH D AX N
 neugier N OY G IIH EX
 neugierde N OY G IIH EX D AX
 neugierig N OY G IIH RR IH CC
@@ -18994,6 +19439,7 @@ neutralisiert N OY T RR AH L IIH Z IIH EX T
 neuwahlen N OY V AAH L AX N
 neuzeit N OY TS AY T
 neuzeitlichen N OY TS AY T L IH CC AX N
+nevada N EEH V AH D AAH
 new N Y UUH
 newcastle N UH K AE S AX L
 news N IH UU S
@@ -19008,11 +19454,13 @@ nich N IH CC
 nicht N IH CC T
 nichtachtung N IH CC T Q AH X T UU NG
 nichtausschöpfung N IH CC T Q AW S SH OE PF UU NG
+nichte N IH CC T AX
 nichteinhaltung N IH CC T Q AY N HH AH L T UU NG
 nichterfüllungsschaden N IH CC T Q EH EX F YY L UU NG S SH AAH D AX N
 nichtig N IH CC T IH CC
 nichtigkeit N IH CC T IH G K AY T
 nichtkönnen N IH CC T K OE N AX N
+nichtraucher N IH CC T RR AW X EX
 nichts N IH CC TS
 nichtsdestoweniger N IH CC TS D EH S T OOH V EEH N IH G EX
 nichtsnutzige N IH CC TS N UU TS IH G AX
@@ -19024,6 +19472,7 @@ nichtverbreitung N IH CC T F EH EX B RR AY T UU NG
 nichtvermögensschaden N IH CC T F EH EX M OHH G AX N S SH AAH D AX N
 nichtvermögensschäden N IH CC T F EH EX M OHH G AX N S SH EHH D AX N
 nichtvorliegen N IH CC T F OOH EX L IIH G AX N
+nick N IH K
 nickelodeon N IH K AX L OO UH D IH AX N
 nicken N IH K AX N
 nickend N IH K AX N D
@@ -19061,6 +19510,7 @@ niederlassend N IIH D EX L AH S AX N T
 niederlegte N IIH D EX L EEH K T AX
 niederliefen N IIH D EX L IIH F AX N
 niederließ N IIH D EX L IIH S
+niederländisch N IIH D EX L EH N D IH SH
 niederländischer N IIH D EX L EH N D IH SH EX
 niedermaier N IIH D EX M AY IIH EX
 niederprasselte N IIH D EX P RR AH S AX L T AX
@@ -19106,6 +19556,7 @@ niemals N IIH M AAH L S
 niemand N IIH M AH N T
 niemandem N IIH M AH N D AX M
 niemanden N IIH M AH N D AX N
+nien N IIH AX N
 nieseln N IIH Z AX L N
 niesen N IIH Z AX N
 niklaus N IH K L AW S
@@ -19115,6 +19566,7 @@ nimmer N IH M EX
 nimmst N IH M S T
 nimmt N IH M T
 nimmts N IH M TS
+nina N AY N AAH
 nine N AY N
 ninja N IH N Y AH
 nippesfiguren N IH P AX S F IIH G UUH RR AX N
@@ -19125,6 +19577,7 @@ nirgendwo N IH EX G EH N T V OOH
 niro N IH R AX UU
 nische N IH SH AX
 nischenkonsole N IIH SH AX N K OO N Z OOH L AX
+nissan N IH S AAH N
 nistet N IH S T AX T
 nistplätze N IH S T P L EH TS AX
 niveau N IIH V OOH
@@ -19203,6 +19656,7 @@ noten N OOH T AX N
 notenbank N OOH T AX N B AH NG K
 notenbankchef N OOH T AX N B AH NG K SH EH F
 notenblätter N OOH T AX N B L EH T EX
+notfall N OOH T F AH L
 notfalls N OOH T F AH L S
 notieren N OOH T IIH RR AX N
 notiert N OOH T IIH EX T
@@ -19274,6 +19728,7 @@ nutzungsrecht N UU TS UU NG S RR EH CC T
 nymphe N YY M F AX
 nächst N EH CC S T
 nächste N EHH CC S T AX
+nächstem N EHH CC S T AX M
 nächstemal N EHH CC S T AX M AAH L
 nächsten N EHH CC S T AX N
 nächster N EHH CC S T EX
@@ -19386,8 +19841,10 @@ obs Q OO P S
 obsiegen Q OO P Z IIH G AX N
 obskuren Q OOH P S K UUH RR AX N
 obst Q OOH P S T
+obstsalat Q OO P S T Z AAH L AAH T
 obwalten Q OO P V AH L T AX N
 obwohl Q OO P V OOH L
+ocarrigan Q OO K AH RR IIH G AAH N
 oceans Q AX UU SH AX N S
 ochse Q OO K Z AX
 oda Q OOH D EEH Q AAH
@@ -19446,7 +19903,9 @@ ohren Q OOH RR AX N
 ohrfeigen Q OOH EX F AY G AX N
 ohrfeigte Q OOH EX F AY K T AX
 ohrring Q OOH RR IH NG
+ok Q OO K
 okay Q OO K EE IH
+okey Q OO K EE IH
 oktober Q OO K T OOH B EX
 oktoberwetter Q OO K T OOH B EX V EH T EX
 okular Q OOH K UUH L AAH RR
@@ -19455,12 +19914,15 @@ olaf Q OOH L AH F
 old Q AO UU L D
 oldies Q AO L D IIH S
 olekamp Q OO L AX K AH M P
+olga Q OO L G AAH
 olivenbäume Q OO L IIH V AX N B OY M AX
 olivenfarbene Q OO L IIH V AX N F AH EX B AX N AX
+olivenöl Q OO L IIH V AX N OHH L
 oliver Q OO L IH V EX
 olymp Q OOH L YY M P
 olympia Q OOH L YY M P IIH Y AAH
 olympischen Q OOH L YY M P IH SH AX N
+oma Q OO M AAH
 omaha Q OO M AAH HH AAH
 omar Q OO M AAH EX
 ominöse Q OO M IH N OHH Z AX
@@ -19474,6 +19936,8 @@ onkels Q OO NG K AX L S
 online Q OO N L AY N
 only Q AO UU N L IY
 ontogenetischen Q OO N T OOH G AX N EEH T IH SH AX N
+oooh Q UUH UUH
+ooooh Q UUH UUH
 op Q OOH P EEH
 opel Q OOH P AX L
 open Q OO UU P AX N
@@ -19514,6 +19978,7 @@ optisch Q OO P T IH SH
 orange Q AO RR OOH ZH
 orangegelben Q AO RR OOH ZH G EH L B AX N
 orangen Q AO RR OOH ZH AX N
+orangensaft Q AO RR OOH ZH AH N Z AH F T
 orchester Q OO EX K EH S T EX
 orden Q OO RR D AX N
 ordentlich Q OO EX D EH N T L IH CC
@@ -19579,6 +20044,7 @@ ortskapelle Q OO EX TS K AH P EH L AX
 ortsteile Q OO EX TS T AY L AX
 ortsveränderung Q OO EX TS F EH EX Q EH N D EX RR UU NG
 os/2 Q OOH Q EH S TS V AY
+oscar Q OO S K AA R
 oskar Q OO S K AAH EX
 oslo Q OO S L OOH
 osnabrück Q OO S N AAH B RR YY K
@@ -19633,6 +20099,7 @@ pack P AH K
 packe P AH K AX
 packen P AH K AX N
 packte P AH K T AX
+packung P AH K UU NG
 packungen P AH K UU NG AX N
 paddington P AE D IH NG T AX N
 padua P AH D UUH AAH
@@ -19733,6 +20200,8 @@ partnerschaft P AH EX T N EX SH AH F T
 partnerschaftlich P AH EX T N EX SH AH F T L IH CC
 partnerschaftsabkommen P AH EX T N EX SH AH F TS Q AH P K OO M AX N
 party P AAH T IH
+partygänger P AH EX T YYH G EH NG EX
+partys P AAH T IH S
 pas P AAH S
 pascal P AH S K AH L
 pass P AH S
@@ -19765,6 +20234,7 @@ pasta P AH S T AAH
 pastete P AH S T AX T AX
 pastillen P AH S T IH L AX N
 pastorin P AH S T OOH RR IH N
+pat P AAH T
 pate P AAH T AX
 patenschutzes P AH T EH N SH UU TS AX S
 patent P AH T EH N T
@@ -19843,6 +20313,7 @@ per P EH EX
 peregrinus P EH RR EEH G RR IIH N UU S
 peremptorische P EH RR EH M P T OOH RR IH SH AX
 perfekt P EH EX F EH K T
+perfekter P EH EX F EH K T EX
 perfiden P EH EX F IIH D AX N
 performancegruppe P EH EX F OO RR M AX N S G RR UU P AX
 pergamon P EH EX G AH M OO N
@@ -19893,8 +20364,10 @@ pest P EH S T
 pestilenz P EH S T IIH L EH N TS
 pet P EH T
 peter P EEH T EX
+peters P EEH T EX S
 petersburg P EEH T EX S B UU EX K
 petersdomes P EEH T EX S D OOH M AX S
+petes P EEH T AX S
 petit P AX T IIH T
 petite P AX T IY T
 petition P EH T IIH TS Y OOH N
@@ -19911,6 +20384,7 @@ pfahl PF AAH L
 pfalz PF AH L TS
 pfalzbau PF AH L TS B AW
 pfanne PF AH N AX
+pfannkuchen PF AH NG K UUH X AX N
 pfarre PF AH RR AX
 pfarrer PF AH RR EX
 pfeffernuss PF EH F EX N UU S
@@ -19932,6 +20406,7 @@ pferdegetrappel PF EEH EX D AX G AX T RR AH P AX L
 pferden PF EEH EX D AX N
 pferdes PF EEH EX D AX S
 pfiff PF IH F
+pfirsiche PF IH EX Z IH CC AX
 pflanze PF L AH N TS AX
 pflanzen PF L AH N TS AX N
 pflanzenarten PF L AH N TS AX N Q AH EX T AX N
@@ -20031,6 +20506,7 @@ piloten P IH L OOH T AX N
 pilotprojekten P IIH L OOH T P RR OOH Y EH K T AX N
 pilze P IH L TS AX
 pilzen P IH L TS AX N
+pin P IH N
 pineapple P AY N AE P AX L
 ping P IH NG
 pinsel P IH N Z AX L
@@ -20043,6 +20519,7 @@ pistole P IH S T OOH L AX
 pittoresker P IH T OOH RR EH S K EX
 pittoreskes P IH T OOH RR EH S K AX S
 pizza P IH TS AAH
+pizzeria P IH TS EX RR IIH AAH
 pkw P EEH K AAH V EEH
 plage P L AAH G AX
 plagt P L AH K T
@@ -20072,6 +20549,7 @@ plastik P L AH S T IH K
 plastikdosen P L AH S T IH K D OOH Z AX N
 plastische P L AH S T IH SH AX
 platte P L AH T AX
+platten P L AH T AX N
 plattheiten P L AH T HH AY T AX N
 platz P L AH TS
 platze P L AH TS AX
@@ -20158,6 +20636,7 @@ polterndes P OO L T EX N D AX S
 polterte P OO L T EX T AX
 polykratesgefühl P OO L YYH K RR AAH T AX S G AX F YYH L
 pomade P AO M AAH D AX
+pommes P OO M AX S
 pomp P OO M P
 pomphaft P OO M P HH AH F T
 pony P OO N IIH
@@ -20365,6 +20844,8 @@ privilegium P RR IIH V IIH L EEH G IIH UU M
 pro P RR OOH
 probe P RR OOH B AX
 probezeit P RR OOH B AX TS AY T
+probier P RR OOH B IIH EX
+probieren P RR OOH B IIH RR AX N
 problem P RR OOH B L EEH M
 problematik P RR OOH B L AX M AAH T IH K
 problematisch P RR OOH B L AX M AAH T IH SH
@@ -20430,6 +20911,7 @@ programmäßig P RR OOH G RR AH M EH S IH CC
 projekt P RR OOH Y EH K T
 projekte P RR OOH Y EH K T AX
 projekten P RR OOH Y EH K T AX N
+projektmanager P RR OOH Y EH K T M EH N EH JH EX
 projekts P RR AO Y EH K T Z
 proklamation P RR AO K L AH M AH TS Y OOH N
 prolog P RR AO L OOH K
@@ -20555,6 +21037,7 @@ prüfungsvorschriften P RR YYH F UU NG S F OOH EX SH RR IH F T AX N
 ps P EEH Q EH S
 psalm P S AH L M
 psalmen P S AH L M AX N
+pseudo P S OE D OOH
 pst P S S S T
 psychiatrische P S UE CC IY AAH T RR IH SH AX
 psychisch P S YYH CC IH SH
@@ -20579,6 +21062,7 @@ pudding P UU D IH NG
 puddings P UU D IH NG S
 pudermantels P UUH D EX M AH N T AX L S
 puffs P UU F S
+pullover P UU L OOH V EX
 pulp P AH L P
 puls P UU L S
 pulse P UU L Z AX
@@ -20608,6 +21092,7 @@ puppenstube P UU P AX N SH T UUH B AX
 pupse P UU P Z AX
 purer P UUH RR EX
 purpurfarbigen P UUH EX P UUH RR F AH EX B IH G AX N
+pute P Y UUH T
 putzt P UU TS T
 putzte P UU TS T AX
 pygmäen P IH G M EHH AX N
@@ -20747,6 +21232,7 @@ rahmenbedingungen RR AAH M AX N B AX D IH NG UU NG AX N
 rahmenkonzept RR AAH M AX N K OO N TS EH P T
 rahmenrechten RR AAH M AX N RR EH CC T AX N
 rainer RR AY N EX
+ralph RR AH L F
 ram RR AAH M
 rambo RR AH M B OOH
 ramona RR AH M OOH N AAH
@@ -20786,6 +21272,8 @@ rasen RR AAH Z AX N
 rasend RR AAH Z AX N T
 rasende RR AAH Z AX N D AX
 rasenrondel RR AAH Z AX N RR OO N D EH L
+rasierapparat RR AH Z IIH RR AH P AH RR AAH T
+rasierapparate RR AH Z IIH RR AH P AH RR AAH T AX
 rasiert RR AH Z IIH EX T
 raspberry R AE Z B EH R IY
 rasse RR AH S AX
@@ -20793,6 +21281,7 @@ rassegesicht RR AH S AX G AX Z IH CC T
 rasselas RR AH S AX L AAH S
 rasselte RR AH S AX L T AX
 rasselten RR AH S EH L T AX N
+rastaurant RR AH SH T OOH RR AH
 raste RR AH S T AX
 rasten RR AH S T AX N
 raster RR AH S T EX
@@ -20841,6 +21330,7 @@ raubtierartig RR AW B T IIH RR Q AH RR T IH CC
 raubversuch RR AW B F EH EX Z UUH X
 rauch RR AW X
 rauchen RR AW X AX N
+raucher RR AW X EX
 rauchgefüllte RR AW X G AX F YY L T AX
 rauchorgien RR AW X OO EX G IIH AX N
 rauchst RR AW X S T
@@ -21009,6 +21499,7 @@ rechtswissenschaft RR EH CC TS V IH S AX N SH AH F T
 rechtswissenschaften RR EH CC TS V IH S AX N SH AH F T AX N
 rechtswissenschaftler RR EH CC TS V IH S AX N SH AH F T L EX
 rechtzeitig RR EH CC T TS AY T IH CC
+rechtzetig RR EH CC T TS EEH T IH CC
 red R EH D
 redaktion RR EEH D AH K TS Y OOH N
 redaktionsgeschichte RR EEH D AH K TS Y OOH N S G AX SH IH CC T AX
@@ -21123,6 +21614,7 @@ registrierung RR EEH G IH S T RR IIH RR UU NG
 regler RR EEH G L EX
 regloser RR EEH G L OOH Z EX
 regnen RR EEH G N AX N
+regnerisch RR EEH G N EX IH SH
 regnet RR EEH G N AX T
 regnete RR EEH G N AX T AX
 regte RR EEH K T AX
@@ -21292,6 +21784,7 @@ renten RR EH N T AX N
 rentenversicherung RR EH N T AX N F EH EX Z IH CC EX RR UU NG
 rentner RR EH N T N EX
 reparationen RR EH P AH RR AAH TS Y OOH N AX N
+reparieren RR EEH P AH RR IIH RR AX N
 repariert RR EEH P AH RR IIH EX T
 repetitionen RR EH P EH T IIH TS Y OOH N AX N
 reportage RR EH P OO EX T AAH ZH AX
@@ -21313,6 +21806,7 @@ reserviere RR EEH Z EH RR V IIH RR AX
 reservieren RR EEH Z EH RR V IIH RR AX N
 reserviert RR EEH Z EX V IIH EX T
 reservierten RR EEH Z EH RR V IIH EX T AX N
+reservierung RR EEH Z EH EX V IIH RR UU NG
 reservoir RR EEH Z EH EX V OOH AAH EX
 residenz RR EEH Z IIH D EH N TS
 residieren RR EE Z IIH D IIH RR AX N
@@ -21338,6 +21832,7 @@ ressourcen RR EEH S UU EX S AX N
 rest RR EH S T
 restante RR EH S T AH T
 restaurant RR EH SH T OOH RR AH
+restaurantkette RR EH SH T OOH RR AH N T K EH T AX
 restaurants RR EH S T AO RR OO S
 reste RR EH S T AX
 restliche RR EH S T L IH CC AX
@@ -21437,12 +21932,14 @@ riesiges RR IIH Z IH G AX S
 riet RR IIH T
 rikschafahrer RR IH K SH AH F AAH RR EX
 rinde RR IH N D AX
+rindfleisch RR IH N T F L AY SH
 ring RR IH NG
 ringbedeckten RR IH NG B AX D EH K T AX N
 ringe RR IH NG AX
 rings RR IH NG S
 ringsum RR IH NG S Q UU M
 rio RR IIH OOH
+rippen RR IH P AX N
 rises R AA IH Z AX Z
 risiken RR IIH Z IIH K AX N
 risiko RR IIH Z IH K OOH
@@ -21576,6 +22073,7 @@ roth RR OOH T
 rotiere RR OOH T IIH RR AX
 rotieren RR OOH T IIH RR AX N
 rotkehlchens RR OOH T K EEH L CC AX N S
+rotwein RR OOH T V AY N
 rotwild RR OOH T V IH L T
 rouges RR UH ZH
 rouleaux RR OO L OO Z
@@ -21609,6 +22107,7 @@ rufe RR UUH F AX
 rufen RR UUH F AX N
 rufend RR UUH F AX N D
 rufenden RR UUH F AX N D AX N
+ruffen RR UU F AX N
 rufst RR UUH F S T
 ruft RR UUH F T
 ruh RR UU
@@ -21661,6 +22160,7 @@ runner R VV N ER
 runzeln RR UU N TS AX L N
 runzelte RR UU N TS EH L T AX
 rupert RR UUH P EX T
+russe RR UU S AX
 russen RR UU S AX N
 russisch RR UU S IH SH
 russische RR UU S IH SH AX
@@ -21711,11 +22211,13 @@ röte RR OHH T AX
 röter RR OHH T EX
 rötliche RR OHH T L IH CC AX
 rötlichen RR OHH T L IH CC AX N
+rüber RR YYH B EX
 rück RR YY K
 rücken RR YY K AX N
 rückend RR YY K AX N T
 rückenlinie RR YY K AX N L IIH N IH AX
 rückens RR YY K AX N S
+rückenschmerzen RR YY K AX N SH M EH EX TS AX N
 rückenteil RR YY K AX N T AY L
 rückfall RR YY K F AH L
 rückgang RR YY K G AH NG
@@ -21836,6 +22338,7 @@ saguntum Z AAH K UU N T UUH M
 saguntums Z AH G UU N T UU M S
 sah Z AAH
 sahen Z AAH AX N
+sahne Z AAH N AX
 saint S EH IH N T
 saints Z EH IH N TS
 saison Z EH Z AH
@@ -21844,6 +22347,8 @@ saisonneuerungen Z EH Z OO N OY EX RR UU NG AX N
 saite Z AY T AX
 saiten Z AY T AX N
 sakrileg Z AH K RR IY L EEH K
+salat Z AH L AAH T
+sally Z AE L IY
 salmonellen Z AH L M OOH N EH L AX N
 salomo Z AH L OOH M OOH
 salon Z AH L AO NG
@@ -21856,6 +22361,7 @@ salzigen Z AH L TS IH G AX N
 salzlampe Z AH L TS L AH M P AX
 salzwasser Z AH L TS V AH S EX
 salzwasserfahrten Z AH L TS V AH S EX F AAH EX T AX N
+sam Z AAH M
 samen Z AAH M AX N
 samenkörnchen S AAH M AX N K OE RR N CC AX N
 sammeln Z AH M AX L N
@@ -21871,6 +22377,7 @@ sammlung Z AH M L UU NG
 sammlungen Z AH M L UU NG AX N
 sammten Z AH M T AX N
 samstag Z AH M S T AAH K
+samstagabend Z AH M SH T AAH K Q AAH B AX N T
 samstags Z AH M S T AAH K S
 samt Z AH M T
 samtrobe Z AH M T RR OOH B AX
@@ -21878,12 +22385,16 @@ samtschal Z AH M CH AAH L
 samuel Z AAH M UU EEH L
 samurai Z AH M UU RR AY
 san Z AH N
+sanchez Z AH N CC AX TS
 sand Z AH N T
 sandale Z AH N D AAH L AX
 sandes Z AH N D AX S
+sandra Z AH N D RR AAH
 sandsteine Z AH N CH T AY N AX
 sandte Z AH N T AX
 sandten Z AH N T AX N
+sandwich Z AH N T V IH CC
+sandwichs Z AH N T V IH CC S
 sanft Z AH N F T
 sanfte Z AH N F T AX
 sanften Z AH N F T AX N
@@ -21907,6 +22418,7 @@ sannen Z AH N AX N
 santa S AE N T AX
 santini Z AH N T IIH N IIH
 sarah Z AAH RR AAH
+sarahs Z AAH RR AAH S
 sarajevo Z AH RR AAH Y EEH V OOH
 sardinien Z AH EX D IIH N IIH AX N
 sardisch Z AH EX D IH SH
@@ -22083,6 +22595,7 @@ scheiterte SH AY T EX T AX
 scheiß SH HH AY S
 scheißdreck SH AY S D RR EH K
 scheiße SH HH AY S AX
+schela SH EH L AAH
 schellen SH EH L AX N
 schelten SH EH L T AX N
 scheltend SH EH L T AX N T
@@ -22163,6 +22676,7 @@ schiffsverkehr SH IH F S F EX K EEH RR
 schiffszoll SH IH F S TS OO L
 schikanen SH IH K AAH N AX N
 schikanieren SH IIH K AAH N IIH RR AX N
+schiken SH IH K AX N
 schild SH IH L T
 schilde SH IH L D AX
 schilderte SH IH L D EX T AX
@@ -22222,6 +22736,7 @@ schlagen SH L AAH G AX N
 schlager SH L AAH G EX
 schlagfertig SH L AAH K F EH RR T IH CC
 schlagfertigen SH L AAH K F EH RR T IH G AX N
+schlagsahne SH L AAH K Z AAH N AX
 schlagwasser SH L AAH K V AH S EX
 schlagzeile SH L AAH K TS AY L AX
 schlagzeilen SH L AAH K TS AY L AX N
@@ -22280,6 +22795,7 @@ schlicht SH L IH CC T
 schlichten SH L IH CC T AX N
 schlief SH L IIH F
 schliefen SH L IIH F AX N
+schliessen SH L IIH S AX N
 schließe SH L IIH S AX
 schließen SH L IIH S AX N
 schließend SH L IIH S AX N T
@@ -22335,6 +22851,7 @@ schlussfolgerungen SH L UU S F OO L G AX RR UU NG AX N
 schlusskadenz SH L UU S K AH D EH N TS
 schlusssitzung SH L UU S Z IH TS UU NG
 schlussworten SH L UU S V OO RR T AX N
+schlächter SH L EH CC T EX
 schlächters SH L EH CC T EX S
 schläfe SH L EHH F AX
 schläfen SH L EHH F AX N
@@ -22505,6 +23022,7 @@ schob SH OOH P
 schoben SH OOH B AX N
 schock SH OO K
 schokolade SH OOH K AO L AAH D AX
+schokolades SH OOH K AO L AAH D AX S
 schollen SH OOH L AX N
 schon SH OOH N
 schonend SH OOH N AX N D
@@ -22653,6 +23171,7 @@ schulkinder SH UUH L K IH N D EX
 schulkonzepten SH UUH L K OO N TS EH P T AX N
 schulmädchen SH UUH L M EH T CC AX N
 schulmädchenhandschrift SH UUH L M EH T CC AX N HH AH N CH RR IH F T
+schulparty SH UUH L P AH EX T IIH
 schulpflichten SH UUH L PF L IH CC T AX N
 schulregeln SH UUH L RR EEH G AX L N
 schulstunden SH UUH L S T UU N D AX N
@@ -22793,12 +23312,14 @@ schwestersohn SH V EH S T EX Z OOH N
 schwiebus SH V IIH B UU S
 schwieg SH V IIH K
 schwiegen SH V IIH G AX N
+schwiegermutter SH V IIH G EX M UU T EX
 schwiegersohn SH V IIH G EX Z OOH N
 schwiegervater SH V IIH G EX F AAH T EX
 schwierig SH V IIH RR IH CC
 schwierige SH V IIH RR IH G AX
 schwierigen SH V IIH RR IH G AX N
 schwieriger SH V IIH RR IH G EX
+schwierigere SH V IIH RR IH G EX RR AX
 schwieriges SH V IIH RR IH G AX S
 schwierigkeit SH V IIH RR IH CC K AY T
 schwierigkeiten SH V IIH RR IH CC K AY T AX N
@@ -22821,6 +23342,7 @@ schwindlig SH V IH N T L IH CC
 schwindsucht SH V IH N T Z UU X T
 schwingen SH V IH NG AX N
 schwingungen SH V IH NG UU NG AX N
+schwiriger SH V IIH RR IH G EX
 schwirrte SH V IH RR T AX
 schwirrten SH V IH RR T AX N
 schwitters SH V IH T EX S
@@ -22941,6 +23463,7 @@ scrapbook S K R EH P B UU K
 scrat S K RR EHH T
 scrolle S K RR OO L AX
 scrollen S K RR OO L AX N
+sea Z EEH AAH
 seattle S IY AE T AX L
 sebastian Z EEH B AH S T IIH AAH N
 sebstbezüglich Z EE L P S T B EE TS YYH K L IH CC
@@ -23053,6 +23576,7 @@ seien Z AY AX N
 seife S AY F AX
 seifenblasen S AY F AX N B L AAH Z AX N
 seifengeruch S AY F AX N G AX RR UU CC
+seifenopern S AY F AX N OO P EX N
 seil Z AY L
 seilen Z AY L AX N
 seilhülle Z AY L HH YY L AX
@@ -23085,6 +23609,7 @@ seitentür S AY T AX N T YYH EX
 seither Z AY T HH EEH EX
 sekretariat Z EEH K RR EEH T AAH RR IIH AAH T
 sekretär Z EH K RR EH T EHH EX
+sekretärin Z EEH K RR EH T EHH RR IH N
 sektfrühstück Z EH K T F RR YYH SH T YY K
 sektor Z EH K T OOH EX
 sektors Z EH K T OO EX S
@@ -23236,7 +23761,10 @@ shakespeare SH EH IH K S P IY R
 sharing SH EH R IH NG
 sharp SH AA R P
 shaun SH OO N
+shauna SH OO N AAH
+shauns SH OO N S
 shawl SH OOOH L
+sheila SH AY L AAH
 shell SH EH L
 shelley SH EH L IY
 shepherd SH EH P ER D
@@ -23450,6 +23978,7 @@ sinnvolles Z IH N F OO L AX S
 sinnzerstörenden Z IH N TS EH EX SH T OHH RR AX N D AX N
 sir S OE EX
 sirius S IH R IY IH S
+sirup S IH RR UU P
 sitte Z IH T AX
 sitten Z IH T AX N
 situation Z IIH T UUH AH TS Y OOH N
@@ -23492,6 +24021,7 @@ sklaverei S K L AAH V AX RR AY
 sklavin S K L AH V IH N
 sklavischen S K L AAH V IH SH AX N
 skorpion S K OO RR P Y OOH N
+skript S K RR IH P T
 skulpturen S K UU L P T UUH RR AX N
 skyfm S K AY Q EE F Q EE M
 skype S K AY P
@@ -23502,10 +24032,12 @@ slowakei S L AO V AH K AY
 slowenische S L OOH V EEH N IH SH AX
 smalltalk S M OO L T OO K
 smart S M AH RR T
+smartphone S M AH EX T F OOH N AX
 smartphones S M AH EX T F OOH N S
 smith S M IH TH
 snap S N AE P
 snatch S N AE CH
+snowboard Z N AW B OOH EX T
 so Z OOH
 sobald Z OOH B AH L T
 social S AX UU SH AX L
@@ -23521,6 +24053,7 @@ sofortigen Z OOH F OO EX T IH G AX N
 softly Z OO F T L IIH
 software S OO F T V EHH EX
 softwareanwendung S OO F T V EHH EX Q AH N V EH N D UU NG
+softwareentwicklerin Z OO F T V EHH EX Q EH N T V IH K L EX RR IH N
 softwarelizenz S OO F T V EHH EX L IH TS EH N TS
 softwarelizenzen S OO F T V EHH EX L IH TS EH N S AX N
 sog Z OOH G
@@ -23534,6 +24067,8 @@ sohn Z OOH N
 sohne Z OOH N AX
 sohnes Z OOH N AX S
 sohns Z OOH N S
+soja Z OOH Y AAH
+sojamilch Z OOH Y AH M IH L CC
 solange Z OOH L AH NG AX
 solaris Z AO L AAH RR IH S
 solarpanel Z OOH L AH RR P EH N AX L
@@ -23575,6 +24110,8 @@ sommerreize Z OO M EX RR AY TS AX
 sommers Z OO M EX S
 somnambulismus Z OOH M N AH M B UUH L IH S M UU S
 sonderabkommens Z OO N D EX AH P K OO M AX N S
+sonderangebot Z OO N D EX AH NG G AX B OOH T
+sonderangebote Z OO N D EX AH NG G AX B OOH T AX
 sonderbar Z OO N D EX B AAH EX
 sonderbare Z OO N D EX B AAH RR AX
 sonderbaren Z OO N D EX B AAH RR AX N
@@ -23588,6 +24125,7 @@ sonderlich Z OO N D EX L IH CC
 sonderliche Z OO N D EX L IH CC AX
 sondermüll Z OO N D EX M YY L
 sondern Z OO N D EX N
+sondernangebote Z OO N D EX N Q AH N G AX B OOH T AX
 sonderquadrat Z OO N D EH RR K V AH D RR AAH T
 sonderzeichen Z OO N D EX TS AY CC AX N
 sondieren Z OO N D IIH RR AX N
@@ -23595,6 +24133,8 @@ sonnabend Z OO N AAH B AX N T
 sonne Z OO N AX
 sonnen Z OO N AX N
 sonnenbahnen Z OO N AX N B AAH N AX N
+sonnenbrille Z OO N AX N B RR IH L AX
+sonnencreme Z OO N AX N K RR EEH M AX
 sonnenenergie Z OO N AX N Q EEH N EH EX G IIH
 sonnengold Z OO N AX N G OO L T
 sonnenhitze Z OO N AX N HH IH TS AX
@@ -23621,6 +24161,7 @@ sonst Z OO N S T
 sonstige Z OO N S T IH G AX
 sonstigen Z OO N S T IH G AX N
 sont S AO
+sontag Z OO N T AAH K
 sophie Z OOH F IIH
 sopranos Z OOH P RR AAH N OOH S
 sorcerers S OO S AX R AX R S
@@ -23719,6 +24260,7 @@ spalten SH P AH L T AX N
 spaltung SH P AH L T UU NG
 spanien SH P AAH N IIH Y AX N
 spaniens SH P AAH N IIH EH N S
+spanier SH P AH N IIH EX
 spanierin SH P AAH N IIH EX RR IH N
 spanisch SH P AAH N IH SH
 spanische SH P AAH N IH SH AX
@@ -23728,6 +24270,7 @@ spannbaum SH P AH N B AW M
 spanne SH P AH N AX
 spannend SH P AH N AX N T
 spannenden SH P AH N AX N D AX N
+spannender SH P AH N AX N D EX
 spannung SH P AH N UU NG
 spannungen SH P AH N UU NG AX N
 spannweiten SH P AH N V AY T AX N
@@ -23794,7 +24337,10 @@ spezialfett SH P EEH TS Y AAH L F EH T
 spezialgebiet SH P EEH TS Y AAH L G AX B IIH T
 spezialisiert SH P EEH TS Y AH L IIH Z IIH EX T
 spezialisierten SH P EEH TS Y AH L IIH Z IIH EX T AX N
+spezialisierung SH P EEH TS Y AH L IIH Z IIH RR UU NG
+spezialist SH P EEH TS Y AH L IH S T
 spezialisten SH P EEH TS Y AH L IH S T AX N
+spezialität SH P EEH TS Y AH L IIH T EHH T
 speziell SH P EEH TS Y EH L
 spezielle SH P EEH TS Y EH L AX
 speziellen SH P EEH TS Y EH L AX N
@@ -23910,6 +24456,7 @@ sprachgebrauche SH P RR AAH X G AX B RR AW X AX
 sprachmodell SH P RR AAH X M OOH D EH L
 sprachmodellen SH P RR AAH X M OOH D EH L AX N
 sprachregelung SH P RR AAH X RR EEH G AX L UU NG
+sprachschule SH P RR AAH X SH UUH L AX
 sprachst SH P RR AAH X S T
 sprang SH P RR AH NG
 sprangen SH P RR AH NG AX N
@@ -24085,6 +24632,7 @@ stammt SH T AH M T
 stammten SH T AH M T AX N
 stampfen SH T AH M PF AX N
 stampfte SH T AH M PF T AX
+stan SH T AAH N
 stand SH T AH N T
 standard SH T AH N D AH EX T
 standardausgabe SH T AH N D AH EX T Q AW S G AAH B AX
@@ -24112,6 +24660,7 @@ stapel SH T AAH P AX L
 star SH T AAH EX
 starb SH T AAH EX P
 starben SH T AH RR B AX N
+starbucks SH T AH EX B UU K S
 stark SH T AH EX K
 starke SH T AH RR K AX
 starkem SH T AH EX K AX M
@@ -24138,6 +24687,7 @@ startete SH T AH RR T AX T AX
 starteten SH T AH EX T AX T AX N
 starthilfen SH T AH EX T HH IH L F AX N
 startlinie SH T AH EX T L IIH N IH AX
+startup SH T AH EX T UU P
 station SH T AH TS Y OOH N
 stationen SH T AH TS Y OOH N AX N
 stationiert SH T AH TS Y OOH N IIH EX T
@@ -24181,6 +24731,10 @@ staunenden SH T AW N AX N D AX N
 staunender SH T AW N AX N D EX
 staunens SH T AW N AX N S
 staunte SH T AW N T AX
+steak S T IIH K
+steakhaus S T IY K HH AW S
+steakhause S T IY K HH AW Z AX
+steakhouse S T IY K HH UH Z
 steal S T IIH L
 steam S T IIH M
 stechend SH T EH CC AX N T
@@ -24274,6 +24828,7 @@ stemmte SH T EH M T AX
 stephan SH T EH F AH N
 stephen S T IY V AX N
 stephenson S T IY V AX N S AX N
+steppen S T EH P AX N
 sterbe SH T EH EX B AX
 sterben SH T EH RR B AX N
 sterbend SH T EH RR B AX N D
@@ -24323,6 +24878,8 @@ steuerzahler SH T OY EX TS AAH L EX
 steuerzahlers SH T OY EX TS AAH L EX S
 steve S T IY V
 steven S T IY V AX N
+stevens S T IY V AX N Z
+steves S T IY V AX S
 stewart S T UH ER T
 steyr SH T AY EX
 stgb Q EH S T EEH G EEH B EEH
@@ -24350,6 +24907,7 @@ stiftsfräulein CH T IH F TS F RR OI L AY N
 stiftung SH T IH F T UU NG
 stigma SH T IH G M AAH
 stil S T IIH L
+stilgerechte SH T IH L G AX RR EH CC T AX
 still SH T IH L
 stille SH T IH L AX
 stillen SH T IH L AX N
@@ -24364,6 +24922,8 @@ stillschweigenden SH T IH L SH V AY G AX N D AX N
 stillstand SH T IH L SH T AH N T
 stillten SH T IH L T AX N
 stils SH T IIH L S
+stilvoll SH T IIH L F OO L
+stilvollteste SH T IIH L F OO L T AX S T AX
 stimm SH T IH M
 stimme SH T IH M AX
 stimmen SH T IH M AX N
@@ -24461,6 +25021,7 @@ strahlten SH T RR AAH L T AX N
 strahlung SH T RR AAH L UU NG
 stramm SH T RR AH M
 strammer SH T RR AH M EX
+strand SH T RR AH N T
 stranger S T R EE IH N JH AX
 strasse SH T RR AAH S AX
 strategen SH T RR AH T EEH G AX N
@@ -24568,6 +25129,7 @@ strompreise SH T RR OOH M P RR AY Z AX
 stromquelle SH T RR OOH M K V EH L AX
 stromverschlüsselung SH T RR OOH M F EH EX SH L YY S AX L UU NG
 stromversorgung SH T RR OOH M F EH EX Z OO EX G UU NG
+stromzähler SH T RR OOH M TS EHH L EX
 strophen SH T RR OOH F AX N
 strudel SH T RR UUH D AX L
 struktur SH T RR UU K T UUH EX
@@ -24640,6 +25202,8 @@ stunden SH T UU N D AX N
 stundenlange SH T UU N D AX N L AH NG AX
 stundenlangen SH T UU N D AX N L AH NG AX N
 stundenlohn SH T UU N D AX N L OOH N
+stundenplan SH T UU N D AX N P L AAH N
+stuntmädchen SH T UU N T M EHH D CC AX N
 stupider SH T UUH P IIH D EX
 sturm SH T UU RR M
 sturmläuten SH T UU RR M L OY T AX N
@@ -24651,6 +25215,7 @@ stuttgarter SH T UU T G AH EX T EX
 stutzer SH T UU TS EX
 stutzig SH T UU TS IH CC
 stutzte SH T UU TS T AX
+stylish SH T YYH L IH SH
 stäbchen SH T EHH B CC AX N
 stäbe SH T EHH B AX
 städte SH T EHH T AX
@@ -24741,6 +25306,7 @@ subventionen Z UU B V EH N TS Y OOH N AX N
 subventioniert Z UU B V EH N TS Y OOH N IIH EX T
 subventionierten Z UU B V EH N TS Y OOH N IIH EX T AX N
 subventionierung Z UU B V EH N TS Y OOH N IIH RR UU NG
+such Z UUH X
 suche Z UUH X AX
 suchen Z UUH X AX N
 suchend Z UU X AX N T
@@ -24757,6 +25323,7 @@ sud Z UUH D
 sudermann Z UUH D EX M AH N
 sudpfanne Z UUH T PF AH N AX
 sukzessive Z UU K TS AX S IIH V AX
+sullivans Z UU L IIH V AH N S
 summa Z UU M AAH
 summarum Z UU M AAH RR UU M
 summe Z UU M AX
@@ -24777,7 +25344,9 @@ susan S UH Z AX N
 susanna Z UU Z AH N AAH
 susanne Z UU Z AH N AX
 suse Z UUH Z AX
+sushi S VV SH IY
 suspend Z UU S P EH N T
+sutton Z UU T OOH N
 sv Q EH S F AW
 sven S V EH N
 swap S V OO P
@@ -25104,16 +25673,19 @@ techno T EH K N OOH
 technologie T EH CC N AO L OOH G IIH
 technologien T EH CC N OOH L OOH G IIH AX N
 technologisch T EH CC N OOH L OOH G IH SH
+ted T EE D
 tee T EEH
 teebi T IIH B IH
 teebrett T EEH B RR EH T
 teegeschirr T EEH G AX SH IH RR
 teekanne T EEH K AH N AX
 teemaschine T EEH M AH SH IIH N AX
+teenager T EEH N AAH G EX
 tees T EEH S
 teestunde T EEH SH T UU N D AX
 teetisch T EEH T IH SH
 teetopf T EEH T OO PF
+teffen T EH F AX N
 teich T AY CC
 teichbefüllung T AY CC B EEH F YY L UU NG
 teichbefüllungen T AY CC B EEH F YY L UU NG AX N
@@ -25242,10 +25814,12 @@ testamente T EH S T AH M EH N T AX
 testators T EH S T AAH T OO EX S
 testberichte T EH S T B AX RR IH CC T AX
 testen T EH S T AX N
+tests T EH S TS
 testsieger T EH S T Z IIH G EX
 testverfahren T EH S T F EH EX F AAH RR AX N
 testzeitraums T EH S T TS AY T RR AW M S
 teuer T OY EX
+teuerste T OY EX S T AX
 teufel T OY F AX L
 teufels T OY F AX L S
 teufelslarven T OY F AX L S L AH RR V AX N
@@ -25267,7 +25841,9 @@ textes T EH K S T AX S
 textilwaren T EH K S T IIH L V AAH RR AX N
 textkorpora T EH K S T K OO RR P OOH RR AAH
 textstelle T EH K S CH T EH L AX
+tgi T EEH G IIH
 than DH EH N
+thank DH AH NG K
 the DH AX
 the_1 DH IIH
 theater T EEH AAH T EX
@@ -25304,11 +25880,14 @@ thomas T OOH M AH S
 thor T OOH EX
 thornfield TH OO R N F IY L D
 thrash T R EH SH
+thriller T RR IH L EX
 thron T RR OOH N
 thronbesteigung T RR OOH N B AX SH T AY G UU NG
+thrones T RR OOH N AX S
 thule T UUH L AX
 thumberländischen TH AA M B EX L EH N D IH SH AX N
 thunderbird TH AH N D EX B OHH EX T
+thunfisch TH AH N F IH SH
 thé T EEH
 thüringen T YYH RR IH NG AX N
 tibets T IIH B EH TS
@@ -25353,6 +25932,8 @@ tilgung T IH L G UU NG
 tillman T IH L M AH N
 tim T IH M
 time T AY M
+times T AY M S
+timmy T IH M IIH
 timo T IIH M OOH
 tinte T IH N T AX
 tipp T IH P
@@ -25433,6 +26014,7 @@ tollheit T OO L HH AY T
 tom T OO M
 tomate T AO M AAH T AX
 tomaten T OOH M AAH T AX N
+tomatensuppe T OOH M AAH T AX N Z UU P AX
 ton T OOH N
 tone T OOH N AX
 tonhöhe T OOH N HH OHH AX
@@ -25442,6 +26024,7 @@ tonnen T OO N AX N
 tonnengeld T OO N AX N G EH L T
 tonqualität T OOH N K V AH L IIH T EHH T
 tonsignale T OOH N Z IH G N AAH L AX
+tony T AX UU N IIH
 topf T OO PF
 topologie T OOH P OOH L OOH G IIH
 topologisch T OOH P OOH L OOH G IH SH
@@ -25515,6 +26098,7 @@ traktoren T RR AH K T OOH RR AX N
 traktätchen T RR AH K T EH T CC AX N
 trampeln T RR AH M P AX L N
 trance T RR EH N TS
+tranieren T RR AH N IIH RR AX N
 trank T RR AH NG K
 tranken T RR AH NG K AX N
 tranquille T RR AH N K V IH L AX
@@ -25574,9 +26158,12 @@ traurigen T RR AW RR IH G AX N
 trauriger T RR AW RR IH G EX
 trauriges T RR AW RR IH G AX S
 traurigkeit T RR AW RR IH CC K AY T
+traurigste T RR AW RR IH CC S T AX
 traute T RR AW T AX
 trauten T RR AW T AX N
 trauung T RR AW Q UU NG
+travers T RR AAH V EH EX S
+travolta T RR AH V OO L T AAH
 treffe T RR EH F AX
 treffen T RR EH F AX N
 treffend T RR EH F AX N T
@@ -25587,6 +26174,7 @@ treffliche T RR EH F L IH CC AX
 trefflichem T RR EH F L IH CC AX M
 treffpunkt T RR EH F P UU NG K T
 treffsicherheit T RR EH F Z IH CC EX HH AY T
+trefft T RR EH F T
 treiben T RR AY B AX N
 treibende T RR AY B AX N D AX
 treibhausblumen T RR AY B HH AW S B L UUH M AX N
@@ -25646,6 +26234,7 @@ trigrammstatistiken T RR IIH G RR AH M SH T AH T IH S T IIH K AX N
 trilogie T RR IH L OOH G IIH
 trilogy T R IH L AO JH IH
 trink T RR IH NG K
+trinke T RR IH NG K AX
 trinken T RR IH NG K AX N
 trinkens T RR IH NG K AX N S
 trinkgeld T RR IH NG K G EH L T
@@ -25766,6 +26355,7 @@ tschechischen CH EH CC IH SH AX N
 tschechoslowakei CH EH CC OOH S L OOH V AH K AY
 tschechoslowakischen CH EH CC AO S L AO V AAH K IH SH AX N
 tschernobyl CH EH EX N OO B YY L
+tschüs CH YY S
 tschüss CH YY S
 tsv T EEH Q EH S F AW
 tu T UU
@@ -25795,6 +26385,7 @@ turm T UU RR M
 turme T UU EX M AX
 turmhohen T UU RR M HH OOH AX N
 turms T UU RR M S
+turnhalle T UU RR N HH AH L AX
 turnier T UU RR N IIH EX
 tus T UUH S
 tust T UUH S T
@@ -25826,6 +26417,7 @@ tägliche T EH K L IH CC AX
 täglichen T EHH K L IH CC AX N
 täler T EHH L EX
 tälern T EHH L EX N
+tänze T EH N TS AX
 tänzer T EH N TS EX
 tänzerin T EH N TS EX RR IH N
 täte T EHH T AX
@@ -25896,6 +26488,8 @@ türklinke T YY EX K L IH NG K AX
 türme T YY EX M AX
 türmte T YY EX M T AX
 türmten T YY RR M T AX N
+tüte T YYH T AX
+tüten T YYH T AX N
 u Q UUH
 ua Q UUH AAH
 ubahn Q UU B AAH N
@@ -25925,6 +26519,7 @@ ulrich Q UU L RR IH CC
 ultima Q UU L T IIH M AAH
 ultimatum Q UU L T IIH M AAH T UU M
 um Q UU M
+um1 Q UU M
 umarmen Q UU M AH EX M AX N
 umarmte Q UU M Q AH EX M T AX
 umarmten Q UU M Q AH EX M T AX N
@@ -26700,6 +27295,7 @@ unternehmen Q UU N T EX N EEH M AX N
 unternehmens Q UU N T EX N EEH M AX N S
 unternehmensanteil Q UU N T EX N EEH M AX N S Q AH N T AY L
 unternehmensgründung Q UU N T EX N EEH M AX N S G RR YY N D UU NG
+unternehmenskultur Q UU N T EX N EEH M AX N S K UU L T UUH EX
 unternehmensstrukturen Q UU N T EX N EEH M AX N S SH T RR UU K T UUH RR AX N
 unternehmer Q UU N T EX N EEH M EX
 unternehmergeist Q UU N T EX N EEH M EX G AY S T
@@ -26971,12 +27567,18 @@ vaters F AAH T EX S
 vaterschaftsurlaubs F AAH T EX SH AH F TS Q UUH EX L AW P S
 vc F AW TS EEH
 vegas V EEH G AH S
+vegetarier F EEH G EH T AH RR IIH EX
+vegetariesches F EEH G EH T AH RR IIH SH AX S
+vegetarisches F EEH G EH T AAH RR IH SH AX S
 vegetation V EEH G EH T AH TS Y OOH N
 vehement V EE HH EE M EH N T
 veilchenduft F AY L CC AX N D UU F T
+veilleicht F AY L AY CC T
 velo V EEH L OOH
+veloren V EH L OOH RR AX N
 venedig V EEH N EEH D IH CC
 venezuela V EEH N EEH TS UUH Q EEH L AAH
+venti V EH N T IIH
 ventil V EH N T IIH L
 ventilator V EH N T IIH L AAH T OOH EX
 ventilierte V EH N T IIH L IIH EX T AX
@@ -27122,6 +27724,7 @@ verbrennen F EH EX B RR EH N AX N
 verbrennt F EH EX B RR EH N T
 verbrennung F EH EX B RR EH N UU NG
 verbrennungsgefahr F EH EX B RR EH N UU NG S G AX F AAH EX
+verbringe F EH EX B RR IH NG AX
 verbringst F EH EX B RR IH NG S T
 verbrämt F EH EX B RR EHH M T
 verbucht F EH EX B UUH X T
@@ -27441,7 +28044,9 @@ verjährung F EH EX Y EHH RR UU NG
 verkabelung F EH EX K AAH B AX L UU NG
 verkannt F EH EX K AH N T
 verkauf F EH EX K AW F
+verkaufe F EH EX K AW F AX
 verkaufen F EH EX K AW F AX N
+verkaufsbericht F EH EX K AW F S B AX RR IH CC T
 verkaufsfläche F EH EX K AW F S F L EH CC AX
 verkaufspreise F EH EX K AW F S P RR AY Z AX
 verkaufsstelle F EH EX K AW F S SH T EH L AX
@@ -27494,6 +28099,7 @@ verkriechen F EH EX K RR IIH CC AX N
 verkäufe F EH EX K OY F AX
 verkäufen F EH EX K OY F AX N
 verkäufer F EH EX K OY F EX
+verkäuferin F EH EX K OY F EX RR IH N
 verkörpern F EH EX K OE EX P EX N
 verkörpert F EH EX K OE EX P EX T
 verkörperte F EH EX K OE EX P EX T AX
@@ -27923,6 +28529,9 @@ versprengten F EX SH P RR EH NG T AX N
 verspricht F EH EX SH P RR IH CC T
 versprochen F EH EX SH P RR OO X AX N
 versprochenes F EH EX SH P RR OO X AX N AX S
+verspäte F EH EX SH P EHH T AX
+verspäter F EH EX SH P EHH T EX
+verspätet F EH EX SH P EHH T AX T
 verspätetes F EH EX SH P EHH T AX T AX S
 verspätung F EH EX SH P EHH T UU NG
 verspätungen F EH EX SH P EHH T UU NG AX N
@@ -28086,6 +28695,7 @@ vertretung F EH EX T RR EEH T UU NG
 vertretungsberechtigt F EH EX T RR EH T UU NG S B AX RR EH CC T IH K T
 vertretungsmacht F EH EX T RR EEH T UU NG S M AH X T
 vertrieben F EH EX T RR IIH B AX N
+vertriebsbericht F EH EX T RR IIH P S B AX RR IH CC T
 vertritt F EH EX T RR IH T
 vertrockneter F EH EX T RR OO K N AX T EX
 vertrocknetes F EH RR T RR OO K N AX T AX S
@@ -28373,6 +28983,7 @@ villa V IH L AH
 vincent V IH N S EH N T
 vinci V IH N CH IIH
 vining V AA IH N IH NG
+vinny V IH N IIH
 vinschgau V IH N SH G AW
 violence V AY AX L AX N S
 violine V IIH OOH L IIH N AX
@@ -28454,6 +29065,7 @@ vollkommene F OO L K OO M AX N AX
 vollkommener F OO L K OO M AX N EX
 vollmacht F OO L M AH X T
 vollmer F OO L M EX
+vollmilch F OO L M IH L CC
 vollmitglied F OO L M IH T G L IIH T
 vollster F OO L S T EX
 vollstreckung F OO L SH T RR EH K UU NG
@@ -28623,6 +29235,7 @@ vorgänge F OO EX G EH NG AX
 vorgängen F OOH EX G EH NG AX N
 vorgänger F OO EX G EH NG EX
 vorgängerin F OO EX G EH NG EX RR IH N
+vorhabe F OOH EX HH AAH B AX
 vorhaben F OOH EX HH AAH B AX N
 vorhalle F OOH EX HH AH L AX
 vorhaltend F OOH EX HH AH L T AX N T
@@ -28764,6 +29377,7 @@ vorsitzes F OOH EX Z IH TS AX S
 vorsorge F OOH EX Z OO EX G AX
 vorsorgekosten F OOH EX S OO EX K AX K OO S T AX N
 vorsorgen F OOH EX Z OO RR G AX N
+vorspeise F OOH EX SH P AY Z AX
 vorspiel F OOH EX SH P IIH L
 vorspielen F OOH EX SH P IIH L AX N
 vorsprung F OOH EX SH P RR UU NG
@@ -28918,6 +29532,7 @@ wackeren V AH K EX RR AX N
 wackligen V AH K L IH G AX N
 wacks V AH K S
 waffe V AH F AX
+waffeln V AH F AX L N
 waffen V AH F AX N
 waffenexporte V AH F AX N Q EH K S P OO EX T AX
 waffenhändler V AH F AX N HH EH N D L EX
@@ -29021,6 +29636,7 @@ wanda V AH N D AAH
 wandel V AH N D AX L
 wandels V AH N D AX L S
 wandelte V AH N D AX L T AX
+wandere V AH N D EX RR AX
 wanderer V AH N D AX RR EX
 wanderers V AH N D AX RR EX S
 wandern V AH N D EX N
@@ -29080,11 +29696,13 @@ warum V AH RR UU M
 warze V AH EX TS AX
 was V AH S
 waschbecken V AH SH B EH K AX N
+wasche V AH SH AX
 waschen V AH SH AX N
 waschens V AH SH AX N S
 waschkruge V AH SH K RR UUH G AX
 waschkrüge V AH SH K RR YYH G AX
 waschleinen V AH SH L AY N AX N
+waschmaschine V AH SH M AH SH IIH N AX
 waschschüssel V AH SH SH YY S AX L
 waschtisch V AH SH T IH SH
 waschtischen V AH SH T IH SH AX N
@@ -29109,6 +29727,7 @@ wasserkrug V AH S EX K RR UUH K
 wasserkrügen V AH S EX K RR YYH G AX N
 wasserläufe V AH S EX L OY F AX
 wassermann V AH S EX M AH N
+wassermelonen V AH S EX M AX L OOH N AX N
 wassermühle V AH S EX M YYH L AX
 wassern V AH S EX N
 wasserpfuhl V AH S EX PF UUH L
@@ -29138,6 +29757,7 @@ webseite V EH P Z AY T AX
 webserver V EH P S OE EX V EX
 website W EH B S AA IH T
 wechsel V EH K S AX L
+wechselgeld V EH K S AX L G EH L T
 wechselhaftem V EH K S AX L HH AH F T AX M
 wechselhorste V EH K Z AX L HH OO EX S T AX
 wechselkurse V EH K Z AX L K UU EX Z AX
@@ -29172,6 +29792,7 @@ weggeblieben V EH K G AX B L IIH B AX N
 weggebrochen V EH K G AX B RR OO X AX N
 weggefallen V EH K G AX F AH L AX N
 weggegangen V EH K G AX G AH NG AX N
+weggehen V EH K G EEH AX N
 weggehst V EH K G EEH S T
 weggelaufen V EH K G AX L AW F AX N
 weggelegt V EH K G AX L EEH K T
@@ -29336,6 +29957,7 @@ weißer V AY S EX
 weißes V AY S AX S
 weißhaarige V AY S HH AH RR IH G AX
 weißleinenen V AY S L AY N AX N AX N
+weißrussland V AY S RR UU S L AH N T
 weißschimmernd V AY S SH IH M EX N T
 weißt V AY S T
 welch V EH L CC
@@ -29358,6 +29980,7 @@ welpen V EH L P AX N
 welser V EH L Z EX
 welt V EH L T
 weltbank V EH L T B AH NG K
+welten V EH L T AX N
 welternährung V EH L T Q EH EX N EHH RR UU NG
 welterstzucht V EH L T Q EH EX S TS UU X T
 weltfremd V EH L T F RR EH M T
@@ -29398,6 +30021,7 @@ wendete V EH N D AX T AX
 wendig V EH N D IH CC
 wendländischen V EH N T L EH N D IH SH AX N
 wendung V EH N D UU NG
+wendy W EH N D IY
 wenig V EEH N IH CC
 wenige V EEH N IH G AX
 wenigen V EEH N IH G AX N
@@ -29509,6 +30133,8 @@ wetterverhältnisse V EH T EX F EH EX HH EH L T N IH S AX
 wettervorhersage V EH T EX F OOH RR HH EEH RR Z AAH G AX
 wettkämpfe V EH T K EH M PF AX
 whats W AX TS
+whatsapp W AX TS EH P
+white W AY T
 whitecastle W AY T K AAH S AX L
 whitney W IH T N IIH
 who V EEH Q HH AAH Q OOH
@@ -29617,7 +30243,9 @@ wiederzufinden V IIH D EX TS UUH F IH N D AX N
 wiederzukommen V IIH D EX TS UUH K OO M AX N
 wiederzusehen V IIH D EX TS UUH Z EEH AX N
 wiegen V IIH G AX N
+wiegt V IIH K T
 wiegte V IIH K T AX
+wiel V IIH L
 wien V IIH N
 wiener V IIH N EX
 wienflusses V IIH N F L UU S AX S
@@ -29630,6 +30258,7 @@ wiesenplan V IIH Z AX N P L AAH N
 wieso V IIH Z OOH
 wieviel V IIH F IIH L
 wievielen V IIH F IIH L AX N
+wießt V IIH S T
 wiki V IIH K IIH
 wikipedia V IIH K IIH P EEH D IIH AAH
 wiktionary W IH K SH AX N EH R IY
@@ -29833,6 +30462,8 @@ wissenschaftlichen V IH S AX N SH AH F T L IH CC AX N
 wissensstand V IH S AX N S SH T AH N T
 wissmann V IH S M AH N
 wisst V IH S T
+wit V IH T
+witch W IH CH
 with W IH DH
 witterung V IH T EX UU NG
 witterungseinflüsse V IH T EX UU NG S Q AY N F L YY S AX
@@ -29854,6 +30485,7 @@ woche V OO X AX
 wochen V OO X AX N
 wochenbett V OO X AX N B EH T
 wochenende V OO X AX N EH N D AX
+wochenenden V OO X AX N EH N D AX N
 wochenendjournal V OO X AX N Q EE N T ZH AO RR N AAH L
 wochentag V OO X AX N T AAH K
 wodurch V OOH D UU RR CC
@@ -29946,6 +30578,7 @@ wollenen V OO L AX N AX N
 wollener V OO L AX N EX
 wollenes V OO L AX N AX S
 wollkleide V OO L K L AY D AX
+wollpullover V OO L P UU L L OOH V EX
 wollt V OO L T
 wollte V OO L T AX
 wollten V OO L T AX N
@@ -29954,6 +30587,7 @@ wolverine W UU L V ER IY N
 womit V OOH M IH T
 womöglich V OOH M OHH K L IH CC
 wonach V OOH N AH X
+wong V OO NG
 wonne V OO N AX
 woods W UU D Z
 woody W UU D IY
@@ -30096,6 +30730,7 @@ wärterin V EHH EX T AX RR IH N
 wäsche V EH SH AX
 wäscherin V EH SH EX RR IH N
 wäscheschrank V EH SH AX SH RR AH NG K
+wäschst V EH SH S T
 wöchentlich V OE CC AX N T L IH CC
 wölbte V OHH L B T AX
 wölbten V OHH L B T AX N
@@ -30103,6 +30738,7 @@ wölbung V OHH L B UU NG
 wölfe V OE L F AX
 wölfen V OE L F AX N
 wörter V OE EX T EX
+wörterbuch V OE EX T EX B UUH X
 wörterbuches V OE EX T EX B UUH X AX S
 wörterbuchs V OE EX T EX B UUH X S
 wörterbücher V OE EX T EX B YYH CC EX
@@ -30169,6 +30805,7 @@ zackig TS EH K IH CC
 zagen TS AAH G AX N
 zagreb Z AAH G RR EH P
 zahl TS AAH L
+zahle TS AAH L AX
 zahlen TS AAH L AX N
 zahllose TS AAH L L OOH Z AX
 zahllosen TS AAH L L OOH Z AX N
@@ -30177,6 +30814,7 @@ zahlreich TS AAH L RR AY CC
 zahlreiche TS AAH L RR AY CC AX
 zahlreichen TS AAH L RR AY CC AX N
 zahlreicher TS AAH L RR AY CC EX
+zahlst TS AAH L S T
 zahlstelle TS AAH L SH T EH L AX
 zahlt TS AAH L T
 zahlung TS AAH L UU NG
@@ -30196,6 +30834,7 @@ zahnbürste TS AAH N B YY EX S T AX
 zahnfee TS AAH N F EEH
 zahnfleisch TS AAH N F L AY SH
 zahnkranzseite TS AAH NG K RR AH N TS S AY T AX
+zahnpasta TS AAH N P AH S T AAH
 zahnschmerz TS AAH N SH M EH EX TS
 zahnärzten TS AAH N Q EH EX TS T AX N
 zama TS AAH M AAH
@@ -30451,6 +31090,7 @@ zimmers TS IH M EX S
 zimmertemperatur TS IH M EX T EH M P AX RR AH T UUH EX
 zimmertür TS IH M EX T YYH EX
 zimmerwärme TS IH M EX V EH RR M AX
+zimt TS IH M T
 zink TS IH NG K
 zinnen TS IH N AX N
 zinnoberroten TS IH N OOH B EX RR OOH T AX N
@@ -30473,6 +31113,8 @@ zitatrecht TS IIH T AAH T RR EH CC T
 zitiere TS IIH T IIH RR AX
 zitiert TS IIH T IIH EX T
 zitierte TS IIH T IIH EX T AX
+zitrone TS IH T RR OOH N AX
+zitronen TS IH T RR OOH N AX N
 zittere TS IH T EX RR AX
 zittern TS IH T EX N
 zitternd TS IH T EX N T
@@ -30516,6 +31158,7 @@ zubereitung TS UUH B AX RR AY T UU NG
 zubleiben TS UUH B L AY B AX N
 zublinzelnd TS UUH B L IH N TS AX L N T
 zubringen TS UUH B RR IH NG AX N
+zucchini TS UU X IIH N IIH
 zucht TS UU X T
 zuchtrute TS UU X T RR UUH T AX
 zuchtwahl TS UU X T V AAH L
@@ -30633,6 +31276,7 @@ zuknöpfte TS UUH K N OE PF T AX
 zukommen TS UUH K OO M AX N
 zukommt TS UUH K OO M T
 zukunft TS UUH K UU N F T
+zukunftsfilm TS UUH K UU N F TS F IH L M
 zukunftsmusik TS UUH K UU N F TS M UUH Z IIH K
 zukunftspastor TS UUH K UU N F TS P AH S T OOH EX
 zukunftsprognose TS UUH K UU N F TS P RR OOH G N OOH Z AX
@@ -30752,6 +31396,7 @@ zurückkehrte TS UUH RR YY K K EEH RR T AX
 zurückkehrten TS UUH RR YY K K EEH EX T AX N
 zurückklangen TS UUH RR YY K K L AH NG AX N
 zurückkommen TS UUH RR YY K K OO M AX N
+zurückkommt TS UUH RR YY K K OO M T
 zurücklasse TS UU RR YY K L AH S AX
 zurücklassen TS UUH RR YY K L AH S AX N
 zurücklegte TS UUH RR YY K L EEH K T AX
@@ -30760,6 +31405,7 @@ zurückliegenden TS UUH RR YY K L IIH G AX N D AX N
 zurückließ TS UU RR YY K L IIH S
 zurücknehmen TS UUH RR YY K N EEH M AX N
 zurückreicht TS UUH RR YY K RR AY CC T
+zurückrufen TS UU RR YY K RR UUH F AX N
 zurückschiebens TS UU RR YY K SH IIH B AX N S
 zurückschrecken TS UU RR YY K SH RR EH K AX N
 zurücksetzen TS UUH RR YY K Z EH TS AX N
@@ -30897,6 +31543,7 @@ zusammenzustecken TS UUH Z AH M AX N TS UUH SH T EH K AX N
 zusammenzustellen TS UUH Z AH M AX N TS UUH SH T EH L AX N
 zusammenzusuchen TS UUH Z AH M AX N TS UUH Z UUH X AX N
 zusatz TS UUH Z AH TS
+zusatzeinkommen TS UUH Z AH TS AY NG K OO M AX N
 zusatzfrage TS UUH Z AH TS F RR AAH G AX
 zusatzkosten TS UUH Z AH TS K OO S T AX N
 zuschauenden TS UUH SH AW AX N D AX N
@@ -30959,6 +31606,7 @@ zuverlässigkeit TS UUH F EH EX L EH S IH CC K AY T
 zuversicht TS UUH F EH EX Z IH CC T
 zuversichtlich TS UUH F EH EX Z IH CC T L IH CC
 zuversichtlicher TS UUH F EH EX Z IH CC T L IH CC EX
+zuversichtlichste TS UUH F EH EX Z IH CC T L IH CC S T AX
 zuviel TS UUH F IIH L
 zuvor TS UUH F OOH EX
 zuvorkommend TS UUH F OOH EX K OO M AX N T
@@ -31215,6 +31863,7 @@ zürnen TS YY RR N AX N
 ähnliches Q EHH N L IH CC AX S
 ähnlichkeit Q EHH N L IH CC K AY T
 ähnlichkeiten Q EHH N L IH CC K AY T AX N
+älte Q EH L T AX
 älter Q EH L T EX
 ältere Q EH L T EX RR AX
 älteren Q EH L T EX RR AX N
@@ -31426,6 +32075,7 @@ zürnen TS YY RR N AX N
 übergängen Q YYH B EX G EH NG AX N
 überhalb Q YYH B EX HH AH L P
 überhasteten Q YYH B EX HH AH S T AX T AX N
+überhaubt Q YYH B EX HH AW P T
 überhaupt Q YYH B EX HH AW P T
 überhitzten Q YYH B EX HH IH TS T AX N
 überhob Q YYH B EX HH OOH P
@@ -31535,6 +32185,7 @@ zürnen TS YY RR N AX N
 überseeischen Q YYH B EX Z EEH IH SH AX N
 übersehen Q YYH B EX Z EEH AX N
 überselig Q YYH B EX Z EEH L IH CC
+übersetz Q YYH B EX Z EH TS
 übersetze Q YYH B EX Z EH TS AX
 übersetzen Q YYH B EX Z EH TS AX N
 übersetzer Q YYH B EX Z EH TS EX
@@ -31627,6 +32278,7 @@ zürnen TS YY RR N AX N
 überzogener Q YYH B EX TS OOH G AX N EX
 überzogenes Q YYH B EX TS OOH G AX N AX S
 überzugehen Q YYH B EX TS UUH G EEH AX N
+überzuprüfen Q YYH B EX TS UUH P RR YYH F AX N
 überzüge Q YYH B EX TS YYH G AX
 überzügen Q YYH B EX TS YYH G AX N
 üble Q YYH B L AX
