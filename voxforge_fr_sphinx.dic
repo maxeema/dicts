@@ -1,3 +1,6 @@
+1 un
+2 dd eu
+3 tt rr ww aa
 'aider ai dd ei
 'appelle aa pp ai ll
 -ce ss
@@ -7248,9 +7251,9 @@ asymétriques(2) aa ss ii mm ai tt rr ii kk ee
 asymétriques(3) aa ss ii mm ai tt rr ii kk ee zz
 asymétriques(4) aa ss ii mm ai tt rr ii kk zz
 at aa
-at(2) aa tt
 at&t aa tt ei ei tt
 at&t(2) aa tt ei tt ei
+at(2) aa tt
 ata aa tt aa
 atakou aa tt aa kk ou
 atal aa tt aa ll
@@ -9039,6 +9042,9 @@ aéroflot aa ei rr au ff ll oo tt
 aérogare aa ai rr oo gg aa rr
 aérogare(2) aa ai rr oo gg aa rr ee
 aérogares aa ai rr oo gg aa rr
+aérogares(10) aa ei rr oo gg aa rr ee
+aérogares(11) aa ei rr oo gg aa rr ee zz
+aérogares(12) aa ei rr oo gg aa rr zz
 aérogares(2) aa ai rr oo gg aa rr ee
 aérogares(3) aa ai rr oo gg aa rr ee zz
 aérogares(4) aa ai rr oo gg aa rr zz
@@ -9047,9 +9053,6 @@ aérogares(6) aa ei rr au gg aa rr ee
 aérogares(7) aa ei rr au gg aa rr ee zz
 aérogares(8) aa ei rr au gg aa rr zz
 aérogares(9) aa ei rr oo gg aa rr
-aérogares(10) aa ei rr oo gg aa rr ee
-aérogares(11) aa ei rr oo gg aa rr ee zz
-aérogares(12) aa ei rr oo gg aa rr zz
 aéromobile aa ai rr oo mm oo bb ii ll
 aéromobile(2) aa ai rr oo mm oo bb ii ll ee
 aéronautique aa ai rr oo nn oo tt ii kk
@@ -10853,6 +10856,9 @@ besancenot bb ee zz an ss ee nn au
 besançon bb ee zz an ss on
 besançon(2) bb zz an ss on
 besicles bb ai zz ii kk ll
+besicles(10) bb zz ii kk ll ee
+besicles(11) bb zz ii kk ll ee zz
+besicles(12) bb zz ii kk ll zz
 besicles(2) bb ai zz ii kk ll ee
 besicles(3) bb ai zz ii kk ll ee zz
 besicles(4) bb ai zz ii kk ll zz
@@ -10861,9 +10867,6 @@ besicles(6) bb ee zz ii kk ll ee
 besicles(7) bb ee zz ii kk ll ee zz
 besicles(8) bb ee zz ii kk ll zz
 besicles(9) bb zz ii kk ll
-besicles(10) bb zz ii kk ll ee
-besicles(11) bb zz ii kk ll ee zz
-besicles(12) bb zz ii kk ll zz
 besiktas bb ei zz ii kk tt aa ss
 besnard bb ai nn aa rr
 besnier bb ai ss nn yy ei
@@ -12671,8 +12674,8 @@ boxeur bb oo kk ss oe rr
 boxeurs bb oo kk ss oe rr
 boxeurs(2) bb oo kk ss oe rr zz
 boy bb oo yy
-boy(2) bb ww aa
 boy's bb oo ii
+boy(2) bb ww aa
 boyard bb oo yy aa rr
 boyau bb ww aa yy au
 boyaux bb ww aa yy au
@@ -14112,7 +14115,6 @@ bêtises bb ai tt ii zz
 bêtises(2) bb ai tt ii zz ee
 bêtises(3) bb ai tt ii zz ee zz
 bêtises(4) bb ai tt ii zz zz
-bœuf bb oe ff
 bôme bb au mm
 bôme(2) bb au mm ee
 bölöni bb eu ll eu nn ii
@@ -14126,8 +14128,8 @@ bûcherons bb uu ch ee rr on
 bûcherons(2) bb uu ch ee rr on zz
 bûchers bb uu ch ei
 bûchers(2) bb uu ch ei zz
+bœuf bb oe ff
 c ss ai
-c(2) ss ei
 c' ss
 c'_est_ainsi_qu' ss ai ss tt in ss ii kk
 c'_est_ici ss ai ss tt ii ss ii
@@ -14139,6 +14141,7 @@ c'est ss ai ss tt
 c'est-à-dire ss ai tt aa dd ii rr
 c'est-à-dire(2) ss ai tt aa dd ii rr ee
 c'était ss ai tt ai
+c(2) ss ei
 c130 ss ei ss an tt rr an tt
 c17 ss ei dd ii ss ai tt
 ca kk aa
@@ -16910,6 +16913,13 @@ charleville(2) ch aa rr ll ee vv ii ll ee
 charleville(3) ch aa rr ll vv ii ll
 charleville(4) ch aa rr ll vv ii ll ee
 charleville-mézières ch aa rr ll ee vv ii ll ee mm ai zz yy ai rr
+charleville-mézières(10) ch aa rr ll vv ii ll ee mm ai zz yy ai rr ee
+charleville-mézières(11) ch aa rr ll vv ii ll ee mm ei zz yy ai rr
+charleville-mézières(12) ch aa rr ll vv ii ll ee mm ei zz yy ai rr ee
+charleville-mézières(13) ch aa rr ll vv ii ll mm ai zz yy ai rr
+charleville-mézières(14) ch aa rr ll vv ii ll mm ai zz yy ai rr ee
+charleville-mézières(15) ch aa rr ll vv ii ll mm ei zz yy ai rr
+charleville-mézières(16) ch aa rr ll vv ii ll mm ei zz yy ai rr ee
 charleville-mézières(2) ch aa rr ll ee vv ii ll ee mm ai zz yy ai rr ee
 charleville-mézières(3) ch aa rr ll ee vv ii ll ee mm ei zz yy ai rr
 charleville-mézières(4) ch aa rr ll ee vv ii ll ee mm ei zz yy ai rr ee
@@ -16918,13 +16928,6 @@ charleville-mézières(6) ch aa rr ll ee vv ii ll mm ai zz yy ai rr ee
 charleville-mézières(7) ch aa rr ll ee vv ii ll mm ei zz yy ai rr
 charleville-mézières(8) ch aa rr ll ee vv ii ll mm ei zz yy ai rr ee
 charleville-mézières(9) ch aa rr ll vv ii ll ee mm ai zz yy ai rr
-charleville-mézières(10) ch aa rr ll vv ii ll ee mm ai zz yy ai rr ee
-charleville-mézières(11) ch aa rr ll vv ii ll ee mm ei zz yy ai rr
-charleville-mézières(12) ch aa rr ll vv ii ll ee mm ei zz yy ai rr ee
-charleville-mézières(13) ch aa rr ll vv ii ll mm ai zz yy ai rr
-charleville-mézières(14) ch aa rr ll vv ii ll mm ai zz yy ai rr ee
-charleville-mézières(15) ch aa rr ll vv ii ll mm ei zz yy ai rr
-charleville-mézières(16) ch aa rr ll vv ii ll mm ei zz yy ai rr ee
 charley ch aa rr ll ei
 charlie ch aa rr ll ii
 charlier ch aa rr ll yy ei
@@ -19684,8 +19687,12 @@ commencera kk oo mm an ss ee rr aa
 commencerai kk oo mm an ss ee rr ai
 commencerait kk oo mm an ss ee rr ai
 commencerait(2) kk oo mm an ss ee rr ai tt
+commenceras kk oo mm an ss ee rr aa
+commencerez kk oo mm an ss rr ei zz
+commencerons kk oo mm an ss ee rr on zz
 commenceront kk oo mm an ss ee rr on
 commenceront(2) kk oo mm an ss ee rr on tt
+commences kk oo mm an ss ee zz
 commencez kk oo mm an ss ei
 commencez(2) kk oo mm an ss ei zz
 commencions kk au mm an ss yy on
@@ -19727,14 +19734,18 @@ commentées(2) kk oo mm an tt ei zz
 commentés kk oo mm an tt ei
 commentés(2) kk oo mm an tt ei zz
 commença kk oo mm an ss aa
+commençai kk oo mm an ss ai
 commençaient kk oo mm an ss ai
 commençaient(2) kk oo mm an ss ai tt
 commençait kk oo mm an ss ai
 commençait(2) kk oo mm an ss ai tt
 commençant kk oo mm an ss an
 commençant(2) kk oo mm an ss an tt
+commenças kk oo mm an ss aa
 commençons kk oo mm an ss on
 commençons(2) kk oo mm an ss on zz
+commençâmes kk oo mm an ss aa mm ee zz
+commençâtes kk oo mm an ss aa tt ee zz
 commerce kk oo mm ai rr ss
 commerce(2) kk oo mm ai rr ss ee
 commercer kk oo mm ai rr ss ei
@@ -22781,6 +22792,13 @@ coopératives(4) kk oo oo pp ai rr aa tt ii vv zz
 coopérer kk oo oo pp ai rr ei
 coopérer(2) kk oo oo pp ai rr ei rr
 coopérerait kk au oo pp ai rr ee rr ai
+coopérerait(10) kk oo oo pp ai rr ee rr ai tt
+coopérerait(11) kk oo oo pp ai rr rr ai
+coopérerait(12) kk oo oo pp ai rr rr ai tt
+coopérerait(13) kk oo oo pp ei rr ee rr ai
+coopérerait(14) kk oo oo pp ei rr ee rr ai tt
+coopérerait(15) kk oo oo pp ei rr rr ai
+coopérerait(16) kk oo oo pp ei rr rr ai tt
 coopérerait(2) kk au oo pp ai rr ee rr ai tt
 coopérerait(3) kk au oo pp ai rr rr ai
 coopérerait(4) kk au oo pp ai rr rr ai tt
@@ -22789,13 +22807,6 @@ coopérerait(6) kk au oo pp ei rr ee rr ai tt
 coopérerait(7) kk au oo pp ei rr rr ai
 coopérerait(8) kk au oo pp ei rr rr ai tt
 coopérerait(9) kk oo oo pp ai rr ee rr ai
-coopérerait(10) kk oo oo pp ai rr ee rr ai tt
-coopérerait(11) kk oo oo pp ai rr rr ai
-coopérerait(12) kk oo oo pp ai rr rr ai tt
-coopérerait(13) kk oo oo pp ei rr ee rr ai
-coopérerait(14) kk oo oo pp ei rr ee rr ai tt
-coopérerait(15) kk oo oo pp ei rr rr ai
-coopérerait(16) kk oo oo pp ei rr rr ai tt
 coopéré kk oo oo pp ai rr ei
 coordinateur kk oo oo rr dd ii nn aa tt oe rr
 coordinateurs kk oo oo rr dd ii nn aa tt oe rr
@@ -25298,7 +25309,6 @@ côtés kk oo tt ei
 côtés(2) kk oo tt ei zz
 d dd ai
 d' dd
-d(2) dd ei
 d''accord dd aa kk oo rr
 d'_abord dd aa bb oo rr
 d'_accord dd aa kk oo rr
@@ -25355,6 +25365,7 @@ d'excellentes dd ai kk ss ai ll an tt ee
 d'habitude dd aa bb ii tt uu dd
 d'horreur dd oo rr oe rr
 d'huile dd uy ii yy
+d'initiative dd ii nn ii ss yy aa tt ii vv
 d'intérieur dd in tt ai rr yy oe rr
 d'italie dd ii tt aa ll ii
 d'olive dd oo ll ii vv
@@ -25371,6 +25382,7 @@ d'écrires dd ai kk rr ii rr ee
 d'électricité dd ai ll ai kk tt rr ii ss ii tt ei
 d'érable dd ai rr aa bb ll ee
 d'œufs dd  eu
+d(2) dd ei
 da dd aa
 da_silva dd aa ss ii ll vv aa
 daalouche dd aa aa ll ou ch
@@ -25944,6 +25956,9 @@ delbono dd ai ll bb oo nn au
 delcourt dd ai ll kk ou rr
 delcroix dd ai ll kk rr ww aa
 delebarre dd ai ll bb aa rr
+delebarre(10) dd ll bb aa rr ee
+delebarre(11) dd ll ee bb aa rr
+delebarre(12) dd ll ee bb aa rr ee
 delebarre(2) dd ai ll bb aa rr ee
 delebarre(3) dd ai ll ee bb aa rr
 delebarre(4) dd ai ll ee bb aa rr ee
@@ -25952,9 +25967,6 @@ delebarre(6) dd ee ll bb aa rr ee
 delebarre(7) dd ee ll ee bb aa rr
 delebarre(8) dd ee ll ee bb aa rr ee
 delebarre(9) dd ll bb aa rr
-delebarre(10) dd ll bb aa rr ee
-delebarre(11) dd ll ee bb aa rr
-delebarre(12) dd ll ee bb aa rr ee
 delebois dd ee ll bb ww aa
 delebois(2) dd ee ll ee bb ww aa
 delebois(3) dd ll bb ww aa
@@ -32529,6 +32541,13 @@ développer dd ai vv ee ll oo pp ei
 développer(2) dd ai vv ee ll oo pp ei rr
 développera dd ai vv ee ll oo pp ee rr aa
 développerons dd ai vv ee ll oo pp ee rr on
+développerons(10) dd ei vv ee ll oo pp ee rr on zz
+développerons(11) dd ei vv ee ll oo pp rr on
+développerons(12) dd ei vv ee ll oo pp rr on zz
+développerons(13) dd ei vv ll oo pp ee rr on
+développerons(14) dd ei vv ll oo pp ee rr on zz
+développerons(15) dd ei vv ll oo pp rr on
+développerons(16) dd ei vv ll oo pp rr on zz
 développerons(2) dd ai vv ee ll oo pp ee rr on zz
 développerons(3) dd ai vv ee ll oo pp rr on
 développerons(4) dd ai vv ee ll oo pp rr on zz
@@ -32537,13 +32556,6 @@ développerons(6) dd ai vv ll oo pp ee rr on zz
 développerons(7) dd ai vv ll oo pp rr on
 développerons(8) dd ai vv ll oo pp rr on zz
 développerons(9) dd ei vv ee ll oo pp ee rr on
-développerons(10) dd ei vv ee ll oo pp ee rr on zz
-développerons(11) dd ei vv ee ll oo pp rr on
-développerons(12) dd ei vv ee ll oo pp rr on zz
-développerons(13) dd ei vv ll oo pp ee rr on
-développerons(14) dd ei vv ll oo pp ee rr on zz
-développerons(15) dd ei vv ll oo pp rr on
-développerons(16) dd ei vv ll oo pp rr on zz
 développeront dd ai vv ee ll oo pp ee rr on
 développeront(2) dd ai vv ee ll oo pp ee rr on tt
 développeur dd ai vv ee ll oo pp oe rr
@@ -35911,6 +35923,7 @@ européen(2) eu rr au pp ei in
 européen(3) eu rr oo pp ei in
 européene eu rr oo pp ei nn
 européenne ee rr oo pp ai ai nn
+européenne(10) oe rr oo pp ei ai nn ee
 européenne(2) ee rr oo pp ai ai nn ee
 européenne(3) eu rr oo pp ai ai nn
 européenne(4) eu rr oo pp ai ai nn ee
@@ -35919,7 +35932,6 @@ européenne(6) eu rr oo pp ei ai nn ee
 européenne(7) oe rr oo pp ai ai nn
 européenne(8) oe rr oo pp ai ai nn ee
 européenne(9) oe rr oo pp ei ai nn
-européenne(10) oe rr oo pp ei ai nn ee
 européennes ee rr oo pp ai ai nn
 européennes(2) ee rr oo pp ai ai nn ee
 européennes(3) ee rr oo pp ai ai nn ee zz
@@ -37066,6 +37078,7 @@ extérieures(4) ai kk ss tt ai rr yy oe rr zz
 extérieurs ai kk ss tt ai rr yy oe rr
 extérieurs(2) ai kk ss tt ai rr yy oe rr zz
 extériorise ai kk ss tt ai rr yy oo rr ii zz
+extériorise(10) ei kk ss tt ei rr yy oo rr ii zz ee
 extériorise(2) ai kk ss tt ai rr yy oo rr ii zz ee
 extériorise(3) ai kk ss tt ei rr yy au rr ii zz
 extériorise(4) ai kk ss tt ei rr yy au rr ii zz ee
@@ -37074,7 +37087,6 @@ extériorise(6) ai kk ss tt ei rr yy oo rr ii zz ee
 extériorise(7) ei kk ss tt ei rr yy au rr ii zz
 extériorise(8) ei kk ss tt ei rr yy au rr ii zz ee
 extériorise(9) ei kk ss tt ei rr yy oo rr ii zz
-extériorise(10) ei kk ss tt ei rr yy oo rr ii zz ee
 exubérance ai gg zz uu bb ai rr an ss
 exubérance(2) ai gg zz uu bb ai rr an ss ee
 exubérant ai gg zz uu bb ai rr an
@@ -37112,6 +37124,7 @@ exécutera(3) ai gg zz ei kk uu tt rr aa
 exécutera(4) ei gg zz ei kk uu tt ee rr aa
 exécutera(5) ei gg zz ei kk uu tt rr aa
 exécuteraient ai gg zz ai kk uu tt ee rr ai
+exécuteraient(10) ei gg zz ei kk uu tt rr ai tt
 exécuteraient(2) ai gg zz ai kk uu tt ee rr ai tt
 exécuteraient(3) ai gg zz ei kk uu tt ee rr ai
 exécuteraient(4) ai gg zz ei kk uu tt ee rr ai tt
@@ -37120,10 +37133,10 @@ exécuteraient(6) ai gg zz ei kk uu tt rr ai tt
 exécuteraient(7) ei gg zz ei kk uu tt ee rr ai
 exécuteraient(8) ei gg zz ei kk uu tt ee rr ai tt
 exécuteraient(9) ei gg zz ei kk uu tt rr ai
-exécuteraient(10) ei gg zz ei kk uu tt rr ai tt
 exécuterez ai gg zz ai kk uu tt ee rr ei
 exécuterez(2) ai gg zz ai kk uu tt ee rr ei zz
 exécuteront ai gg zz ai kk uu tt ee rr on
+exécuteront(10) ei gg zz ei kk uu tt rr on tt
 exécuteront(2) ai gg zz ai kk uu tt ee rr on tt
 exécuteront(3) ai gg zz ei kk uu tt ee rr on
 exécuteront(4) ai gg zz ei kk uu tt ee rr on tt
@@ -37132,7 +37145,6 @@ exécuteront(6) ai gg zz ei kk uu tt rr on tt
 exécuteront(7) ei gg zz ei kk uu tt ee rr on
 exécuteront(8) ei gg zz ei kk uu tt ee rr on tt
 exécuteront(9) ei gg zz ei kk uu tt rr on
-exécuteront(10) ei gg zz ei kk uu tt rr on tt
 exécuteur ai gg zz ei kk uu tt oe rr
 exécuteurs ai gg zz ei kk uu tt oe rr
 exécutif ai gg zz ai kk uu tt ii ff
@@ -43200,9 +43212,9 @@ gran gg rr aa nn
 gran(2) gg rr an
 granada gg rr aa nn aa dd aa
 grand gg rr an
-grand(2) gg rr an tt
 grand'messe gg rr an mm ai ss
 grand'messe(2) gg rr an mm ai ss ee
+grand(2) gg rr an tt
 grand-croix gg rr an kk rr ww aa
 grand-croix(2) gg rr an kk rr ww aa zz
 grand-duché gg rr an dd uu ch ei
@@ -44434,6 +44446,13 @@ géostratège jj ei oo ss tt rr aa tt ai jj
 géostratége jj ei oo ss tt rr aa tt ei jj
 géostratégique jj ei oo ss tt rr aa tt ei jj ii kk
 géostratégiques jj ai au ss tt rr aa tt ei jj ii kk
+géostratégiques(10) jj ei au ss tt rr aa tt ei jj ii kk ee
+géostratégiques(11) jj ei au ss tt rr aa tt ei jj ii kk ee zz
+géostratégiques(12) jj ei au ss tt rr aa tt ei jj ii kk zz
+géostratégiques(13) jj ei oo ss tt rr aa tt ei jj ii kk
+géostratégiques(14) jj ei oo ss tt rr aa tt ei jj ii kk ee
+géostratégiques(15) jj ei oo ss tt rr aa tt ei jj ii kk ee zz
+géostratégiques(16) jj ei oo ss tt rr aa tt ei jj ii kk zz
 géostratégiques(2) jj ai au ss tt rr aa tt ei jj ii kk ee
 géostratégiques(3) jj ai au ss tt rr aa tt ei jj ii kk ee zz
 géostratégiques(4) jj ai au ss tt rr aa tt ei jj ii kk zz
@@ -44442,13 +44461,6 @@ géostratégiques(6) jj ai oo ss tt rr aa tt ei jj ii kk ee
 géostratégiques(7) jj ai oo ss tt rr aa tt ei jj ii kk ee zz
 géostratégiques(8) jj ai oo ss tt rr aa tt ei jj ii kk zz
 géostratégiques(9) jj ei au ss tt rr aa tt ei jj ii kk
-géostratégiques(10) jj ei au ss tt rr aa tt ei jj ii kk ee
-géostratégiques(11) jj ei au ss tt rr aa tt ei jj ii kk ee zz
-géostratégiques(12) jj ei au ss tt rr aa tt ei jj ii kk zz
-géostratégiques(13) jj ei oo ss tt rr aa tt ei jj ii kk
-géostratégiques(14) jj ei oo ss tt rr aa tt ei jj ii kk ee
-géostratégiques(15) jj ei oo ss tt rr aa tt ei jj ii kk ee zz
-géostratégiques(16) jj ei oo ss tt rr aa tt ei jj ii kk zz
 gérable jj ei rr aa bb ll
 gérait jj ai rr ai
 gérait(2) jj ai rr ai tt
@@ -54240,6 +54252,7 @@ l'homard ll oo mm aa rr
 l'huma ll uu mm aa
 l'humanité ll uu mm aa nn ii tt ei
 l'hôpital ll oo pp ii tt aa ll
+l'hôtel ll au tt ai ll
 l'indépendant ll in dd ei pp an dd an
 l'intelligent ll in tt ai ll ii jj an
 l'intention ll in tt an ss yy on
@@ -56313,8 +56326,8 @@ llodra ll yy au dd rr aa
 llorente ll oo rr an tt
 llosa ll yy au zz aa
 lloyd ll oo yy dd
-lloyd(2) ll oo yy dd ee
 lloyd's ll oo ii dd
+lloyd(2) ll oo yy dd ee
 lloyds ll oo yy dd
 lluis ll uy ii
 lmayari ll mm aa yy aa rr ii
@@ -58236,8 +58249,8 @@ mamuchangaleu mm aa mm uu ch an gg aa ll eu
 mamère mm aa mm ai rr
 mamère(2) mm aa mm ai rr ee
 man mm aa nn
-man(2) mm an
 man's mm an
+man(2) mm an
 manade mm aa nn aa dd
 manade(2) mm aa nn aa dd ee
 management mm aa nn aa dd jj ee mm ai nn tt
@@ -60204,6 +60217,9 @@ mesdames(3) mm ai dd aa mm ee zz
 mesdames(4) mm ai dd aa mm zz
 mesdames(5) mm ei ss dd aa mm ai ss
 mesdemoiselles mm ai dd ee mm ww aa zz ai ll
+mesdemoiselles(10) mm ei dd mm ww aa zz ai ll ee
+mesdemoiselles(11) mm ei dd mm ww aa zz ai ll ee zz
+mesdemoiselles(12) mm ei dd mm ww aa zz ai ll zz
 mesdemoiselles(2) mm ai dd ee mm ww aa zz ai ll ee
 mesdemoiselles(3) mm ai dd ee mm ww aa zz ai ll ee zz
 mesdemoiselles(4) mm ai dd ee mm ww aa zz ai ll zz
@@ -60212,9 +60228,6 @@ mesdemoiselles(6) mm ei dd ee mm ww aa zz ai ll ee
 mesdemoiselles(7) mm ei dd ee mm ww aa zz ai ll ee zz
 mesdemoiselles(8) mm ei dd ee mm ww aa zz ai ll zz
 mesdemoiselles(9) mm ei dd mm ww aa zz ai ll
-mesdemoiselles(10) mm ei dd mm ww aa zz ai ll ee
-mesdemoiselles(11) mm ei dd mm ww aa zz ai ll ee zz
-mesdemoiselles(12) mm ei dd mm ww aa zz ai ll zz
 meseret mm ee zz ee rr ai
 mesguich mm ei ss gg ii ch
 mesic mm ei zz ii kk
@@ -61845,6 +61858,13 @@ monopoles(4) mm oo nn oo pp oo ll zz
 monopolisaient mm oo nn oo pp oo ll ii zz ai
 monopolisaient(2) mm oo nn oo pp oo ll ii zz ai tt
 monopolisait mm au nn au pp au ll ii zz ai
+monopolisait(10) mm oo nn au pp au ll ii zz ai tt
+monopolisait(11) mm oo nn au pp oo ll ii zz ai
+monopolisait(12) mm oo nn au pp oo ll ii zz ai tt
+monopolisait(13) mm oo nn oo pp au ll ii zz ai
+monopolisait(14) mm oo nn oo pp au ll ii zz ai tt
+monopolisait(15) mm oo nn oo pp oo ll ii zz ai
+monopolisait(16) mm oo nn oo pp oo ll ii zz ai tt
 monopolisait(2) mm au nn au pp au ll ii zz ai tt
 monopolisait(3) mm au nn au pp oo ll ii zz ai
 monopolisait(4) mm au nn au pp oo ll ii zz ai tt
@@ -61853,13 +61873,6 @@ monopolisait(6) mm au nn oo pp au ll ii zz ai tt
 monopolisait(7) mm au nn oo pp oo ll ii zz ai
 monopolisait(8) mm au nn oo pp oo ll ii zz ai tt
 monopolisait(9) mm oo nn au pp au ll ii zz ai
-monopolisait(10) mm oo nn au pp au ll ii zz ai tt
-monopolisait(11) mm oo nn au pp oo ll ii zz ai
-monopolisait(12) mm oo nn au pp oo ll ii zz ai tt
-monopolisait(13) mm oo nn oo pp au ll ii zz ai
-monopolisait(14) mm oo nn oo pp au ll ii zz ai tt
-monopolisait(15) mm oo nn oo pp oo ll ii zz ai
-monopolisait(16) mm oo nn oo pp oo ll ii zz ai tt
 monopolise mm oo nn oo pp oo ll ii zz
 monopolise(2) mm oo nn oo pp oo ll ii zz ee
 monopoliser mm oo nn oo pp oo ll ii zz ei
@@ -64022,6 +64035,8 @@ n'a nn aa
 n'ai nn ai
 n'aime nn ai mm
 n'arrive nn aa rr ii vv
+n'as nn aa
+n'avez nn aa vv ei
 n'avons nn aa vv on
 n'djamena nn dd jj aa mm ei nn aa
 n'djamena(2) ai nn dd jj aa mm ei nn aa
@@ -64029,6 +64044,7 @@ n'dour nn dd ou rr
 n'dour(2) ai nn dd ou rr
 n'dri nn dd rr ii
 n'dri(2) ai nn dd rr ii
+n'es nn ei
 n'est nn ai ss tt
 n'guessan nn gg ei ss an
 n'guessan(2) ai nn gg ei ss an
@@ -65424,6 +65440,7 @@ notons nn oo tt on
 notons(2) nn oo tt on zz
 notoriété nn oo tt oo rr yy ai tt ei
 notoriétés nn au tt au rr yy ei tt ei
+notoriétés(10) nn oo tt oo rr yy ei tt ei zz
 notoriétés(2) nn au tt au rr yy ei tt ei zz
 notoriétés(3) nn au tt oo rr yy ei tt ei
 notoriétés(4) nn au tt oo rr yy ei tt ei zz
@@ -65432,7 +65449,6 @@ notoriétés(6) nn oo tt au rr yy ei tt ei zz
 notoriétés(7) nn oo tt oo rr yy ai tt ei
 notoriétés(8) nn oo tt oo rr yy ai tt ei zz
 notoriétés(9) nn oo tt oo rr yy ei tt ei
-notoriétés(10) nn oo tt oo rr yy ei tt ei zz
 notre nn oo tt rr
 notre(2) nn oo tt rr ee
 nottingham nn au tt ii nn gg aa mm
@@ -66555,6 +66571,7 @@ oeuvrera(3) eu vv rr rr aa
 oeuvrera(4) oe vv rr ee rr aa
 oeuvrera(5) oe vv rr rr aa
 oeuvreraient ee vv rr ee rr ai
+oeuvreraient(10) oe vv rr rr ai tt
 oeuvreraient(2) ee vv rr ee rr ai tt
 oeuvreraient(3) eu vv rr ee rr ai
 oeuvreraient(4) eu vv rr ee rr ai tt
@@ -66563,7 +66580,6 @@ oeuvreraient(6) eu vv rr rr ai tt
 oeuvreraient(7) oe vv rr ee rr ai
 oeuvreraient(8) oe vv rr ee rr ai tt
 oeuvreraient(9) oe vv rr rr ai
-oeuvreraient(10) oe vv rr rr ai tt
 oeuvres oe vv rr
 oeuvres(2) oe vv rr ee
 oeuvres(3) oe vv rr ee zz
@@ -68171,7 +68187,6 @@ ozone(2) oo zz oo nn ee
 ozouf au zz ou ff
 ozu au zz uu
 ozzy au zz ii
-œufs eu
 où ou
 où_ça ou ss aa
 p pp ai
@@ -77479,7 +77494,6 @@ qrio kk rr ii au
 qsd kk uu ai ss dd ei
 qst kk uu ai ss tt ei
 qu kk
-qu(2) kk uu uu
 qu' kk
 qu'_on_le_veuille_ou_non kk on ll ee vv oe yy ou nn on
 qu'a kk aa
@@ -77492,8 +77506,10 @@ qu'hier kk yy ei
 qu'ielle kk yy ai ll
 qu'il kk ii ll
 qu'ils kk ii ll
+qu'is kk ii ss
 qu'on kk on
 qu'ont kk on
+qu(2) kk uu uu
 qua kk aa
 quad kk aa
 quadragénaire kk ww aa dd rr aa jj ai nn ai rr
@@ -78360,6 +78376,7 @@ rajeunie rr aa jj ee nn ii
 rajeunir rr aa jj ee nn ii rr
 rajeunissement rr aa jj ee nn ii ss ee mm an
 rajeunissements rr aa jj ee nn ii ss ee mm an
+rajeunissements(10) rr aa jj oe nn ii ss mm an zz
 rajeunissements(2) rr aa jj ee nn ii ss ee mm an zz
 rajeunissements(3) rr aa jj eu nn ii ss ee mm an
 rajeunissements(4) rr aa jj eu nn ii ss ee mm an zz
@@ -78368,7 +78385,6 @@ rajeunissements(6) rr aa jj eu nn ii ss mm an zz
 rajeunissements(7) rr aa jj oe nn ii ss ee mm an
 rajeunissements(8) rr aa jj oe nn ii ss ee mm an zz
 rajeunissements(9) rr aa jj oe nn ii ss mm an
-rajeunissements(10) rr aa jj oe nn ii ss mm an zz
 rajeunissent rr aa jj ee nn ii ss ee
 rajeunissent(2) rr aa jj eu nn ii ss
 rajeunissent(3) rr aa jj eu nn ii ss ee
@@ -79389,6 +79405,13 @@ recommencer rr ee kk oo mm an ss ei
 recommencer(2) rr ee kk oo mm an ss ei rr
 recommencera rr ee kk oo mm an ss ee rr aa
 recommencerai rr ee kk au mm an ss ee rr ai
+recommencerai(10) rr kk au mm an ss ee rr ei
+recommencerai(11) rr kk au mm an ss rr ai
+recommencerai(12) rr kk au mm an ss rr ei
+recommencerai(13) rr kk oo mm an ss ee rr ai
+recommencerai(14) rr kk oo mm an ss ee rr ei
+recommencerai(15) rr kk oo mm an ss rr ai
+recommencerai(16) rr kk oo mm an ss rr ei
 recommencerai(2) rr ee kk au mm an ss ee rr ei
 recommencerai(3) rr ee kk au mm an ss rr ai
 recommencerai(4) rr ee kk au mm an ss rr ei
@@ -79397,13 +79420,6 @@ recommencerai(6) rr ee kk oo mm an ss ee rr ei
 recommencerai(7) rr ee kk oo mm an ss rr ai
 recommencerai(8) rr ee kk oo mm an ss rr ei
 recommencerai(9) rr kk au mm an ss ee rr ai
-recommencerai(10) rr kk au mm an ss ee rr ei
-recommencerai(11) rr kk au mm an ss rr ai
-recommencerai(12) rr kk au mm an ss rr ei
-recommencerai(13) rr kk oo mm an ss ee rr ai
-recommencerai(14) rr kk oo mm an ss ee rr ei
-recommencerai(15) rr kk oo mm an ss rr ai
-recommencerai(16) rr kk oo mm an ss rr ei
 recommencé rr ee kk oo mm an ss ei
 recommencée rr ee kk oo mm an ss ei
 recomparaître rr ee kk on pp aa rr ai tt rr
@@ -79474,6 +79490,13 @@ reconnaîtrait(2) rr ee kk oo nn ai tt rr ai tt
 reconnaître rr ee kk oo nn ai tt rr
 reconnaître(2) rr ee kk oo nn ai tt rr ee
 reconnaîtrez rr ee kk au nn ai tt rr ei
+reconnaîtrez(10) rr kk au nn ai tt rr ei zz
+reconnaîtrez(11) rr kk au nn ei tt rr ei
+reconnaîtrez(12) rr kk au nn ei tt rr ei zz
+reconnaîtrez(13) rr kk oo nn ai tt rr ei
+reconnaîtrez(14) rr kk oo nn ai tt rr ei zz
+reconnaîtrez(15) rr kk oo nn ei tt rr ei
+reconnaîtrez(16) rr kk oo nn ei tt rr ei zz
 reconnaîtrez(2) rr ee kk au nn ai tt rr ei zz
 reconnaîtrez(3) rr ee kk au nn ei tt rr ei
 reconnaîtrez(4) rr ee kk au nn ei tt rr ei zz
@@ -79482,13 +79505,6 @@ reconnaîtrez(6) rr ee kk oo nn ai tt rr ei zz
 reconnaîtrez(7) rr ee kk oo nn ei tt rr ei
 reconnaîtrez(8) rr ee kk oo nn ei tt rr ei zz
 reconnaîtrez(9) rr kk au nn ai tt rr ei
-reconnaîtrez(10) rr kk au nn ai tt rr ei zz
-reconnaîtrez(11) rr kk au nn ei tt rr ei
-reconnaîtrez(12) rr kk au nn ei tt rr ei zz
-reconnaîtrez(13) rr kk oo nn ai tt rr ei
-reconnaîtrez(14) rr kk oo nn ai tt rr ei zz
-reconnaîtrez(15) rr kk oo nn ei tt rr ei
-reconnaîtrez(16) rr kk oo nn ei tt rr ei zz
 reconnaîtront rr ee kk oo nn ai tt rr on
 reconnaîtront(2) rr ee kk oo nn ai tt rr on tt
 reconnu rr ee kk oo nn uu
@@ -79759,6 +79775,13 @@ redevances(3) rr ee dd ee vv an ss ee zz
 redevenait rr ee dd ee vv ee nn ai
 redevenait(2) rr ee dd ee vv ee nn ai tt
 redevenant rr dd ee vv ee nn an
+redevenant(10) rr ee dd ee vv ee nn an tt
+redevenant(11) rr ee dd ee vv nn an
+redevenant(12) rr ee dd ee vv nn an tt
+redevenant(13) rr ee dd vv ee nn an
+redevenant(14) rr ee dd vv ee nn an tt
+redevenant(15) rr ee dd vv nn an
+redevenant(16) rr ee dd vv nn an tt
 redevenant(2) rr dd ee vv ee nn an tt
 redevenant(3) rr dd ee vv nn an
 redevenant(4) rr dd ee vv nn an tt
@@ -79767,13 +79790,6 @@ redevenant(6) rr dd vv ee nn an tt
 redevenant(7) rr dd vv nn an
 redevenant(8) rr dd vv nn an tt
 redevenant(9) rr ee dd ee vv ee nn an
-redevenant(10) rr ee dd ee vv ee nn an tt
-redevenant(11) rr ee dd ee vv nn an
-redevenant(12) rr ee dd ee vv nn an tt
-redevenant(13) rr ee dd vv ee nn an
-redevenant(14) rr ee dd vv ee nn an tt
-redevenant(15) rr ee dd vv nn an
-redevenant(16) rr ee dd vv nn an tt
 redevenir rr ee dd ee vv ee nn ii rr
 redevenu rr ee dd ee vv ee nn uu
 redevenue rr ee dd ee vv ee nn uu
@@ -80778,6 +80794,13 @@ remédier(2) rr ee mm ai dd yy ei rr
 remémore rr ee mm ai mm oo rr
 remémore(2) rr ee mm ai mm oo rr ee
 remémorent rr ee mm ai mm oo rr
+remémorent(10) rr mm ai mm oo rr ee
+remémorent(11) rr mm ai mm oo rr ee tt
+remémorent(12) rr mm ai mm oo rr tt
+remémorent(13) rr mm ei mm oo rr
+remémorent(14) rr mm ei mm oo rr ee
+remémorent(15) rr mm ei mm oo rr ee tt
+remémorent(16) rr mm ei mm oo rr tt
 remémorent(2) rr ee mm ai mm oo rr ee
 remémorent(3) rr ee mm ai mm oo rr ee tt
 remémorent(4) rr ee mm ai mm oo rr tt
@@ -80786,13 +80809,6 @@ remémorent(6) rr ee mm ei mm oo rr ee
 remémorent(7) rr ee mm ei mm oo rr ee tt
 remémorent(8) rr ee mm ei mm oo rr tt
 remémorent(9) rr mm ai mm oo rr
-remémorent(10) rr mm ai mm oo rr ee
-remémorent(11) rr mm ai mm oo rr ee tt
-remémorent(12) rr mm ai mm oo rr tt
-remémorent(13) rr mm ei mm oo rr
-remémorent(14) rr mm ei mm oo rr ee
-remémorent(15) rr mm ei mm oo rr ee tt
-remémorent(16) rr mm ei mm oo rr tt
 remémorer rr ee mm ai mm oo rr ei
 remémorer(2) rr ee mm ai mm oo rr ei rr
 ren rr ai nn
@@ -81794,6 +81810,7 @@ ressuscité rr ai ss uu ss ii tt ei
 ressuscitée rr ai ss uu ss ii tt ei
 rest rr ai ss tt
 resta rr ai ss tt aa
+restai rr ai ss tt ai
 restaient rr ai ss tt ai
 restaient(2) rr ai ss tt ai tt
 restait rr ai ss tt ai
@@ -81808,6 +81825,7 @@ restantes(3) rr ai ss tt an tt ee zz
 restantes(4) rr ai ss tt an tt zz
 restants rr ai ss tt an
 restants(2) rr ai ss tt an zz
+restas rr ai ss tt aa
 restaurant rr ai ss tt oo rr an
 restaurant(2) rr ai ss tt oo rr an tt
 restaurants rr ai ss tt oo rr an
@@ -81839,6 +81857,8 @@ resteraient rr ai ss tt ee rr ai
 resteraient(2) rr ai ss tt ee rr ai tt
 resterait rr ai ss tt ee rr ai
 resterait(2) rr ai ss tt ee rr ai tt
+resteras rr ai ss tt ee rr aa
+resterez rr ai ss tt ee rr ei zz
 resterons rr ai ss tt ee rr on
 resterons(2) rr ai ss tt ee rr on zz
 resteront rr ai ss tt ee rr on
@@ -81905,6 +81925,8 @@ restructurer rr ee ss tt rr uu kk tt uu rr ei
 restructurer(2) rr ee ss tt rr uu kk tt uu rr ei rr
 restructuré rr ee ss tt rr uu kk tt uu rr ei
 restructurée rr ee ss tt rr uu kk tt uu rr ei
+restâmes rr ai ss tt aa mm ee zz
+restâtes rr ai ss tt aa tt ee zz
 restèrent rr ai ss tt ai rr ee
 resté rr ai ss tt ei
 restée rr ai ss tt ei
@@ -93430,8 +93452,6 @@ sévères(3) ss ai vv ai rr ee zz
 sévères(4) ss ai vv ai rr zz
 sévérité ss ai vv ai rr ii tt ei
 séïsme ss ei ii ss mm
-sœur ss oe rr
-sœurs ss oe rr
 sölden ss eu ll dd ai nn
 sörensen ss eu rr ei nn ss ai nn
 sûr ss uu rr
@@ -93449,8 +93469,9 @@ sûrs(2) ss uu rr zz
 sût ss uu
 sût(2) ss uu tt
 süddeutsche ss uu dd eu tt ss ch
+sœur ss oe rr
+sœurs ss oe rr
 t tt ai
-t(2) tt ei
 t' tt
 t'a tt aa
 t'aider tt ai dd ei
@@ -93461,6 +93482,7 @@ t'entends tt an tt an
 t'inquiète tt in kk yy ai tt
 t'irait tt ii rr ai
 t'éntendre tt ai nn tt an dd rr
+t(2) tt ei
 t55 tt ei ss in kk an tt ss in kk
 t72 tt ei ss ww aa ss an tt dd ou zz
 ta tt aa
@@ -94631,6 +94653,13 @@ terroriser(2) tt ai rr oo rr ii zz ei rr
 terrorisme tt ai rr oo rr ii ss mm
 terrorisme(2) tt ai rr oo rr ii ss mm ee
 terrorismes tt ai rr au rr ii ss mm
+terrorismes(10) tt ei rr au rr ii ss mm ee
+terrorismes(11) tt ei rr au rr ii ss mm ee zz
+terrorismes(12) tt ei rr au rr ii ss mm zz
+terrorismes(13) tt ei rr oo rr ii ss mm
+terrorismes(14) tt ei rr oo rr ii ss mm ee
+terrorismes(15) tt ei rr oo rr ii ss mm ee zz
+terrorismes(16) tt ei rr oo rr ii ss mm zz
 terrorismes(2) tt ai rr au rr ii ss mm ee
 terrorismes(3) tt ai rr au rr ii ss mm ee zz
 terrorismes(4) tt ai rr au rr ii ss mm zz
@@ -94639,13 +94668,6 @@ terrorismes(6) tt ai rr oo rr ii ss mm ee
 terrorismes(7) tt ai rr oo rr ii ss mm ee zz
 terrorismes(8) tt ai rr oo rr ii ss mm zz
 terrorismes(9) tt ei rr au rr ii ss mm
-terrorismes(10) tt ei rr au rr ii ss mm ee
-terrorismes(11) tt ei rr au rr ii ss mm ee zz
-terrorismes(12) tt ei rr au rr ii ss mm zz
-terrorismes(13) tt ei rr oo rr ii ss mm
-terrorismes(14) tt ei rr oo rr ii ss mm ee
-terrorismes(15) tt ei rr oo rr ii ss mm ee zz
-terrorismes(16) tt ei rr oo rr ii ss mm zz
 terroriste tt ai rr oo rr ii ss tt
 terroriste(2) tt ai rr oo rr ii ss tt ee
 terroristes tt ai rr oo rr ii ss tt
@@ -101613,8 +101635,8 @@ whitman ww ii tt mm aa nn
 whitner ww ii tt nn ai rr
 whitney ww ii tt nn ei
 who ww au
-who(2) ww ou
 who's ww oo
+who(2) ww ou
 whun ww uu nn
 wi vv ii
 wiburg vv ii bb uu rr gg
@@ -101715,8 +101737,8 @@ wolfowitz vv oo ll ff au vv ii tt ss
 wolfsburg vv oo ll ff ss bb uu rr gg
 wolton vv oo ll tt on
 woman ww au mm aa nn
-woman(2) ww oo mm an
 woman's ww oo mm an
+woman(2) ww oo mm an
 women ww au mm ai nn
 won ww oo nn
 wonder vv on dd ai rr
@@ -102751,6 +102773,13 @@ zülle zz uu ll
 échelon ai ch ee ll on
 échelonnent ai ch ee ll oo nn ee
 échelonneront ai ch ee ll oo nn ee rr on
+échelonneront(10) ei ch ee ll oo nn ee rr on tt
+échelonneront(11) ei ch ee ll oo nn rr on
+échelonneront(12) ei ch ee ll oo nn rr on tt
+échelonneront(13) ei ch ll oo nn ee rr on
+échelonneront(14) ei ch ll oo nn ee rr on tt
+échelonneront(15) ei ch ll oo nn rr on
+échelonneront(16) ei ch ll oo nn rr on tt
 échelonneront(2) ai ch ee ll oo nn ee rr on tt
 échelonneront(3) ai ch ee ll oo nn rr on
 échelonneront(4) ai ch ee ll oo nn rr on tt
@@ -102759,13 +102788,6 @@ zülle zz uu ll
 échelonneront(7) ai ch ll oo nn rr on
 échelonneront(8) ai ch ll oo nn rr on tt
 échelonneront(9) ei ch ee ll oo nn ee rr on
-échelonneront(10) ei ch ee ll oo nn ee rr on tt
-échelonneront(11) ei ch ee ll oo nn rr on
-échelonneront(12) ei ch ee ll oo nn rr on tt
-échelonneront(13) ei ch ll oo nn ee rr on
-échelonneront(14) ei ch ll oo nn ee rr on tt
-échelonneront(15) ei ch ll oo nn rr on
-échelonneront(16) ei ch ll oo nn rr on tt
 échelonné ai ch ee ll oo nn ei
 échelons ai ch ee ll on
 échelons(2) ai ch ee ll on zz
@@ -105350,3 +105372,4 @@ zülle zz uu ll
 öcalan au kk aa ll an
 övp au vv ei pp ei
 özkök au zz kk au kk
+œufs eu
