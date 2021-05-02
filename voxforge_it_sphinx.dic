@@ -1,3 +1,6 @@
+1 u1 n o
+2 d u1 e
+3 t r EE
 'così k o s i
 's s
 'troppo t r OO p p o
@@ -461,6 +464,7 @@ ampio a1 m p j o
 amsterdam a m s t EE r d a m
 amò a m OO
 anacardi a n a k a r d i
+ance a n tSS e
 anch'egli a n tSS e1 LL LL i
 anch'io a n tSS o
 anche a1 ng k e
@@ -1306,6 +1310,7 @@ caduco k a d u1 k o
 caduta k a d u1 t a
 caduti k a d u1 t i
 caduto k a d u1 t o
+caff k a f f
 caffelatte k a f f e l a t t e
 caffè k a f f EE
 caffé k a f f e
@@ -3468,6 +3473,7 @@ estimava e s t i m a1 v a
 estimo e s t i1 m o
 estimò e s t i m OO
 estinto e s t i1 n t o
+estiva e s t i v a
 estratti e s t r a1 t t i
 estravaganti e s t r a v a g a1 n t i
 estrema e s t r EE m a
@@ -4183,6 +4189,7 @@ giovare dZZ o v a1 r e
 giove dZZ OO v e
 giovedi dZZ o v e d i
 giovedì dZZ o v e d i
+giovedí dZZ o v e d
 gioventù dZZ o v e n t u1
 giovevole dZZ o v e1 v o l e
 giovine dZZ o1 v i n e
@@ -4419,6 +4426,7 @@ gusci g u SS SS i
 gustare g u s t a1 r e
 gustato g u s t a1 t o
 gusto g u1 s t o
+gìà dZZ a
 ha a1
 haha a
 hai a1 i
@@ -4700,10 +4708,26 @@ inique i n i1 k w e
 iniqui i n i1 k w i
 iniquità i n i k w i t a1
 iniquo i n i1 k w o
+inizare i n i ts a r e
+inizi i n i ts ts i
 inizia i n i ts ts j a
+iniziai i n i ts ts j a i
 iniziale i n i ts ts j a1 l e
+iniziammo i n i ts ts j a m o
+iniziamo i n i ts ts j a m o
 iniziare i n i ts ts j a r e
+iniziaste i n i ts ts j a s t e
+iniziasti i n i ts ts j a s t i
+iniziate i n i ts ts j a t e
 iniziativa i n i ts ts j a t i1 v a
+iniziato i n i ts ts j a t o
+inizierai i n i ts ts j e r a i
+inizieremo i n i ts ts j e r e m o
+inizierete i n i ts ts j e r e t e
+inizierà i n i ts ts j e r a
+inizierò i n i ts ts j e r OO
+inizio i n i ts ts j o
+iniziò i n i ts ts j OO
 innamoramento i n n a m o r a m e1 n t o
 innamorare i n n a m o r a1 r e
 innamorata i n n a m o r a1 t a
@@ -5677,6 +5701,7 @@ mercato m e r k a1 t o
 mercede m e r tSS e1 d e
 mercedes m e r tSS e d e s
 mercoledì m e r k o l e d i
+mercoledí m e r k o l e d
 mercurio m e r k u1 r j o
 mercé m e r tSS e1
 meretrice m e r e t r i1 tSS e
@@ -8781,6 +8806,7 @@ siede s j EE d e
 siena s j EE n a
 sieno s i1 e n o
 siete s j EE t e
+sieti s j EE t i
 sigaretta s i g a r e1 t t a
 significa s i JJ JJ i1 f i k a
 significare s i JJ JJ i f i k a1 r e
@@ -9146,10 +9172,16 @@ stanno s t a1 n n o
 stanotte s t a n OO t t e
 stante s t a1 n t e
 stanza s t a1 n ts a
+starai s t a r a i
+staranno s t a r a n n o
 starbucks s t a r b u k a s
 stare s t a1 r e
+staremo s t a r e m o
+starete s t a r e t e
 starmene s t a r m e1 n e
 startup s t a r t u p
+starà s t a r a
+starò s t a r OO
 stasera s t a s e r a
 stassi s t a1 s s i
 stata s t a1 t a
@@ -9167,6 +9199,7 @@ steak s t EE a
 steakhouse s t EE a o u z e
 stella s t e1 l l a
 stelle s t e1 l l e
+stemmo s t EE m m o
 stende s t EE n d e
 stento s t EE n t o
 stephen s t EE p e n
@@ -9181,10 +9214,16 @@ stessa s t e1 s s a
 stesse s t e1 s s e
 stessi s t e1 s s i
 stesso s t e1 s s o
+steste s t e s t e
+stesti s t e s t i
+stette s t e t t e
+stettero s t e t t e r o
+stetti s t e t t i
 steve s t EE v e
 steven s t e v e n
 stevens s t EE v EE n s
 stia s t i1 a
+stiamo s t j a m o
 stile s t i1 l e
 stille s t i1 l l e
 stiller s t i l l e r
