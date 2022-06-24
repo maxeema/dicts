@@ -696,7 +696,9 @@ agitada a j i t a d a
 aglomeraciones a g l o m e r a z i o n e s
 agobiado a g o b i a d o
 agoniza a g o n i z a
+agonizando a g o n i z a n d o
 agonizante a g o n i z a n t e
+agonía a g o n i a
 agosto a g o s t o
 agotada a g o t a d a
 agotado a g o t a d o
@@ -3151,6 +3153,7 @@ bueyes b u e y e s
 bufete b u f e t e
 bufetes b u f e t e s
 buffalo b u f f a l o
+buitre b u i t r e
 buitres b u i t r e s
 bukavu b u k a b u
 buldón b u l d o n
@@ -5695,6 +5698,7 @@ costará k o s t a r a
 costaría k o s t a r i a
 costas k o s t a s
 coste k o s t e
+costear k o s t e a r
 costera k o s t e r a
 costeras k o s t e r a s
 costo k o s t o
@@ -6813,6 +6817,7 @@ descansar d e s k a n s a r
 descansaron d e s k a n s a r o n
 descanse d e s k a n s e
 descanso d e s k a n s o
+descansos d e s k a n s o s
 descansó d e s k a n s o
 descarapeladas d e s k a r a p e l a d a s
 descarga d e s k a r g a
@@ -6950,6 +6955,7 @@ desertó d e s e r t o
 desespera d e s e s p e r a
 desesperación d e s e s p e r a z i o n
 desesperada d e s e s p e r a d a
+desesperadamente d e s e s p e r a d a m e n t e
 desesperadas d e s e s p e r a d a s
 desesperados d e s e s p e r a d o s
 desesperando d e s e s p e r a n d o
@@ -7227,6 +7233,7 @@ detenidos d e t e n i d o s
 deteniendo d e t e n i e n d o
 detenlo d e t e n l o
 detente d e t e n t e
+detenía d e t e n i a
 deteriora d e t e r i o r a
 deteriorada d e t e r i o r a d a
 deteriorado d e t e r i o r a d o
@@ -7604,6 +7611,9 @@ disidencia d i s i d e n z i a
 disidente d i s i d e n t e
 disidentes d i s i d e n t e s
 disimulo d i s i m u l o
+disipa d i s i p a
+disipará d i s i p a r a
+disipó d i s i p o
 disminución d i s m i n u z i o n
 disminuido d i s m i n u i d o
 disminuir d i s m i n u i r
@@ -8421,6 +8431,7 @@ empresariedad e m p r e s a r i e d a d
 empresario e m p r e s a r i o
 empresarios e m p r e s a r i o s
 empresas e m p r e s a s
+empuja e m p u j a
 empujar e m p u j a r
 empuje e m p u j e
 empujes e m p u j e s
@@ -9038,6 +9049,7 @@ escribirse e s k r i b i r s e
 escribió e s k r i b i o
 escribí e s k r i b i
 escribía e s k r i b i a
+escribían e s k r i b i a n
 escrita e s k r i t a
 escritas e s k r i t a s
 escrito e s k r i t o
@@ -9094,7 +9106,11 @@ esenciales e s e n z i a l e s
 esencias e s e n z i a s
 esfera e s f e r a
 esferas e s f e r a s
+esforzaba e s f o r z a b a
+esforzará e s f o r z a r a
+esforzó e s f o r z o
 esfuercen e s f u e r z e n
+esfuerza e s f u e r z a
 esfuerzo e s f u e r z o
 esfuerzos e s f u e r z o s
 esgrimidas e s g r i m i d a s
@@ -10699,6 +10715,7 @@ gasta g a s t a
 gastado g a s t a d o
 gastamos g a s t a m o s
 gastan g a s t a n
+gastando g a s t a n d o
 gastar g a s t a r
 gastaron g a s t a r o n
 gastarse g a s t a r s e
@@ -10931,6 +10948,7 @@ graduación g r a d u a z i o n
 graduados g r a d u a d o s
 gradual g r a d u a l
 gradualidad g r a d u a l i d a d
+gradualmente g r a d u a l m e n t e
 graduarse g r a d u a r s e
 gradúan g r a d u a n
 graff g r a f f
@@ -11103,6 +11121,7 @@ gurion g u r i o n
 gurría g u rr i a
 gusano g u s a n o
 gusta g u s t a
+gustaba g u s t a b a
 gustado g u s t a d o
 gustan g u s t a n
 gustaria g u s t a r i a
@@ -11256,6 +11275,7 @@ hallazgo a ll a z g o
 halloween a ll o u e e n
 hallé a ll e
 halló a ll o
+hals a l s
 hambre a m b r e
 hambrientos a m b r i e n t o s
 hambruna a m b r u n a
@@ -11408,6 +11428,7 @@ hidráulicas i d r a u l i k a s
 hidráulico i d r a u l i k o
 hidráulicos i d r a u l i k o s
 hielo i e l o
+hiena i e n a
 hierba i e r b a
 hierro i e rr o
 highline i g l i n e
@@ -11479,6 +11500,7 @@ holanda o l a n d a
 holandesa o l a n d e s a
 holandesas o l a n d e s a s
 holandés o l a n d e s
+holgazanería o l g a z a n e r i a
 holguín o l g i n
 holly o ll i
 hollywood o ll i u o o d
@@ -12675,6 +12697,7 @@ invadidas i n b a d i d a s
 invadidos i n b a d i d o s
 invadieron i n b a d i e r o n
 invadirlo i n b a d i r l o
+invadió i n b a d i o
 invalidaron i n b a l i d a r o n
 invariable i n b a r i a b l e
 invariablemente i n b a r i a b l e m e n t e
@@ -15131,6 +15154,7 @@ mueva m u e b a
 muevas m u e b a s
 mueve m u e b e
 mueven m u e b e n
+mueves m u e b e s
 muffins m u f f i n s
 mugen m u j e n
 mujer m u j e r
@@ -16425,6 +16449,7 @@ paquistán p a k i s t a n
 paquito p a k i t o
 par p a r
 para p a r a
+paraba p a r a b a
 paracaidistas p a r a k a i d i s t a s
 parada p a r a d a
 parado p a r a d o
@@ -16687,6 +16712,7 @@ peces p e z e s
 pecho p e ch o
 pechos p e k o s
 peculado p e k u l a d o
+pedalear p e d a l e a r
 pedazo p e d a z o
 pedazos p e d a z o s
 pediatras p e d i a t r a s
@@ -16786,6 +16812,7 @@ pensar p e n s a r
 pensaran p e n s a r a n
 pensaron p e n s a r o n
 pensarse p e n s a r s e
+pensarán p e n s a r a n
 pensaste p e n s a s t e
 pensilvania p e n s i l b a n i a
 pensionados p e n s i o n a d o s
@@ -16868,6 +16895,7 @@ perera p e r e r a
 peres p e r e s
 perestroika p e r e s t r o i k a
 pereza p e r e z a
+perezoso p e r e z o s o
 perfeccionado p e r f e k z i o n a d o
 perfeccionamiento p e r f e k z i o n a m i e n t o
 perfeccionan p e r f e k z i o n a n
@@ -17219,6 +17247,7 @@ planeada p l a n e a d a
 planeado p l a n e a d o
 planeamiento p l a n e a m i e n t o
 planean p l a n e a n
+planeando p l a n e a n d o
 planear p l a n e a r
 planeo p l a n e o
 planes p l a n e s
@@ -17228,6 +17257,7 @@ planetaria p l a n e t a r i a
 planetas p l a n e t a s
 planicies p l a n i z i e s
 planificación p l a n i f i k a z i o n
+planificando p l a n i f i k a n d o
 planificar p l a n i f i k a r
 planifiquen p l a n i f i k e n
 planillas p l a n i ll a s
@@ -19390,6 +19420,7 @@ relacionar rr e l a z i o n a r
 relaciones rr e l a z i o n e s
 relación rr e l a z i o n
 relajar rr e l a j a r
+relajarse rr e l a j a r s e
 relajo rr e l a j o
 relanzamiento rr e l a n z a m i e n t o
 relata rr e l a t a
@@ -19492,6 +19523,7 @@ renunciado rr e n u n z i a d o
 renuncian rr e n u n z i a n
 renunciar rr e n u n z i a r
 renunciaron rr e n u n z i a r o n
+renunciará rr e n u n z i a r a
 renunciaría rr e n u n z i a r i a
 renuncias rr e n u n z i a s
 renunció rr e n u n z i o
@@ -22220,6 +22252,7 @@ testimonios t e s t i m o n i o s
 testículos t e s t i k u l o s
 tesón t e s o n
 tetas t e t a s
+tetería t e t e r i a
 texano t e x a n o
 texas t e x a s
 texcoco t e x k o k o
@@ -22349,6 +22382,7 @@ tolere t o l e r e
 toluca t o l u k a
 tom t o m
 toma t o m a
+tomaba t o m a b a
 tomada t o m a d a
 tomadas t o m a d a s
 tomado t o m a d o
@@ -22723,6 +22757,7 @@ tripulantes t r i p u l a n t e s
 triste t r i s t e
 tristemente t r i s t e m e n t e
 tristes t r i s t e s
+tristeza t r i s t e z a
 tristán t r i s t a n
 trituraron t r i t u r a r o n
 triunfa t r i u n f a
@@ -23708,6 +23743,7 @@ voto b o t o
 votos b o t o s
 voté b o t e
 votó b o t o
+vox b o x
 voy b o i
 voyager b o y a j e r
 voz b o z
