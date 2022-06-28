@@ -274,6 +274,7 @@ abreise Q AH P RR AY Z AX
 abreisen Q AH P RR AY Z AX N
 abrief Q AH P RR IIH F
 abriss Q AH P RR IH S
+abrollen Q AH P RR OO L AX N
 abrüstung Q AH P RR YY S T UU NG
 abs Q AH P S
 absage Q AH P Z AAH G AX
@@ -622,6 +623,7 @@ aggressive Q AH G RR EH S IIH V AX
 aggressivität Q AH G G RR EH S IIH V IIH T EHH T
 agieren Q AH G IIH RR AX N
 agnes Q AH G N AX S
+agonie Q AH G OOH N IIH
 agrarregionen Q AH G RR AAH EX RR EE G Y OOH N AX N
 agrarsektors Q AH G RR AAH EX Z EH K T OO EX S
 ah Q AAH
@@ -1377,6 +1379,7 @@ anstoßende Q AH N SH T OOH S AX N D AX
 anstoßenden Q AH N SH T OOH S AX N D AX N
 anstreben Q AH N SH T RR EEH B AX N
 anstreichen Q AH N SH T RR AY CC AX N
+anstrengen Q AH N SH T RR EH NG AX N
 anstrengend Q AH N SH T RR EH NG AX N T
 anstrengte Q AH N SH T RR EH N G T AX
 anstrengung Q AH N SH T RR EH N UU NG
@@ -5415,6 +5418,7 @@ cnc TS EEH EH N TS EEH
 co K OOH
 co2 TS EEH Q OOH TS V AY
 coach K AH UH CH
+coast K AH S T
 cobain K AX UU B EH IH N
 cobol K AX UU B AA L
 cochère K OO SH EH RR
@@ -5426,6 +5430,8 @@ codename K AO UU D N EH IH M
 codes K AX UU D Z
 codierung K AO D IIH RR UU NG
 cody K AX UU D IY
+coffee K OOH F EEH
+coffeeshop K OO F AX S HH OOH P
 coffre K OOH F RR AX
 cola K VV L AX
 colombiana K AX L AH M B IY AX N AH
@@ -6507,6 +6513,7 @@ durchsetzte D UU RR CC Z EH TS T AX
 durchsetzung D UU EX CC Z EH TS UU NG
 durchsichtig D UU RR CC Z IH CC T IH CC
 durchsichtigen D UU EX CC Z IH CC T IH G AX N
+durchstarten D UU RR CC SH T AH RR T AX N
 durchstreift D UU EX CC S T RR AY F T
 durchstöbere D UU EX CC SH T OHH B AX RR AX
 durchstöbern D UU EX CC SH T OHH B EX N
@@ -6745,6 +6752,7 @@ eifrige Q AY F RR IH G AX
 eifriger Q AY F RR IH G EX
 eigen Q AY G AX N
 eigenart Q AY G AX N Q AH EX T
+eigendynamik Q AY G AX N T YYH N AAH M IH K
 eigene Q AY G AX N AX
 eigenem Q AY G AX N AX M
 eigenen Q AY G AX N AX N
@@ -7811,6 +7819,8 @@ entsetzliches Q EH N TS EH TS L IH CC AX S
 entsetzlichsten Q EH N TS EH TS L IH CC S T AX N
 entsetzt Q EH N T Z EH TS T
 entsorgt Q EH N T Z OO RR K T
+entspannen Q EH N CH P AH N AX N
+entspannt Q EH N CH P AH N T
 entsprach Q EH N CH P RR AAH X
 entsprachen Q EH N CH P RR AAH X AX N
 entsprangen Q EH N CH P RR AH NG AX N
@@ -8966,7 +8976,9 @@ faul F AW L
 faule F AW L AX
 faulen F AW L EH N
 faulenzenden F AW L EH N TS AX N D AX N
+fauler F AW L EX
 faules F AW L AX S
+faulheit F AW L HH AY T
 faun F AW N
 faust F AW S T
 faut F AW T
@@ -9813,6 +9825,7 @@ frequenzen F RR EEH K V EH N TS AX N
 frequenzkanal F RR EEH K V EH N TS K AH N AAH L
 frequenzspektrum F RR EE K V EH N TS SH P EH K T RR UU M
 frequenztechnisch F RR EE K V EH N TS T EH CC N IH SH
+fressen F RR EH S AX N
 freude F RR OY D AX
 freuden F RR OY D AX N
 freudental F RR OY D AX N T AAH L
@@ -9893,6 +9906,7 @@ frischte F RR IH SH T AX
 friseur F RR IIH Z OHH EX
 friseurs F RR IIH Z OI EX S
 frisiert F RR IIH Z IIH EX T
+frisst F RR IH S T
 frist F RR IH S T
 fristgemäß F RR IH S T G AX M EH S
 fristgerecht F RR IH S T G AX RR EH CC T
@@ -10779,7 +10793,9 @@ gehörten G AX HH OHH EX T AX N
 gehörweite G AX HH OHH EX V AY T AX
 gehüllt G AX HH YY L T
 gehütet G AX HH YYH T AX T
+geier G AY EX
 geierklauen G AY EX K L AW AX N
+geiers G AY EX S
 geige G AY G AX
 geiger G AY G EX
 geil G AY L
@@ -11490,6 +11506,8 @@ geschäftsführung G AX SH EH F TS F YYH RR UU NG
 geschäftsgebäude G AX SH EH F TS G AX B OY D AX
 geschäftsgegner G AX SH EH F TS G EEH G N EX
 geschäftsherr G AX SH EH F TS HH EH EX
+geschäftsidee G AX SH EH F TS IIH D EEH
+geschäftsideen G AX SH EH F TS IIH D AX N
 geschäftsjahr G AX SH EH F TS Y AAH EX
 geschäftskunden G AX SH EH F TS K UU N D AX N
 geschäftsmodell G AX SH EH F TS M OOH D EH L
@@ -12693,6 +12711,7 @@ hallen HH AH L AX N
 hallo HH AE L AX UU
 hallte HH AH L T AX
 halm HH AH L M
+hal's HH AH L S
 hals HH AH L S
 halsbinde HH AH L S B IH N D AX
 halse HH AH L Z AX
@@ -13745,6 +13764,7 @@ hinterzugehen HH IH N T EX TS UUH G EEH AX N
 hinunter HH IH N UU N T EX
 hinunterblicken HH IH N Q UU N T EX B L IH K AX N
 hinuntereilten HH IH N UU N T EX Q AY L T AX N
+hinunterfährt HH IH N UU N T EX F EHH EX T
 hinuntergegangen HH IH N UU N T EX G AX G AH NG AX N
 hinuntergehen HH IH N UU N T EX G EEH AX N
 hinuntergetragen HH IH N UU N T EX G AX T RR AAH G AX N
@@ -13754,6 +13774,7 @@ hinunterkommen HH IH N UU N T EX K OO M AX N
 hinunterrollen HH IH N UU N T EX RR OO L AX N
 hinunterrollten HH IH N UU N T EX RR OO L T AX N
 hinunterwagen HH IH N UU N T EX V AAH G AX N
+hinunterzieht HH IH N UU N T EX TS IIH T
 hinunterzugehen HH IH N UU N T EX TS UUH G EEH AX N
 hinunterzuschlucken HH IH N UU N T EX TS UUH SH L UU K AX N
 hinweg HH IH N V EH K
@@ -14107,6 +14128,7 @@ hypothetisch HH UE P AO T EEH T IH SH
 hypothetische HH UE P AO T EEH T IH SH AX
 hypothetischen HH UE P AO T EEH T IH SH AX N
 hysterische Q YY S T EHH RR IH SH AX
+hyäne HH YYH EHH N AX
 hyänen HH YYH EHH N AX N
 häfen HH EHH F AX N
 häkeln HH EHH K AX L N
@@ -14201,6 +14223,7 @@ höhlungen HH OHH L UU NG AX N
 höhnisch HH OHH N IH SH
 höhnte HH OHH N T AX
 hölle HH OE L AX
+höllenqualen HH OE L AX N K V AAH L AX N
 hölzerne HH OE L TS EX N AX
 hör HH OHH EX
 hörbar HH OHH EX B AAH EX
@@ -15039,6 +15062,7 @@ kabinett K AH B IH N EH T
 kacke K AH K AX
 kadaver K AH D AAH V EX
 kaffee K AH F EEH
+kaffeegeschäft K AH F EEH G AX SH EH F T
 kaffeegesellschaften K AH F EEH G AX Z EH L SH AH F T AX N
 kaffeemaschine K AH F EEH M AH SH IIH N AX
 kaffeenapfes K AH F EEH N AH PF AX S
@@ -18581,6 +18605,7 @@ momentan M OOH M EH N T AAH N
 momentane M OOH M EH N T AAH N AX
 momentaufnahme M OOH M EH N T Q AW F N AAH M AX
 momente M OOH M EH N T AX
+momentum M OOH M EH N T UUH M
 mon M AO
 monarchie M OOH N AH EX CC IIH
 monat M OOH N AH T
@@ -18817,7 +18842,9 @@ märzwoche M EH EX TS V OO X AX
 mäuse M OY Z AX
 mäusen M OY Z AX N
 mäßig M EHH S IH CC
+mäßige M EH S IH G AX
 mäßigen M EH S IH G AX N
+mäßiger M EH S IH G EX
 mäßigung M EE S IH G UU NG
 même M EEH M AX
 möbel M OHH B AX L
@@ -20298,6 +20325,7 @@ peace P IIH S
 peacemaker P IIH S M EE IH K EX
 pearl P ER L
 pech P EH CC
+pedale P EE D AAH L
 pedalen P EE D AAH L AX N
 pegel P EE G AX L
 pein P AY N
@@ -22931,6 +22959,7 @@ schmerzenslager SH M EH EX TS AX N S L AAH G EX
 schmerzhaft SH M EH RR TS HH AH F T
 schmerzhaftem SH M EH RR TS HH AH F T AX M
 schmerzhaften SH M EH RR TS HH AH F T AX N
+schmerzhafter SH M EH RR TS HH AH F T EX
 schmerzhaftes SH M EH RR TS HH AH F T AX S
 schmerzlich SH M EH RR TS L IH CC
 schmerzliche SH M EH RR TS L IH CC AX
@@ -23313,6 +23342,7 @@ schwerfällig SH V EEH RR F EH L IH CC
 schwerfällige SH V EEH RR F EH L IH G AX
 schwerfälliger SH V EH EX F EH L IH G EX
 schwerin SH V EH EX RR IIH N
+schwerkraft SH V EH EX K RR AH F T
 schwerlich SH V EH EX L IH CC
 schwermetallen SH V EEH EX M EEH T AH L AX N
 schwermütig SH V EH EX M YY T IH CC
@@ -23790,6 +23820,7 @@ sherlock SH EH RR L OO K
 shining SH AA IH N IH NG
 shire SH AA IH R
 shoot SH UUH T
+shop SH OO P
 shore SH OOOH R
 shorts SH OO R TS
 show SH OO UU
@@ -25698,7 +25729,9 @@ tee T EEH
 teebi T IIH B IH
 teebrett T EEH B RR EH T
 teegeschirr T EEH G AX SH IH RR
+teegeschäft T EEH G AX SH EH F T
 teekanne T EEH K AH N AX
+teeladen T EEH L AAH D AX N
 teemaschine T EEH M AH SH IIH N AX
 teenager T EEH N AAH G EX
 tees T EEH S
@@ -26231,6 +26264,7 @@ treu T RR OY
 treuchtlingen T RR OY CC T L IH NG AX N
 treue T RR OY AX
 treuen T RR OY AX N
+treuer T RR OY EX
 treuhand T RR OY HH AH N T
 treuhandanstalt T RR OY HH AH N T Q AH N SH T AH L T
 treuherzig T RR OY HH EH EX TS IH CC
@@ -26334,6 +26368,7 @@ tryphon T RR YYH F OOH N
 träge T RR EHH G AX
 träger T RR EH G EX
 trägerverein T RR EHH G EX F EH EX Q AY N
+trägheit T RR EH K HH AY T
 trägst T RR EH K S T
 trägt T RR EHH K T
 träne T RR EHH N AX
@@ -26927,6 +26962,7 @@ unermessensten Q UU N Q EH RR M EH S AX N S T AX N
 unermesslich Q UU N EX M AX S L IH CC
 unermessliche Q UU N Q EH RR M EH S L IH CC AX
 unermesslichen Q UU N EX M AX S L IH CC AX N
+unermüdlich Q UU N Q EH RR M YYH T L IH CC
 unermüdliche Q UU N Q EH RR M YYH T L IH CC AX
 unerquicklichen Q UU N Q EH RR K V IH K L IH CC AX N
 unerreichbar Q UU N Q EH EX RR AY CC B AAH EX
@@ -27885,12 +27921,15 @@ verflacht F EH EX F L AH X T
 verflattern F EH EX F L AH T EX N
 verflatterten F EH EX F L AH T EX T AX N
 verflixte F EH EX F L IH K S T AX
+verflog F EH EX F L OOH K
 verflogen F EH EX F L OOH G AX N
 verflossen F EH EX F L OO S AX N
 verflucht F EH EX F L UU X T
 verfluchte F EH EX F L UUH X T AX
 verfluchter F EH EX F L UUH X T EX
 verfluchtes F EH EX F L UUH X T AX S
+verflüchtigt F EH EX F L YY CC T IH CC T
+verflüchtigte F EH EX F L YY CC T IH CC T AX
 verfolge F EH RR F OO L G AX
 verfolgen F EH EX F OO L G AX N
 verfolgenden F EH EX F OO L G AX N D AX N
@@ -28347,6 +28386,7 @@ verpflichtungsklage F EH EX PF L IH CC T UU NG S K L AAH G AX
 verplauderte F EH EX P L AW D EX T AX
 verprozessieren F EH EX P RR OO TS AX S IIH RR AX N
 verpuffen F EH EX P UU F AX N
+verpuffte F EH EX P UU F T AX
 verpönten F EH EX P OHH N T AX N
 verrammelt F EH EX RR AH M AX L T
 verrat F EH EX RR AAH T
@@ -31421,6 +31461,7 @@ zurückkommt TS UUH RR YY K K OO M T
 zurücklasse TS UU RR YY K L AH S AX
 zurücklassen TS UUH RR YY K L AH S AX N
 zurücklegte TS UUH RR YY K L EEH K T AX
+zurücklehnen TS UU RR YY K L EEH N AX N
 zurücklehnte TS UU RR YY K L EEH N T AX
 zurückliegenden TS UUH RR YY K L IIH G AX N D AX N
 zurückließ TS UU RR YY K L IIH S

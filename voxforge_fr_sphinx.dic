@@ -1,6 +1,3 @@
-1 un
-2 dd eu
-3 tt rr ww aa
 'aider ai dd ei
 'appelle aa pp ai ll
 -ce ss
@@ -55,6 +52,9 @@
 -vous(2) vv ou zz
 -y ii
 -y(2) zz ii
+1 un
+2 dd eu
+3 tt rr ww aa
 a aa
 a1 aa un
 a10 aa dd ii ss
@@ -2378,6 +2378,7 @@ agnostiques(3) aa gg nn oo ss tt ii kk ee zz
 agnostiques(4) aa gg nn oo ss tt ii kk zz
 agnès aa nn yy ai ss
 agonie aa gg oo nn ii
+agonisaient aa gg oo nn ii zz ai tt
 agonisait aa gg oo nn ii zz ai
 agonisait(2) aa gg oo nn ii zz ai tt
 agonisant aa gg oo nn ii zz an
@@ -8918,6 +8919,7 @@ award aa vv aa rr dd
 awards aa ww aa rr dd zz
 away oe ww ai
 awb aa dd ou bb ll vv ei bb ei
+awe aa ww
 awsat aa ww ss aa tt
 ax aa kk ss
 axa aa kk ss aa
@@ -25353,6 +25355,7 @@ d'autres dd au tt rr ee
 d'autriche dd au tt rr ii ch
 d'aventure dd aa vv an tt uu rr
 d'eau dd au
+d'effort dd ai ff oo rr
 d'embauche dd an bb au ch
 d'emblée dd an bb ll ei
 d'enfants dd an ff an
@@ -25363,6 +25366,7 @@ d'espagne dd ai ss pp aa gn
 d'espresso dd ai ss pp rr ai ss au
 d'excellentes dd ai kk ss ai ll an tt ee
 d'habitude dd aa bb ii tt uu dd
+d'heures dd oe rr ee
 d'horreur dd oo rr oe rr
 d'huile dd uy ii yy
 d'initiative dd ii nn ii ss yy aa tt ii vv
@@ -26304,6 +26308,7 @@ descendent dd ai ss an dd ee
 descendra dd ai ss an dd rr aa
 descendre dd ai ss an dd rr
 descendre(2) dd ai ss an dd rr ee
+descends dd ai ss an zz
 descendu dd ai ss an dd uu
 descendue dd ai ss an dd uu
 descendues dd ai ss an dd uu
@@ -31416,6 +31421,7 @@ dépendu dd ai pp an dd uu
 dépendu(2) dd ei pp an dd uu
 dépens dd ai pp an
 dépens(2) dd ai pp an zz
+dépensant dd ai pp an ss an tt
 dépense dd ai pp an ss
 dépense(2) dd ai pp an ss ee
 dépensent dd ai pp an ss ee
@@ -35768,6 +35774,7 @@ et_puis ei pp uy ii
 eta ei tt aa
 eta(2) eu tt ei aa
 etaient ei tt ai tt
+etait ei tt ai
 etam ei tt aa mm
 etampes ei tt oo mm pp
 etc ei tt ss ei tt ei rr aa
@@ -44810,6 +44817,7 @@ hallucinée aa ll uu ss ii nn ei
 hallyday aa ll ii dd ei
 halo aa ll au
 halphen aa ll ff ai nn
+hals aa ll
 halte aa ll tt
 halte(2) aa ll tt ee
 halter aa ll tt ai rr
@@ -46631,6 +46639,7 @@ hystérique ii ss tt ei rr ii kk
 hystériques ii ss tt ei rr ii kk
 hyun yy un
 hyundai yy ou nn dd aa yy
+hyène yy ai nn
 hyères yy ai rr
 hyères(2) yy ai rr ee
 hzds aa ch zz ai dd dd ei ai ss
@@ -54194,6 +54203,7 @@ l' ll
 l'_autre ll au tt rr
 l'_un ll un
 l'_une ll uu nn
+l'a ll aa
 l'acheter ll aa ch ee tt ei
 l'acteur ll aa kk tt oe rr
 l'actrice ll aa kk tt rr ii ss
@@ -54201,6 +54211,7 @@ l'actu ll aa kk tt uu
 l'actualité ll aa kk tt uu aa ll ii tt ei
 l'addition ll aa dd ii ss yy on
 l'adorer ll aa dd oo rr ei
+l'agonie ll aa gg oo nn ii
 l'ai ll ai
 l'aide ll ai dd
 l'aime ll ai mm
@@ -54278,7 +54289,9 @@ l'Étudiant ll ei tt uu dd yy an
 l'Événement ll ei vv ei nn ee mm an
 l'école ll ei kk oo ll
 l'écran ll ei kk rr an
+l'élan ll ei ll an
 l'élève ll ei ll ai vv
+l'énergie ll ei nn ai rr jj ii
 l'épicerie ll ei pp ii ss rr ii
 l'équipe ll ei kk ii pp
 l'étagère ll ei tt aa jj ai rr
@@ -64033,6 +64046,7 @@ n'_importe nn in pp oo rr tt
 n'_importe_quoi nn in pp oo rr tt ee kk ww aa
 n'a nn aa
 n'ai nn ai
+n'aimait nn ai mm ai
 n'aime nn ai mm
 n'arrive nn aa rr ii vv
 n'as nn aa
@@ -64056,6 +64070,7 @@ n'tamack nn tt aa mm aa kk
 n'tamack(2) ai nn tt aa mm aa kk
 n'y nn ii
 n'écrit nn ei kk rr ii
+n'était nn ei tt ai
 n12 ai nn dd ou zz
 na nn aa
 nabatiyé nn aa bb aa tt ii yy ei
@@ -77071,6 +77086,7 @@ pédagogues(3) pp ai dd aa gg oo gg ee zz
 pédagogues(4) pp ai dd aa gg oo gg zz
 pédale pp ai dd aa ll
 pédale(2) pp ai dd aa ll ee
+pédaler pp ai dd aa ll ei
 pédales pp ai dd aa ll
 pédales(2) pp ai dd aa ll ee
 pédales(3) pp ai dd aa ll ee zz
@@ -77509,6 +77525,7 @@ qu'ils kk ii ll
 qu'is kk ii ss
 qu'on kk on
 qu'ont kk on
+qu'un kk un
 qu(2) kk uu uu
 qua kk aa
 quad kk aa
@@ -83532,6 +83549,7 @@ roulements(2) rr ou ll ee mm an zz
 roulent rr ou ll ee
 rouler rr ou ll ei
 rouler(2) rr ou ll ei rr
+roules rr ou ll ee zz
 roulet rr ou ll ai
 roulette rr ou ll ai tt
 roulette(2) rr ou ll ai tt ee
@@ -85861,7 +85879,10 @@ s ai ss
 s' ss
 s'appelle ss aa pp ai ll
 s'appellent ss aa pp ai ll ee
+s'arrêtait ss aa rr ai tt ai
+s'arrêter ss aa rr ai tt ei
 s'entend ss an tt an
+s'est ss ai ss tt
 s'il ss ii ll
 sa ai ss aa
 sa(2) ss aa
@@ -99125,6 +99146,7 @@ vaurien vv oo rr yy in
 vaut vv au
 vaut(2) vv au tt
 vautier vv au tt yy ei
+vautour vv oo tt ou rr
 vautours vv oo tt ou rr
 vautours(2) vv oo tt ou rr zz
 vautrin vv au tt rr in
